@@ -30,15 +30,15 @@
 3. 1./2. will get number of shares you can trade
 
 ### General
-- *Trading psychology* - stop loss and risk management is very very important, control your emotions
-- *Long* - buy, *Short* - sell
-- *Retail traders* - regular traders, *Institutional traders* - algorithm based / high frequency trading
-- *Float* - is the number of shares in the company, the more float, the market grows.
+- **Trading psychology** - stop loss and risk management is very very important, control your emotions
+- **Long** - buy, **Short** - sell
+- **Retail traders** - regular traders, **Institutional traders** - algorithm based / high frequency trading
+- **Float** - is the number of shares in the company, the more float, the market grows.
 
 ### Technical Reminder
-- *Level 2* provides the spread of ask and bid, use limit order
-- *limit, stop loss, market* are at price, below price, and current price respectively.
-- Platforms usually have actionable *hotkeys*.
+- **Level 2** provides the spread of ask and bid, use limit order
+- **limit, stop loss, market** are at price, below price, and current price respectively.
+- Platforms usually have actionable **hotkeys**.
 
 ### Float and Market Cap
 - Day trader prefer *low float* with *large volume* since volume changes quickly.

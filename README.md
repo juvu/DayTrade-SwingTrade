@@ -56,7 +56,7 @@
     | Medium float | $10 - $100 | vwap + Sup/Res
     | Large float | $20+ | MovAvg + Reversal
 
-### Pre-market Gappers
+## Pre-market Gappers
 - Stocks gapped up 2% pre-market
 - At least 50000 shares in pre-market
 - Average daily Volume of > 500000
@@ -122,7 +122,11 @@ Major price level can become support/resistance levels, prices usually have more
 > *  Sup/res are usually an area, not a price point, be conservative.
 > * Only prices that show a clear sup/res and stand out to you are important.
 > * Price levels can be drawn on the wick edge of a longer timeframe in a candlestick, where as for swing trading, the more bars it cross the better.
-
+#### How to Trade Major Price Levels
+1. Look at the watchlist of the day, find areas with major price levels.
+2. If an indecision candle forms around a major price point in a 5 minute chart, buy it as close to the price level as possible. Set a stop loss tightly under the price level.
+3. Keep profit near next price level or when it consolidates.
+4. Sell half of the position on the way up and move the stop loss up for a break even.
 ---
 ### Red-to-Green Trading
 ### Open range breakouts

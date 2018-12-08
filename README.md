@@ -1,6 +1,8 @@
 
 
+
 # Day Trading
+
 ## Fundamental Catalysts
 - Earnings (reports, warning/announcements, surprises)
 - FDA approval/disapproval
@@ -42,7 +44,6 @@
 - **Limit, stop loss, market** are at price, below price, and current price respectively.
 - Platforms usually have actionable **hotkeys**.
 - **Average-up approach** is a method used by experience traders to lower the risk
-- **Whole or half prices** in low float penny stocks are usually support or resistance price levels.
 
 ## Float and Market Cap
 - Day trader prefer **low float** with **large volume** since volume changes quickly.
@@ -77,35 +78,51 @@
 - **ShootingStar** candlesticks are bullish with small top and body, and a long bottom wick
 
 ## Strategies
+
 ### ABCD Pattern
 After a bullish move to hit the high of the day, the prices consolidates with very small movements. This is a good setup for ABCD pattern.
 1. Observe for any stock moving up to a new high of the day and consolidate with support just below that high
 2. See if it hold above a support just below that point, if it is, buy in close to that support
 3. When it hits the day high, sell half of the position to break even, and bring up the stop loss
 4. Sell when the price starts consolidates or at resistance
-
+---
 ### Bull Flag Momentum
 After a bullish move to hit the high of the day, the prices consolidates with a somewhat small movement. This is a good setup for ABCD pattern.
 1. Observe for any stock moving up to a new high of the day and consolidate.
 2. When the price goes above the day's high, buy in
 3. Sell half the position on the way up, set stop loss at entry point to break even
 4. Sell all shares when consolidate or at resistance
-
+---
 ### Reverse Trading
 Stock sells off aggressively and non-stop causing it to be over extended. This is a good set up for taking advantage of the reverse.
 1. Find a stock with at least 5 red/green candle on the 5-min chart
 2. RSI indicator is overbought/oversold ([<10] or [>90])
 3. The price level is at a major sup/res level, when there's a indecision candle, get ready to buy in
-
+---
 ### Moving Average Trend Trading
 Stock is rejecting the moving average line constantly confirming a uptrend, this is a good setup for the Moving Average Trend.
 1. Watch stock in play, see if in the previous day the stock trend is established around moving average
 2. Buy in after confirming the bounce on the EMA line
 3. Sell the shares once the candlestick closes below the EMA by a threshold or if the stock moves very far away from the EMA, then sell half of the position, then buy in again once it bounces off the EMA line again
-
+---
 ### VWAP Trading
 Institutional traders who can not buy in all at once due to a large number of shares will buy near the VWAP to ensure they are getting good deals, this is a good set up for buying VWAP bounces.
-1. 
+1. Monitor the watchlist for the day during stock opening, wait and verify that the prices reacts to the VWAP.
+2. Buy near the VWAP support, stop loss when close break below the VWAP in a 5 minute candle
+3. Sell half of the position at major price levels, and move up the break even point.
+---
 ### Support and Resistance Trading
+Major price level can become support/resistance levels, prices usually have more tendency to react to those price levels.
+#### Major price levels
+> * Sometimes indecision candles can confirm major price level
+> * Whole or half dollars in low float penny stocks can act as support or resistance price levels.
+> * Recent data usually are more important.
+> * The more lines reacting to a price level, the more important it is.
+> * Only price ranges that are close to the current price are important, it's unlikely for prices to ?change to a price region far away.
+> *  Sup/res are usually an area, not a price point, be conservative.
+> * Only prices that show a clear sup/res and stand out to you are important.
+> * Price levels can be drawn on the wick edge of a longer timeframe in a candlestick, where as for swing trading, the more bars it cross the better.
+
+---
 ### Red-to-Green Trading
 ### Open range breakouts

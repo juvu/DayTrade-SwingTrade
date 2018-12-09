@@ -1,6 +1,7 @@
 
 
 
+
 # Day Trading
 
 ## Fundamental Catalysts
@@ -115,18 +116,25 @@ Institutional traders who can not buy in all at once due to a large number of sh
 Major price level can become support/resistance levels, prices usually have more tendency to react to those price levels.
 #### Major price levels
 > * Sometimes indecision candles can confirm major price level
+> * Previous day's close would be a important price level
 > * Whole or half dollars in low float penny stocks can act as support or resistance price levels.
 > * Recent data usually are more important.
 > * The more lines reacting to a price level, the more important it is.
 > * Only price ranges that are close to the current price are important, it's unlikely for prices to ?change to a price region far away.
 > *  Sup/res are usually an area, not a price point, be conservative.
 > * Only prices that show a clear sup/res and stand out to you are important.
-> * Price levels can be drawn on the wick edge of a longer timeframe in a candlestick, where as for swing trading, the more bars it cross the better.
+> * Price levels can be drawn on the wick edge of a longer time frame in a candlestick, where as for swing trading, the more bars it cross the better.
 #### How to Trade Major Price Levels
-1. Look at the watchlist of the day, find areas with major price levels.
+1. Look at the watch list of the day, find areas with major price levels.
 2. If an indecision candle forms around a major price point in a 5 minute chart, buy it as close to the price level as possible. Set a stop loss tightly under the price level.
-3. Keep profit near next price level or when it consolidates.
-4. Sell half of the position on the way up and move the stop loss up for a break even.
----
+3. Sell half of the position before reaching the next price level and move the stop loss to the entry price for a break even.
+
 ### Red-to-Green Trading
+Sometimes closing price will act as a strong support/resistance, prices have tendency to react to those price levels.
+1. Look at the watch list of the day, monitor the price range around the previous close price.
+2. If stock shows considerably large volume moving towards previous close price, this may be a potential Red-to-Green setup.
+3. Use in combination with an additional technical analysis, set the stop loss according to the pattern.
+4. As prices move towards the close price, increase the stop loss gradually(at least to a break even point).
+5. When the price reaches near the previous close, sell all the shares.
+---
 ### Open range breakouts

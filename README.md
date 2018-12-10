@@ -129,7 +129,7 @@ Major price level can become support/resistance levels, prices usually have more
 1. Look at the watch list of the day, find areas with major price levels.
 2. If an indecision candle forms around a major price point in a 5 minute chart, buy it as close to the price level as possible. Set a stop loss tightly under the price level.
 3. Sell half of the position before reaching the next price level and move the stop loss to the entry price for a break even.
-
+---
 ### Red-to-Green Trading
 Sometimes closing price will act as a strong support/resistance, prices have tendency to react to those price levels.
 1. Look at the watch list of the day, monitor the price range around the previous close price.
@@ -139,7 +139,13 @@ Sometimes closing price will act as a strong support/resistance, prices have ten
 5. When the price reaches near the previous close, sell all the shares.
 ---
 ### Open range breakouts
+In the stock opening, prices are usually more volatile than usual. If we see that the price range in the openning is relitively low compared to the ATR, then we may have a potential setup for mid/large market caps.
 1. Monitor the watch list of the day for stocks in play, identify its open range, and level 2 to see liquidity.
 2. The open range must be significantly smaller than the stock's ATR.
 3. If the stock is breaking the open range in upward direction, buy in.
 4. Profit target will be at next important price level or when the push shows signs of weakness
+
+## Strategies That Are More Effective Based on Time of Day
+* **1.5 hour into opening** Bull Flag Momentum, VWAP
+* **Mid-Day** Reversal, VWAP, Moving Average, Sup/Res
+* **Close** VWAP, Support/Res, Moving Average

@@ -2,6 +2,7 @@
 
 
 
+
 # Day Trading
 
 ## Fundamental Catalysts
@@ -138,3 +139,7 @@ Sometimes closing price will act as a strong support/resistance, prices have ten
 5. When the price reaches near the previous close, sell all the shares.
 ---
 ### Open range breakouts
+1. Monitor the watch list of the day for stocks in play, identify its open range, and level 2 to see liquidity.
+2. The open range must be significantly smaller than the stock's ATR.
+3. If the stock is breaking the open range in upward direction, buy in.
+4. Profit target will be at next important price level or when the push shows signs of weakness

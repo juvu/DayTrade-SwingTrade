@@ -138,7 +138,7 @@ Sometimes closing price will act as a strong support/resistance, prices have ten
 4. As prices move towards the close price, increase the stop loss gradually(at least to a break even point).
 5. When the price reaches near the previous close, sell all the shares.
 ---
-### Open range breakouts
+### Open Range Breakouts
 In the stock opening, prices are usually more volatile than usual. If we see that the price range in the openning is relitively low compared to the ATR, then we may have a potential setup for mid/large market caps.
 1. Monitor the watch list of the day for stocks in play, identify its open range, and level 2 to see liquidity.
 2. The open range must be significantly smaller than the stock's ATR.

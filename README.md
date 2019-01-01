@@ -3,7 +3,7 @@
 
 
 
-# Day Trading
+# How To Day Trade for a Living
 
 ## Fundamental Catalysts
 - Earnings (reports, warning/announcements, surprises)

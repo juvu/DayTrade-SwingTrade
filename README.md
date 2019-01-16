@@ -4,17 +4,6 @@ How to Day Trade for a Living
 ---
 ### Chapter 7: Most important day trade strategies
 
-#### Position sizing
-```buy_set_stop_loss(1/2)
-if in_favor():
-	buy(1/2)
-if wait_for_target(x1):
-	sell(1/2)
-	set_stop_loss_break_even()
-if wait_for_target(x2):
-	sell(1/4)
-```
-
 #### ABCD:
 1. Scan or identify for stock surging up quickly hitting high of day, wait for consolidation
 2. As it forms a support in the consolidation period, enter close to with stop loss at bottom of consolidation
@@ -31,6 +20,7 @@ if wait_for_target(x2):
 #### Reversal Trading:
 - Hedge fund or institutional trader started selling large shares to the market
 - Catalyst/Bad news
+
 *Entry requirement:*
 - At least 5 5m consecutive candles
 - RSI <10 or >90
@@ -39,6 +29,7 @@ if wait_for_target(x2):
 - At low of day
 - First 5m candle making a new high
 - High volume
+
 *Exit indicators:*
 - Stop loss at low of day or previous candle's low
 - Next level of support, vwap, MovAvgs
@@ -47,6 +38,7 @@ if wait_for_target(x2):
 #### MovAvg Trend:
 1. See if stock is reacting well with MovAvgs
 2. Buy close to MovAvg, set a stop loss just below the MovAvg
+
 *Exit indicators:*
 - Exit with all shares when a candle closes below the MovAvg or stopped out below MovAvg
 - Take profit some when price is far off from MovAvg, buy back when it's close to the MovAvg.
@@ -54,6 +46,7 @@ if wait_for_target(x2):
 #### VWAP Strategy:
 1. See if price reacts well with VWAP 
 2. Buy close to VWAP to reduce risk
+
 *Exit indicators:*
 - Exit with all shares when a candle closes below the VWAP or stopped out just a bit below VWAP
 - Sell 1/2 pos at major sup/res with stop loss adjusted to break even
@@ -66,6 +59,7 @@ if wait_for_target(x2):
 - The more times it's being tested, the stronger it is
 - The more extreme, the stronger it is
 - Wicks for candlesticks in a longer duration candle can be sup/res in a smaller duration(i.e. end of wick of 15m candle can be sup in 1m candles)
+
 1. In pre-market, layout all the sup/res
 2. If there's a 5m indecision candle at major sup/res, buy close to that area with a stop loss below it
 3. Take part profit at next sup/res, move stop loss to break even
@@ -87,6 +81,22 @@ if wait_for_target(x2):
 - BullFlag and VWAP is suitable from 9:30-11:00
 - Reversal, VWAP, MovAvg, Sup/Res in mid day
 - VWAP, Sup/Res, MovAvg for close
+
+
+#### Position sizing
+```
+buy_set_stop_loss(1/2)
+
+if in_favor():
+	buy(1/2)
+
+if wait_for_target(x1):
+	sell(1/2)
+	set_stop_loss_break_even()
+
+if wait_for_target(x2):
+	sell(1/4)
+```
 
 ---
 

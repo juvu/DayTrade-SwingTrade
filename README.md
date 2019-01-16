@@ -147,15 +147,15 @@ Risk Management:
 2. Determine the risk
 3. (1)/(2) = number of shares allowed to trade
 
-Generally can not sell stock < $10
+Generally can not short stock < $10
 
 Pre-Market Gappers requirements:
-1. gapped at least 2%
-2. traded 50000 at least in pre-market
-3. volume of at least 500000
+1. Gapped at least 2%
+2. Traded 50000 at least in pre-market
+3. Volume of at least 500000
 4. ATR of 50 cents
-5. catalyst
-6. don't trade stocks with short interest of >30%
+5. Catalyst
+6. Don't trade stocks with short interest of >30%
 
 | Market | Price | Strategy |
 |-|:-:|:-:|

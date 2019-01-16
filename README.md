@@ -31,8 +31,7 @@ How to Day Trade for a Living
 #### Reversal Trading:
 - Hedge fund or institutional trader started selling large shares to the market
 - Catalyst/Bad news
-
-Entry requirement:
+*Entry requirement:*
 - At least 5 5m consecutive candles
 - RSI <10 or >90
 - Idealy at major sup/res
@@ -40,8 +39,7 @@ Entry requirement:
 - At low of day
 - First 5m candle making a new high
 - High volume
-
-Exit indicators:
+*Exit indicators:*
 - Stop loss at low of day or previous candle's low
 - Next level of support, vwap, MovAvgs
 - New 5m low
@@ -49,14 +47,14 @@ Exit indicators:
 #### MovAvg Trend:
 1. See if stock is reacting well with MovAvgs
 2. Buy close to MovAvg, set a stop loss just below the MovAvg
-	Exit indicators:
+*Exit indicators:*
 - Exit with all shares when a candle closes below the MovAvg or stopped out below MovAvg
 - Take profit some when price is far off from MovAvg, buy back when it's close to the MovAvg.
 
 #### VWAP Strategy:
 1. See if price reacts well with VWAP 
 2. Buy close to VWAP to reduce risk
-Exit indicators:
+*Exit indicators:*
 - Exit with all shares when a candle closes below the VWAP or stopped out just a bit below VWAP
 - Sell 1/2 pos at major sup/res with stop loss adjusted to break even
 

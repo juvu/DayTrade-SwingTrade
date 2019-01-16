@@ -1,151 +1,176 @@
-
-
-
-
-
-# How To Day Trade for a Living
-
-## Fundamental Catalysts
-- Earnings (reports, warning/announcements, surprises)
-- FDA approval/disapproval
-- Mergers/Acquisitions
-- Alliance/Partnerships/Major product releases
-- Stock splits, buybacks, debt offerings
-
-## Finding Stocks in Play
-- A stock with fresh news
-- A stock that moved more than 2% before market open
-- A stock with higher than above volume compared to regular days
-- A stock that developed important intraday price levels which we can perform analysis on
-
-## Rules
-1. Can not get rich quickly
-2. Treat it seriously
-3. Don't hold a position overnight
-4. Moving because of catalyst or following market
-5. Risk management, trade with profit loss ratio of 2:1 or more
-6. The most important aspect to day trading is risk management
-7. Retail traders trade stocks in play, the one with higher relative volume,
-	and with a strong fundamental catalyst that does not follow the overall market that day.
-8. Professional traders don't overtrade(2/3 trades per day)
-9. Green/red candle sticks, both visualizing open close prices.
-
-## 3 step risk management
-1. Don't risk more than 2% of your account
-2. Calculate the risk to set stop loss
-3. 1./2. will get number of shares you can trade
-
-## General
-- **Trading psychology** - stop loss and risk management is very very important, control your emotions
-- **Long** - buy, **Short** - sell
-- **Retail traders** - regular traders, **Institutional traders** - algorithm based / high frequency trading
-- **Float** - is the number of shares in the company, the more float, the market grows.
-
-## Technical Reminder
-- **Level 2** provides the spread of ask and bid, use limit order
-- **Limit, stop loss, market** are at price, below price, and current price respectively.
-- Platforms usually have actionable **hotkeys**.
-- **Average-up approach** is a method used by experience traders to lower the risk
-
-## Float and Market Cap
-- Day trader prefer **low float** with **large volume** since volume changes quickly.
-- Market Cap are categorized by the number of floats, for instance, small cap, micro cap, mega cap etc...
-- *Stock price under $10 are highly manipulated manipulated and hard to trade*
-
-    | Market | Price | Strategy |
-    |-|:-:|:-:|
-    | Low float | <$10 | long
-    | Medium float | $10 - $100 | vwap + Sup/Res
-    | Large float | $20+ | MovAvg + Reversal
-
-## Pre-market Gappers
-- Stocks gapped up 2% pre-market
-- At least 50000 shares in pre-market
-- Average daily Volume of > 500000
-- Has ATR(Average True Range) of 50 cents
-- Has fundamental catalyst
-- Don't trade stocks with enormous short interest (>30%)
-
-## Indicators on Charts
-- Candlestick chart
-- Volume
-- 15 EMA [or 9+20 EMA]
-- 180 SMA [or 50 + 200 EMA]
-- VWAP
-- Close price of previous day, open price for pre-market
-
-## Reversal/Indecisive CandleStick Patterns
-- **Indecisive** candlesticks usually has small or no body with long wicks
-- **Hammer** candlesticks are bearish with small body and bottom wick, and a long top wick
-- **ShootingStar** candlesticks are bullish with small top and body, and a long bottom wick
-
-## Strategies
-
-### ABCD Pattern
-After a bullish move to hit the high of the day, the prices consolidates with very small movements. This is a good setup for ABCD pattern.
-1. Observe for any stock moving up to a new high of the day and consolidate with support just below that high
-2. See if it hold above a support just below that point, if it is, buy in close to that support
-3. When it hits the day high, sell half of the position to break even, and bring up the stop loss
-4. Sell when the price starts consolidates or at resistance
+How to Day Trade for a Living
 ---
-### Bull Flag Momentum
-After a bullish move to hit the high of the day, the prices consolidates with a somewhat small movement. This is a good setup for ABCD pattern.
-1. Observe for any stock moving up to a new high of the day and consolidate.
-2. When the price goes above the day's high, buy in
-3. Sell half the position on the way up, set stop loss at entry point to break even
-4. Sell all shares when consolidate or at resistance
----
-### Reverse Trading
-Stock sells off aggressively and non-stop causing it to be over extended. This is a good set up for taking advantage of the reverse.
-1. Find a stock with at least 5 red/green candle on the 5-min chart
-2. RSI indicator is overbought/oversold ([<10] or [>90])
-3. The price level is at a major sup/res level, when there's a indecision candle, get ready to buy in
----
-### Moving Average Trend Trading
-Stock is rejecting the moving average line constantly confirming a uptrend, this is a good setup for the Moving Average Trend.
-1. Watch stock in play, see if in the previous day the stock trend is established around moving average
-2. Buy in after confirming the bounce on the EMA line
-3. Sell the shares once the candlestick closes below the EMA by a threshold or if the stock moves very far away from the EMA, then sell half of the position, then buy in again once it bounces off the EMA line again
----
-### VWAP Trading
-Institutional traders who can not buy in all at once due to a large number of shares will buy near the VWAP to ensure they are getting good deals, this is a good set up for buying VWAP bounces.
-1. Monitor the watchlist for the day during stock opening, wait and verify that the prices reacts to the VWAP.
-2. Buy near the VWAP support, stop loss when close break below the VWAP in a 5 minute candle
-3. Sell half of the position at major price levels, and move up the break even point.
----
-### Support and Resistance Trading
-Major price level can become support/resistance levels, prices usually have more tendency to react to those price levels.
-#### Major price levels
-> * Sometimes indecision candles can confirm major price level
-> * Previous day's close would be a important price level
-> * Whole or half dollars in low float penny stocks can act as support or resistance price levels.
-> * Recent data usually are more important.
-> * The more lines reacting to a price level, the more important it is.
-> * Only price ranges that are close to the current price are important, it's unlikely for prices to ?change to a price region far away.
-> *  Sup/res are usually an area, not a price point, be conservative.
-> * Only prices that show a clear sup/res and stand out to you are important.
-> * Price levels can be drawn on the wick edge of a longer time frame in a candlestick, where as for swing trading, the more bars it cross the better.
-#### How to Trade Major Price Levels
-1. Look at the watch list of the day, find areas with major price levels.
-2. If an indecision candle forms around a major price point in a 5 minute chart, buy it as close to the price level as possible. Set a stop loss tightly under the price level.
-3. Sell half of the position before reaching the next price level and move the stop loss to the entry price for a break even.
----
-### Red-to-Green Trading
-Sometimes closing price will act as a strong support/resistance, prices have tendency to react to those price levels.
-1. Look at the watch list of the day, monitor the price range around the previous close price.
-2. If stock shows considerably large volume moving towards previous close price, this may be a potential Red-to-Green setup.
-3. Use in combination with an additional technical analysis, set the stop loss according to the pattern.
-4. As prices move towards the close price, increase the stop loss gradually(at least to a break even point).
-5. When the price reaches near the previous close, sell all the shares.
----
-### Open Range Breakouts
-In the stock opening, prices are usually more volatile than usual. If we see that the price range in the openning is relitively low compared to the ATR, then we may have a potential setup for mid/large market caps.
-1. Monitor the watch list of the day for stocks in play, identify its open range, and level 2 to see liquidity.
-2. The open range must be significantly smaller than the stock's ATR.
-3. If the stock is breaking the open range in upward direction, buy in.
-4. Profit target will be at next important price level or when the push shows signs of weakness
+Chapter 7: Most important day trade strategies
 
-## Strategies That Are More Effective Based on Time of Day
-* **1.5 hour into opening** Bull Flag Momentum, VWAP
-* **Mid-Day** Reversal, VWAP, Moving Average, Sup/Res
-* **Close** VWAP, Support/Res, Moving Average
+Position sizing:
+	buy_set_stop_loss(1/2)
+	if in_favor():
+		buy(1/2)
+		if wait_for_target(x1):
+			sell(1/2)
+			set_stop_loss_break_even()
+		if wait_for_target(x2):
+			sell(1/4)
+
+ABCD:
+	1. Scan or identify for stock surging up quickly hitting high of day, wait for consolidation
+	2. As it forms a support in the consolidation period, enter close to with stop loss at bottom of consolidation
+	3. Take profit on the way up, set stop loss to break even
+	4. Sell the rest at price target or when price buyer starting to lose strength
+
+BullFlag Momentum:
+	- Effective on stocks under $10 with low float
+	1. Scan or identify for stock surging up quickly hitting high of day, wait for consolidation
+	2. Enter when price move above consolidation period, stop loss placed at low of consolidation period
+	3. Take profit on the way up, adjust stop loss to break even
+	4. Sell the rest at price target or when price buyer starting to lose strength
+
+Reversal Trading:
+	- Hedge fund or institutional trader started selling large shares to the market
+	- Catalyst/Bad news
+	Entry requirement:
+		- At least 5 5m consecutive candles
+		- RSI <10 or >90
+		- Idealy at major sup/res
+		- Ideally there's a indicision candle(Spinning Top/)
+		- at low of day
+		- First 5m candle making a new high
+		- High volume
+	Exit indicators:
+		- Stop loss at low of day or previous candle's low
+		- Next level of support, vwap, MovAvgs
+		- New 5m low
+
+MovAvg Trend:
+	1. See if stock is reacting well with MovAvgs
+	2. Buy close to MovAvg, set a stop loss just below the MovAvg
+	Exit indicators:
+		- Exit with all shares when a candle closes below the MovAvg or stopped out below MovAvg
+		- Take profit some when price is far off from MovAvg, buy back when it's close to the MovAvg.
+
+VWAP Strategy:
+	1. See if price reacts well with VWAP 
+	2. Buy close to VWAP to reduce risk
+	Exit indicators:
+		- Exit with all shares when a candle closes below the VWAP or stopped out just a bit below VWAP
+		- Sell 1/2 pos at major sup/res with stop loss adjusted to break even
+
+
+Sup/Res:
+	- May see indecisive candles
+	- Half and Whole dollars act as sup/res
+	- Recent data are more relevant
+	- The more times it's being tested, the stronger it is
+	- The more extreme, the stronger it is
+	- Wicks for candlesticks in a longer duration candle can be sup/res in a smaller duration(i.e. end of wick of 15m candle can be sup in 1m candles)
+	1. In pre-market, layout all the sup/res
+	2. If there's a 5m indecision candle at major sup/res, buy close to that area with a stop loss below it
+	3. Take part profit at next sup/res, move stop loss to break even
+	4. Take all profit at the next sup/res
+
+Opening Range Breakout:
+	1. Monitor list of stocks in play for the day. Keep note of the volume, and ensure the shares being traded are diverse.
+	2. The opening range should have a relatively low ATR
+	3. After 5m candle closed, and new candle has a breakout, this is a desired entry
+	4. Stop loss at VWAP
+	5. Profit target at sup/res, MovAvg, previous close or 5m low
+
+Red to Green:
+	1. Check previous day's close, if the stock heads to previous day's close with high volume, that's a potental profit target
+	2. Place stop loss at nearest sup/res or indicator
+	3. Take all profit when hit previous close. If it broke out of previous close then sell portion of the position, and adjust stop loss to break even.
+
+Strategies and time of day
+	- BullFlag and VWAP is suitable from 9:30-11:00
+	- Reversal, VWAP, MovAvg, Sup/Res in mid day
+	- VWAP, Sup/Res, MovAvg for close
+
+---
+
+Important Rules
+Rule 1: Not to get rich quickly.
+Rule 2: Treat it serious.
+Rule 3: Don't hold positions overnight.
+Rule 4: Ask whether or not a stock moves due to overall market or catalyst.
+Rule 5: Need good risk management and profit loss ratio.
+Rule 6: Need to manage risk
+Rule 7: Retail traders trade only Stocks in Play, high relative volume stocks that have catalysts and doesn't follower the market.
+Rule 8: Take profit where you can, don't bag hold
+Rule 9: Candles with open > close indicates buying pressure. close < open indicates selling pressure
+Rule 10: Indicators only indicate; they should not be allowed to dictate.
+Rule 11: Don't involve emotion
+
+---
+
+## Chapter 2: How day trade works
+Catalyst:
+Earnings reports
+Earnings warnings/pre-announcements
+Earnings surprises FDA approvals/disapprovals
+Mergers/acquisitions Alliances/partnerships/major product releases
+Major contract wins/losses
+Restructurings/layoffs/management changes
+Stock splits/buybacks/debt offerings 
+
+The stocks that are gapping significantly up or down are going to be the stocks that retail traders are watching. 
+
+from 9:30 EST to 10:00 EST, is when volume, volitility is at most. Most suitable for momentum trading
+
+## Chapter 4: Risk and Account Management
+Successful traders usually keeps P/L from showing to reduce emotion
+
+One key to success is to get rest well, eat nutritious meals, exercise regularly, and maintain proper weight/fitness levels
+
+Should advoid stocks:
+	1. Not traded with high relative volume
+	2. Constitutional traders trading
+	3. Penny stocks
+	4. No catalyst
+
+Risk Management:
+	1. Determine max dollar loss, less than 2% of account size
+	2. Determine the risk
+	3. (1)/(2) = number of shares allowed to trade
+
+Generally can not sell stock < $10
+
+Pre-Market Gappers requirements:
+	1. gapped at least 2%
+	2. traded 50000 at least in pre-market
+	3. volume of at least 500000
+	4. ATR of 50 cents
+	5. catalyst
+	6. don't trade stocks with short interest of >30%
+
+| Market | Price | Strategy |
+|-|:-:|:-:|
+| Low float | <$10 | long
+| Medium float | $10 - $100 | vwap + Sup/Res
+| Large float | $20+ | MovAvg + Reversal
+
+Real-Time requirements:
+	1. gapped at least 1%
+	2. ATR >50 cent
+	3. AvgRelVol of > 1.5%
+	4. volume of > 500000
+
+Profitable traders take 2-3 trades each day, don't over trade
+
+---
+
+## Chapter 5: Tools and Platforms
+Chart
+	- 9 + 20 ema, 50 + 200 sma, VWAP
+	- Candlesticks
+	- Volume
+	- Previous Close
+	- Sup/Res
+
+---
+
+## Chapter 6 Introduction to Candles
+	- Indicisive - Spinning Top, doji. Both top and bottom have long wicks, Spinning top has little body while doji has no body.
+	- Hammer - Little body, short top wick with long bottom wick.
+	- Shooting Star - Little body, long top wick with short bottom wick.
+
+

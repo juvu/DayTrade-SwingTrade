@@ -5,14 +5,14 @@ How to Day Trade for a Living
 ### Chapter 7: Most important day trade strategies
 
 #### Position sizing
-```	buy_set_stop_loss(1/2)
-	if in_favor():
-		buy(1/2)
-	if wait_for_target(x1):
-		sell(1/2)
-		set_stop_loss_break_even()
-	if wait_for_target(x2):
-		sell(1/4)
+```buy_set_stop_loss(1/2)
+if in_favor():
+	buy(1/2)
+if wait_for_target(x1):
+	sell(1/2)
+	set_stop_loss_break_even()
+if wait_for_target(x2):
+	sell(1/4)
 ```
 
 #### ABCD:

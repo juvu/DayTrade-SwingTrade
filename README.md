@@ -101,17 +101,17 @@ if wait_for_target(x2):
 ---
 
 ### Important Rules
-Rule 1: Not to get rich quickly.
-Rule 2: Treat it serious.
-Rule 3: Don't hold positions overnight.
-Rule 4: Ask whether or not a stock moves due to overall market or catalyst.
-Rule 5: Need good risk management and profit loss ratio.
-Rule 6: Need to manage risk
-Rule 7: Retail traders trade only Stocks in Play, high relative volume stocks that have catalysts and doesn't follower the market.
-Rule 8: Take profit where you can, don't bag hold
-Rule 9: Candles with open > close indicates buying pressure. close < open indicates selling pressure
-Rule 10: Indicators only indicate; they should not be allowed to dictate.
-Rule 11: Don't involve emotion
+> Rule 1: Not to get rich quickly.
+> Rule 2: Treat it serious.
+> Rule 3: Don't hold positions overnight.
+> Rule 4: Ask whether or not a stock moves due to overall market or catalyst.
+> Rule 5: Need good risk management and profit loss ratio.
+> Rule 6: Need to manage risk
+> Rule 7: Retail traders trade only Stocks in Play, high relative volume stocks that have catalysts and doesn't follower the market.
+> Rule 8: Take profit where you can, don't bag hold
+> Rule 9: Candles with open > close indicates buying pressure. close < open indicates selling pressure
+> Rule 10: Indicators only indicate; they should not be allowed to dictate.
+> Rule 11: Don't involve emotion
 
 ---
 

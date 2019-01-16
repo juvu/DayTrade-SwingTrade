@@ -2,7 +2,7 @@ How to Day Trade for a Living
 ---
 Chapter 7: Most important day trade strategies
 
-Position sizing:
+### Position sizing:
 	buy_set_stop_loss(1/2)
 	if in_favor():
 		buy(1/2)
@@ -12,20 +12,20 @@ Position sizing:
 		if wait_for_target(x2):
 			sell(1/4)
 
-ABCD:
+### ABCD:
 	1. Scan or identify for stock surging up quickly hitting high of day, wait for consolidation
 	2. As it forms a support in the consolidation period, enter close to with stop loss at bottom of consolidation
 	3. Take profit on the way up, set stop loss to break even
 	4. Sell the rest at price target or when price buyer starting to lose strength
 
-BullFlag Momentum:
+### BullFlag Momentum:
 	- Effective on stocks under $10 with low float
 	1. Scan or identify for stock surging up quickly hitting high of day, wait for consolidation
 	2. Enter when price move above consolidation period, stop loss placed at low of consolidation period
 	3. Take profit on the way up, adjust stop loss to break even
 	4. Sell the rest at price target or when price buyer starting to lose strength
 
-Reversal Trading:
+### Reversal Trading:
 	- Hedge fund or institutional trader started selling large shares to the market
 	- Catalyst/Bad news
 	Entry requirement:
@@ -41,14 +41,14 @@ Reversal Trading:
 		- Next level of support, vwap, MovAvgs
 		- New 5m low
 
-MovAvg Trend:
+### MovAvg Trend:
 	1. See if stock is reacting well with MovAvgs
 	2. Buy close to MovAvg, set a stop loss just below the MovAvg
 	Exit indicators:
 		- Exit with all shares when a candle closes below the MovAvg or stopped out below MovAvg
 		- Take profit some when price is far off from MovAvg, buy back when it's close to the MovAvg.
 
-VWAP Strategy:
+### VWAP Strategy:
 	1. See if price reacts well with VWAP 
 	2. Buy close to VWAP to reduce risk
 	Exit indicators:
@@ -56,7 +56,7 @@ VWAP Strategy:
 		- Sell 1/2 pos at major sup/res with stop loss adjusted to break even
 
 
-Sup/Res:
+### Sup/Res:
 	- May see indecisive candles
 	- Half and Whole dollars act as sup/res
 	- Recent data are more relevant
@@ -68,19 +68,19 @@ Sup/Res:
 	3. Take part profit at next sup/res, move stop loss to break even
 	4. Take all profit at the next sup/res
 
-Opening Range Breakout:
+### Opening Range Breakout:
 	1. Monitor list of stocks in play for the day. Keep note of the volume, and ensure the shares being traded are diverse.
 	2. The opening range should have a relatively low ATR
 	3. After 5m candle closed, and new candle has a breakout, this is a desired entry
 	4. Stop loss at VWAP
 	5. Profit target at sup/res, MovAvg, previous close or 5m low
 
-Red to Green:
+### Red to Green:
 	1. Check previous day's close, if the stock heads to previous day's close with high volume, that's a potental profit target
 	2. Place stop loss at nearest sup/res or indicator
 	3. Take all profit when hit previous close. If it broke out of previous close then sell portion of the position, and adjust stop loss to break even.
 
-Strategies and time of day
+### Strategies and time of day
 	- BullFlag and VWAP is suitable from 9:30-11:00
 	- Reversal, VWAP, MovAvg, Sup/Res in mid day
 	- VWAP, Sup/Res, MovAvg for close

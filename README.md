@@ -117,17 +117,17 @@ if wait_for_target(x2):
 
 ### Chapter 2: How day trade works
 Catalyst:
-Earnings reports
-Earnings warnings/pre-announcements
-Earnings surprises FDA approvals/disapprovals
-Mergers/acquisitions Alliances/partnerships/major product releases
-Major contract wins/losses
-Restructurings/layoffs/management changes
-Stock splits/buybacks/debt offerings 
+- Earnings reports
+- Earnings warnings/pre-announcements
+- Earnings surprises FDA approvals/disapprovals
+- Mergers/acquisitions Alliances/partnerships/major product releases
+- Major contract wins/losses
+- Restructurings/layoffs/management changes
+- Stock splits/buybacks/debt offerings 
 
 The stocks that are gapping significantly up or down are going to be the stocks that retail traders are watching. 
 
-from 9:30 EST to 10:00 EST, is when volume, volitility is at most. Most suitable for momentum trading
+From 9:30 EST to 10:00 EST, is when volume, volitility is at most. Most suitable for momentum trading
 
 ---
 

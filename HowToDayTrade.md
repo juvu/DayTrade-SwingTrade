@@ -13,7 +13,7 @@
 - For stocks with extreme strength, only go in with a small position due to risk.
 - Pullbacks respecting the 9 ema are stronger
 
-* Facts that determine how quick the price moves: *
+*Facts that determine how quick the price moves:*
 - Daily resistance
 - catalyst
 - level of volume
@@ -56,7 +56,7 @@
 - Don't trade gap and go with strong pullbacks, i.e. up 30% then drop 20%
 - Need to have hotkeys
 
-* Entry requirements for Momentum and Gap & Go: *
+*Entry requirements for Momentum and Gap & Go:*
 - 100k in volume first minute market opens
 - 1mil in volume
 - Achieve 1:2 profit loss ratio
@@ -68,39 +68,39 @@
 - Good window and trigger
 - Tight spread(For momentum trades)
 
-* 1m Entries: *
+*1m Entries:*
 - Very high volume s.t. 5 min candles are too volatile for risk management
 - Entry price at apex
 - start with half size, double up if we can adjust stop loss to break even
 
-* 5m Entries: *
+*5m Entries:*
 - Can start with bigger position
 - Buy at apex point
 - During midday, since volume is much lighter
 - Used for momentum trades afte¡r 10am, set stop loss at low of pullback just below 9ema or ascending support line
 
-* Exit indicators: *
+*Exit indicators:*
 - 5m candle with lower low before scaling out
 - Breaks 9ema on 5m
 - Adjust stop to break even or get stopped out
 
-* Profit Target: *
+*Profit Target:*
 - When approaching a resistance, take partial profit and adjust stop loss to break even
 
-* Gap & Go - Flattop/bullflag *
+*Gap & Go - Flattop/bullflag*
 - Best gap and go shows flattop and bullflag pattern premarket
 - Look at the lvl2, jump in once almost all the ask shares are bought out
 - If we see heavy volume at market open, it validates the breakout point
 
-* Gap & Go - Open range breakout *
+*Gap & Go - Open range breakout*
 - If gap and go opens inbetween resistance/suppor levels
 - Buy first 1m making a new high, set the stop loss at low of the candle, if the 1m candle does not break, switch to 5min ORB
 - Take profit on the first surge, and update stop loss to break even
 
-* Gap & Go - First pullback *
+*Gap & Go - First pullback*
 - Must be one of bullflag/flattop or 9ema
 
-* Gap & Go - Red to Green *
+*Gap & Go - Red to Green*
 - When price drops below opening price in premarket + market open and surges back to the opening price in premarket
 - On first candle making a new high after a washout, set stop loss at low of day, sell half the position as soon as it hits desired price and adjust the stop loss to breakeven
 
@@ -116,7 +116,7 @@
 - Tight spread(For momentum trades)
 - Can buy the pullbacks on 1m/5m chart for a low risk trade
 
-* Entry Requirement: *
+*Entry Requirement:*
 - 3+ consecutive green candles
 - Candles riding on or out side of bollinger band
 - Stock at high/low of the day
@@ -128,18 +128,18 @@
 - 2:1 ratio at least
 - At least 30 cents to the 9ema
 
-* Exit indicators: *
+*Exit indicators:*
 - High/Low of the day
 - Sell half when touch 9ema on 5m chart, or when hit 2:1 profit ratio. Then adjust stop to break even.
 - When price breaks 9ema or the vwap, adjust stop loss to the other side of the indicator and every 5mins onwards
 		- 
-* Reversal - 1m entry: *
+*Reversal - 1m entry:*
 - Need to see 10 consecutive candles
 - If it becomes profitable, and gets 5m confirmation, double up to full size
 - If there's resistance, take partial profit
 - Sometimes may buy at whole/half dollars if there's price reaction
 
-* Reversal - 5m entry: *
+*Reversal - 5m entry:*
 - When there's 5 min candle outside of bollinger, use bottom of candle as stop loss top as entry point or double up point
 - If already started with half position, double up and adjust stop to break even/-10 cents
 - Check 1m chart to ensure it's not too extended, i.e. 5 consecutive candles
@@ -162,7 +162,7 @@
 - Need to plan out entry and exit before entering a trade
 - At least 1:2 profit loss risk ratio
 
-* Keep historical data of(Analyse based on the strategy, the profits or losses, or the time of day): *
+*Keep historical data of(Analyse based on the strategy, the profits or losses, or the time of day):*
 - type of setup
 - time
 - symbol
@@ -181,7 +181,7 @@
 - Retail trader are attracted to news, and sometimes extreme highs/lows
 - Stocks in play with high volume & high relative volume, and with low float.
 
-* Multiday Momentum *
+*Multiday Momentum*
 - Stocks with high momentum can carry over to the next day
 - Stay away from insider days(highs and lows within previous day's range)
 - Trade when the stock price makes a fresh breakout from previous high

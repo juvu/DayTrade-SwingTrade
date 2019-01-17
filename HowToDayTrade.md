@@ -41,7 +41,7 @@
 - Would be good to see it above 9/20 ema on a 5m chart
 - Use 5m chart since it'd
 
-#### parabolic
+#### Parabolic
 - A Parabolic stock is the one that goes up/down with a very strong strength for a very long time due to strong catalyst/chart
 - We can mitigate the risk starting with a smaller position as cushion and add position size as the stock goes up 
 - Wait for the stock to reverse and trade counter setup

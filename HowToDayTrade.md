@@ -1,13 +1,13 @@
 
 ### Chapter 8 Trend(Momentum) Trading Strategies
 - Enter close to support to minimize risk, and give high reward i.e. near a respected SMA, or bottom of a flag/pullback
-- As a momentun trader, buy stocks that already made a big move. It's common for stock under $10 to make 50% move during the day
+- As a momentum trader, buy stocks that already made a big move. It's common for stock under $10 to make 50% move during the day
 - Usually buy and sell at the Ask Price.
 - Once target price is hit, take some profit and move stop loss to break even
 - It's important to keep a little on the stock until we see an exit indicator
 - Float is also a factor to consider when trading, low float stocks are volatile, shares under 5mil are considered as low float, and stocks under 1mil are usually the best runners
 - Each day premarket, generate a list of 4-6 stocks to trade
-- Using scanner, scan for new stocks that are hitting high of day with abover average volume
+- Using scanner, scan for new stocks that are hitting high of day with above average volume
 - Every time a momentum stock makes a breakout, trade the breakout or the first, second pullback.
 - Is riskier to trade beyond the second pullback unless going through a period of consolidation.
 - For stocks with extreme strength, only go in with a small position due to risk.
@@ -43,7 +43,7 @@
 
 #### parabolic
 - A Parabolic stock is the one that goes up/down with a very strong strength for a very long time due to strong catalyst/chart
-- We can mitigate the risk starting with a smaller position as cusion and add position size as the stock goes up 
+- We can mitigate the risk starting with a smaller position as cushion and add position size as the stock goes up 
 - Wait for the stock to reverse and trade counter setup
 - Start with 1/4 position size since risk is much greater
 
@@ -62,7 +62,7 @@
 - Achieve 1:2 profit loss ratio
 - High relative volume of >2
 - Most have a obvious pattern
-- Idealy close to 9/20 ema
+- Ideally close to 9/20 ema
 - Ideally, float should be <50mil. <10 has the highest potential. Unless using vwap based method
 - Good catalyst
 - Good window and trigger
@@ -77,7 +77,7 @@
 - Can start with bigger position
 - Buy at apex point
 - During midday, since volume is much lighter
-- Used for momentum trades afte¡r 10am, set stop loss at low of pullback just below 9ema or ascending support line
+- Used for momentum trades after 10am, set stop loss at low of pullback just below 9ema or ascending support line
 
 *Exit indicators:*
 - 5m candle with lower low before scaling out
@@ -93,7 +93,7 @@
 - If we see heavy volume at market open, it validates the breakout point
 
 *Gap & Go - Open range breakout*
-- If gap and go opens inbetween resistance/suppor levels
+- If gap and go opens in between resistance/support levels
 - Buy first 1m making a new high, set the stop loss at low of the candle, if the 1m candle does not break, switch to 5min ORB
 - Take profit on the first surge, and update stop loss to break even
 
@@ -118,13 +118,13 @@
 
 *Entry Requirement:*
 - 3+ consecutive green candles
-- Candles riding on or out side of bollinger band
+- Candles riding on or outside of bollinger band
 - Stock at high/low of the day
 - RSI < 20 or > 80
 - Need to take note of the float
 - Ideally the reversal candle should be a doji, shooting star or a hammer
 - Ideally at daily res/sup
-- Idealy the over all market supports the decision
+- Ideally the overall market supports the decision
 - 2:1 ratio at least
 - At least 30 cents to the 9ema
 
@@ -149,9 +149,9 @@
 ### Chapter 1 why most Traders fail:
 
 - Need to keep winners longer, sell losers faster
-- Excercise before day begins to relieve mental stress and keep head clearer
-- Be cautious of FOMO(fear of missin out)
-- Stay displine and keep emotion out of the trade
+- Exercise before day begins to relieve mental stress and keep head clearer
+- Be cautious of FOMO(fear of missing out)
+- Stay discipline and keep emotion out of the trade
 
 ### Chapter 2 Risk Management:
 
@@ -161,17 +161,9 @@
 - Limit position on stocks that can be halted
 - Need to plan out entry and exit before entering a trade
 - At least 1:2 profit loss risk ratio
-
-*Keep historical data of(Analyse based on the strategy, the profits or losses, or the time of day):*
-- Type of setup
-- Time
-- Symbol
-- Price
-- Entry
-- Exit
-- Amount made/amount lost
-- Notes
-
+- Keep historical data of trades
+- Write down the type of setup, time, symbol, price, entry, exit, gain/loss, notes to self
+- Analyse based on the strategy, the profits or losses, or the time of day
 - Set a per-trade loss and a daily loss. Set to 25% of target profit.
 - Shouldn't have 1 trade that weights more than many trades combined.
 - Can adjust risk based on time of day
@@ -181,14 +173,14 @@
 - Retail trader are attracted to news, and sometimes extreme highs/lows
 - Stocks in play with high volume & high relative volume, and with low float.
 
-*Multiday Momentum*
+*Multi Day Momentum*
 - Stocks with high momentum can carry over to the next day
 - Stay away from insider days(highs and lows within previous day's range)
 - Trade when the stock price makes a fresh breakout from previous high
 
 ### Chapter 4 Candlesticks:
 - Use 1m, 5m, daily chart. We use daily charts even for intraday trade see daily support/resistance.
-- A doji following a series of same colored candlesticks can indicate indicision/reversal
+- A doji following a series of same colored candlesticks can indicate indecision/reversal
 - A strong uptrend following a hammer with a very long top wick can signal a potential reversal
 - A strong downtrend following a shooting star with a long bottom wick can signal a potential reversal
 - Want to hold for a long green candle, not after a long green candle
@@ -202,22 +194,22 @@
 - Stocks around 200ema may take longer to consolidate
 - Trade long on stocks above 200ema
 - Use vwap for trend based trading
-- For a counter trend setup, find a entry point far from the equalibrium(i.e. out side of Bollinger band(5m), use RSI(<20/>80)
-- Volume is used to see how momentum grows and fades. In a consilidation, high volumn may mean a potential breakout
+- For a counter trend setup, find a entry point far from the equilibrium(i.e. outside of Bollinger band(5m), use RSI(<20/>80)
+- Volume is used to see how momentum grows and fades. In a consolidation, high volume may mean a potential breakout
 
 ### Chapter 6 Support & Resistance:
 - 3-6 mth daily chart can be useful to find recent sup/res
-- Volumn can confirm a breakout pattern, and how substainable it is
+- Volume can confirm a breakout pattern, and how sustainable it is
 - For daily res/sup, that level is only valid in that day if it's not broken
 - Sup/Res can also be ascending/descending
 - When a stock has a big gap in between the next sup/res, then the stock has breakout potential and it's worth watching
-- A triger is a sup/res with a large window of no resistance above
-- For example, if a stock has ATR of 50 cents, and the next resistance leve is 75 cents above the price, then this is a trigger
+- A trigger is a sup/res with a large window of no resistance above
+- For example, if a stock has ATR of 50 cents, and the next resistance level is 75 cents above the price, then this is a trigger
 - When a stock has a big gap, there's a large window in the stock that will typically get filled. It can be formed in the past d/m/y
 - Whole and half dollars can act as sup/res, or can act as consolidation areas, especially for high volume stocks and intraday extremes
 - Trade in direction of the gap, a stock gapping up should be moving away from the MovAvg's, in the contrary a stock that gapped down should be moving below the MovAvg's
 - MovAvgs are some of the most significant form of sup/res
-- If price is respecting 9ema and suddently stopped, then it indicates a break of pattern and potentially trend reversal
+- If price is respecting 9ema and suddenly stopped, then it indicates a break of pattern and potentially trend reversal
 
 ### Chapter 7 Order type, Lvl 2, Time and Sales, Hotkeys
 - Use limit order with offset of 5, i.e. buy at $5.00-$5:05
@@ -229,7 +221,7 @@
 - Time and sales can show volume, transactions and number of shares flowing though
 - Prepare 4 order windows ready to buy before market opens. Buy and switch to hotkey when there's value at market open.
 - Use hotkey for enter, exit, stop and cancel orders
-- For Gap and Go, Momentun trades, open order window and enter with mouse click. Once entered in the trade, use hotkeys to optimize profit
+- For Gap and Go, Momentum trades, open order window and enter with mouse click. Once entered in the trade, use hotkeys to optimize profit
 - Favorite key: sell half the position at bid/ask price
 - Some other hotkeys include set stop at breakeven/average cost, price - 11cent, price - 21 cent, price - 31 cent etc...
 
@@ -265,5 +257,5 @@
 - Find gappers, make a list of 4-6 stocks to keep in watch. Note down the important infos related to each stock
 - At 9:15 - 9:30, prepare buy orders for gap and go candidates
 - Make 10 trades per day
-- Track the trades in a spread sheet. Use it to analyse accuracy rate, average winners/losers of each strategy
+- Track the trades in a spreadsheet. Use it to analyse accuracy rate, average winners/losers of each strategy
 - Follow a max day loss

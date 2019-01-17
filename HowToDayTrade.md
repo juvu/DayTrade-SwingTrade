@@ -15,9 +15,9 @@
 
 *Facts that determine how quick the price moves:*
 - Daily resistance
-- catalyst
-- level of volume
-- float can determine how fast prices move
+- Catalyst
+- Level of volume
+- Float can determine how fast prices move
 
 #### Flattop
 - Flattop is a pattern in which the stock did no have time to pull back to 9ema since it's too strong. It consilidates side ways making higher lows without making lower highs. The set up would be stronger if it consolidates at whole/half dollars
@@ -71,7 +71,7 @@
 *1m Entries:*
 - Very high volume s.t. 5 min candles are too volatile for risk management
 - Entry price at apex
-- start with half size, double up if we can adjust stop loss to break even
+- Start with half size, double up if we can adjust stop loss to break even
 
 *5m Entries:*
 - Can start with bigger position
@@ -163,14 +163,14 @@
 - At least 1:2 profit loss risk ratio
 
 *Keep historical data of(Analyse based on the strategy, the profits or losses, or the time of day):*
-- type of setup
-- time
-- symbol
-- price
-- entry
-- exit
-- amount made/amount lost
-- notes
+- Type of setup
+- Time
+- Symbol
+- Price
+- Entry
+- Exit
+- Amount made/amount lost
+- Notes
 
 - Set a per-trade loss and a daily loss. Set to 25% of target profit.
 - Shouldn't have 1 trade that weights more than many trades combined.
@@ -244,14 +244,14 @@
 
 *Gap Scanner:*
 - <-4% or >4%
-- price above 1
+- Price above 1
 
 *Momentum Scanner:*
 - $1 - $10
 - > 100000 volume
-- relative volume of 2
+- Relative volume of 2
 - 5 min volume of 2000
-- float <20000000
+- Float <20000000
 
 *Reversal Scanner:*
 - $15-$250

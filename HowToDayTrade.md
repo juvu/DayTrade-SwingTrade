@@ -212,7 +212,7 @@
 - If price is respecting 9ema and suddenly stopped, then it indicates a break of pattern and potentially trend reversal
 
 ### Chapter 7 Order type, Lvl 2, Time and Sales, Hotkeys
-- Use limit order with offset of 5, i.e. buy at $5.00-$5:05
+- Use limit order with offset of 5, i.e. buy at $5.00-$5.05
 - Some traders use stop limit to buy at the breakout spot
 - Use a lvl2 + time/sales window + order entry window for buying
 - Look at lvl2 ask + bid window, and ensure there big buyers and small sellers are at price

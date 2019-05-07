@@ -78,10 +78,23 @@
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
 ## EquityFeed Stock Scanning Configurations
+
 * Stock Type
 	* Regular Securities
-	* 
+	* Stock Splits(D)
+	* Delinquent(E)
+	* Foreign(F)
+	* Bankrupt(Q)
+* Market Type
+	* OTC
+		* OTCBB
+		* PinkSheets
+	* Listed
+		* NASDAQ
+		* NYSE
+		* AMEX
+		* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNzU1NzM5MCwxNDIwMjUwNTAzLC0xMj
+eyJoaXN0b3J5IjpbLTcyMzUwMTQ5NCwxNDIwMjUwNTAzLC0xMj
 IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

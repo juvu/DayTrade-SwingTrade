@@ -26,9 +26,12 @@
 * Focus on 1-2 setups that you're good at
 * Trade volatile stocks
 * Play safe, prevent FOMO from happening
+* Better to miss trades than to lose it
 * Take good risk reward trades
 * Hide unrealized profit/loss to leave out emotion
+
+## Rules
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Mzg3MDc5LDE3NTcwMzY3OTksLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTY4NjIxNzkzMCwxNzU3MDM2Nzk5LC0yMD
+g4NzQ2NjEyXX0=
 -->

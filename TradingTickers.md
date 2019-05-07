@@ -15,7 +15,8 @@ Important to know
 Major exchanges => 9:30 - 4:00
 OTC => 8:00 - 9:30
 
-Pre/Post Market: Usually low volume, bett
+Pre/Post Market: Usually low volume, better to trade during earning seasons. ARCA is good for this.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDI0NjY4OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTIxNzExNDY0NywtMjA4ODc0NjYxMl19
 -->

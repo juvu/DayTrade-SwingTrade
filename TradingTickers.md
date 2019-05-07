@@ -44,9 +44,17 @@
 * Interactive Brokers: Longer Short Time
 
 ### Market Scanners
-
+* Top Scanners:
+	* EquityFeed
+	* Stocks to Trade
+	* Interactive Traders
+* Free Scanners:
+	* Thinkorswim
+	* Finviz.com
+* Technical Analysis
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMDI1MDUwMywtMTIyMjQwMzgyOSwxNz
-U3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTYwOTU2Mzk4NSwxNDIwMjUwNTAzLC0xMj
+IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

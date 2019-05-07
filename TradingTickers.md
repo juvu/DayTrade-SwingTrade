@@ -23,8 +23,9 @@
 	* SureTrader(DasPro)
 	* Centerpoint(Sterling) [Easy to borrow HTB shares]
 	* Overnight shorting usually has interest
-* 
+* Focus on 1-2 setups that you're good at
+* Trade volatile stocks 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Njg0OTYyOCwxNzU3MDM2Nzk5LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTAwNTA4MzMwLDE3NTcwMzY3OTksLTIwOD
+g3NDY2MTJdfQ==
 -->

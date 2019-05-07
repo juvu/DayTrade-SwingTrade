@@ -22,7 +22,9 @@
 * Shorting
 	* SureTrader(DasPro)
 	* Centerpoint(Sterling) [Easy to borrow HTB shares]
-	
+	* Overnight shorting usually has interest
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTI0Njg0OTYyOCwxNzU3MDM2Nzk5LC0yMD
+g4NzQ2NjEyXX0=
 -->

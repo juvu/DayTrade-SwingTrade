@@ -14,12 +14,12 @@ Important to know
 
 Major exchanges => 9:30 - 4:00
 OTC =>8:00 - 9:30
-|ret|  |
+|ret| wret |
 |--|--|
-|  |  |
+|wert  | wret |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjEyMjM4OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTA4MTM5ODM4NCwtMjA4ODc0NjYxMl19
 -->

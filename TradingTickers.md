@@ -31,8 +31,10 @@
 * Hide unrealized profit/loss to leave out emotion
 
 ## Rules
-* PDT Restriction prevents taking more than 3 trades in a week, but can 
+* PDT Restriction prevents taking more than 3 trades in a week,
+	*  Can be mitigated by using off shore brokers
+* 2.5 Rule
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDczNjU2NiwxNzU3MDM2Nzk5LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE1OTgyMzc5MzgsMTc1NzAzNjc5OSwtMj
+A4ODc0NjYxMl19
 -->

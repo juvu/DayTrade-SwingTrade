@@ -1,4 +1,4 @@
-### Good to Know
+## Good to Know
 
 * Open multiple brokers to have many day trades
 * Investor underground taught the way to think, Silver taught the technicals
@@ -29,7 +29,7 @@
 * Take good risk reward trades
 * Hide unrealized profit/loss to leave out emotion
 
-### Rules
+## Rules
 
 * *PDT Restriction* prevents taking more than 3 trades in a week,
 	*  Can be mitigated by using off shore brokers
@@ -37,13 +37,14 @@
 * *Short Sell Restriction* prevents a stock to be shorted into up tick  on the day if it drops over 10%
 * Platform Features that are important - Level 2, T&S, Hotkeys, Scanners
 
-### Brokers
+## Brokers
 
 * Suretrader: No PDT Restriction since it's an off shore trader
 * ETrade: Low cost, Decent OTC Execution, Improved borrows
 * Interactive Brokers: Longer Short Time
 
-### Market Scanners
+## Market Scanners
+
 * Top Scanners:
 	* EquityFeed
 	* Stocks to Trade
@@ -59,9 +60,12 @@
 		* Volume compared to other time of the year
 		* Key support/resistance at large volume
 		* Trade counts(Liquidity)
-* 
+
+## OTC v.s. Listed
+
+* Liste
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzQ1NDI2LDE0MjAyNTA1MDMsLTEyMj
-I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTEyNjkyMjE2NDcsMTQyMDI1MDUwMywtMT
+IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

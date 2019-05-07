@@ -107,8 +107,9 @@
 	* Net Change >= 0
 
 ## Strategy 1 - Promotion
+* Promoter with good history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNj
-k5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAz
-Njc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05OD
+k4MzU1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQw
+MzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

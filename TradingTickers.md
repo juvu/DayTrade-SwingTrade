@@ -105,8 +105,10 @@
 	* $ Volume >= 500000 (Usually want 1000000 or higher)
 	* Day's Trade >= 400
 	* Net Change >= 0
+
+## Strategy 1 - Prom
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5NjQ3NDU5LC05ODk4MzU1MDMsLTE2OT
-k0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2
-Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwOTIxNDgzMiwtOTg5ODM1NTAzLC0xNj
+k5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAz
+Njc5OSwtMjA4ODc0NjYxMl19
 -->

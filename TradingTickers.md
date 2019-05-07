@@ -52,9 +52,13 @@
 	* Thinkorswim
 	* Finviz.com
 * Technical Analysis
-* 
+	* Candlestick
+	* Support and Resistance
+	* Volatility is the key
+	* Daily chart
+		* Volume co
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTU2Mzk4NSwxNDIwMjUwNTAzLC0xMj
+eyJoaXN0b3J5IjpbMTUxODY2NzEyNywxNDIwMjUwNTAzLC0xMj
 IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

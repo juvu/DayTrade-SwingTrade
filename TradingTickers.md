@@ -101,8 +101,10 @@
 	* Day's Trade >= 3000
 * OTC
 	* Last Price > 0.1
-	* $ Volume >= 500
+	* $ Volume >= 500000 (Usually want 1000000 or higher)
+	* Day's Trade >= 400
+	* Net Change >= 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNDc1MTEzNCwxNDIwMjUwNTAzLC0xMj
-IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMT
+IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

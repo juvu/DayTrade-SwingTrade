@@ -38,8 +38,12 @@
 * Platform Features that are important - Level 2, T&S, Hotkeys, Scanners
 
 ## Brokers
-* Suretrader: offShore 
+* Suretrader: No PDT Restriction since it's an off shore trader
+* ETrade: Low cost, Decent OTC Execution, Improved borrows
+* Interactive Brokers: Longer Short Time
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjMxOTg3MiwxNzU3MDM2Nzk5LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDAzNTgxMTU2LDE3NTcwMzY3OTksLTIwOD
+g3NDY2MTJdfQ==
 -->

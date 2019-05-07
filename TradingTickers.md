@@ -73,8 +73,9 @@
 	*	Level 2 is important
 
 ## Technical Indicators
-* When a buyer shows not getting filled while not aligh
+* When a buyer shows not getting filled while not aligning with Time and Sales then this is possibly being faked. This is the same when it goes to sellers.
+* Level 2 is useful when there's volatility, it could indicate  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA2MDQ3MDE1LDE0MjAyNTA1MDMsLTEyMj
-I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTU0Njg0OTAsMTQyMDI1MDUwMywtMTIyMj
+QwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

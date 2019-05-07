@@ -1,11 +1,10 @@
 
 
 ### Good to Know
-Open multiple brokers to have many day trades
-Investor underground taught the way to think, Silver taught the technicals
-
-Speed trader => good for long
-Interactive brokers => good for short
+* Open multiple brokers to have many day trades
+* Investor underground taught the way to think, Silver taught the technicals
+* Speed trader => good for long
+*Interactive brokers => good for short
 
 Important to know
 * Bid/Ask must be tight
@@ -16,7 +15,9 @@ Major exchanges => 9:30 - 4:00
 OTC => 8:00 - 9:30
 
 Pre/Post Market: Usually low volume, better to trade during earning seasons. ARCA is good for this.
-
+If volume is good with a tight spread, then market order is safe
+*Liquidity* refers
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzExNDY0NywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIxMjY1MzQxOTAsLTIwODg3NDY2MTJdfQ
+==
 -->

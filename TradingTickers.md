@@ -63,9 +63,14 @@
 
 ## OTC v.s. Listed
 
-* Liste
+* **Listed**
+	* Buy dips, sell highs
+	* Charts are choppier
+	* Many "fakeout" moves
+	* Level 2 not as useful
+* **OTC**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjkyMjE2NDcsMTQyMDI1MDUwMywtMT
-IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTE3NzAyMDU2LDE0MjAyNTA1MDMsLTEyMj
+I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
 -->

@@ -106,9 +106,9 @@
 	* Day's Trade >= 400
 	* Net Change >= 0
 
-## Strategy 1 - Prom
+## Strategy 1 - Promotion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTIxNDgzMiwtOTg5ODM1NTAzLC0xNj
+eyJoaXN0b3J5IjpbLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNj
 k5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAz
 Njc5OSwtMjA4ODc0NjYxMl19
 -->

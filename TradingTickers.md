@@ -34,8 +34,9 @@
 * *PDT Restriction* prevents taking more than 3 trades in a week,
 	*  Can be mitigated by using off shore brokers
 * *2.5 Rule* for each dollar being used to short, 2.5x in capital must be put up
-* 
+* *Short Sell Restriction* prevents a stock to be shorted into up tick  on the day if it drops over 10%
+* Platform Features that are important - Level 2, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDc5MjQwMzcsMTc1NzAzNjc5OSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTE2MTgwMTk3NCwxNzU3MDM2Nzk5LC0yMD
+g4NzQ2NjEyXX0=
 -->

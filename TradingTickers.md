@@ -18,7 +18,7 @@
 * If volume is good with a tight spread, then market order is safer, otherwise may 
 * *Liquidity* refers to how easy one can get in and out of a position
 * *float* refers to # of shares available for trading
-* Shorting
+* Popular Shorting Brokers
 	* SureTrader(DasPro)
 	* Centerpoint(Sterling) [Easy to borrow HTB shares]
 	* Overnight shorting usually has interest
@@ -105,6 +105,7 @@
 	* Day's Trade >= 400
 	* Net Change >= 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMT
-IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxND
+IwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3
+NDY2MTJdfQ==
 -->

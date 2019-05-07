@@ -1,7 +1,7 @@
 ## Good to Know
 
 * Open multiple brokers to have many day trades
-* Investor underground taught the way to think, Silver taught the technicals
+* Investor underground taught the way to think, Silver taught the Technical Analysis
 * Brokers
 	* Speed trader => good for long
 	* Interactive brokers => good for short
@@ -111,8 +111,8 @@
 
 * Promoter with good history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOT
-YzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIwMjUw
-NTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMz
+A3NDE3NDEyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2
+MjEyOCwxNDIwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OT
+ksLTIwODg3NDY2MTJdfQ==
 -->

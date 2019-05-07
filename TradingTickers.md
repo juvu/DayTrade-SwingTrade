@@ -77,8 +77,11 @@
 * Level 2 is useful when there's volatility, it could indicate when there's a change of direction.
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
-## Eq
+## EquityFeed Stock Scanning Configurations
+* Stock Type
+	* Regular Securities
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY5MzAxMjMsMTQyMDI1MDUwMywtMT
-IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMjAwNzU1NzM5MCwxNDIwMjUwNTAzLC0xMj
+IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

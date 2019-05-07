@@ -24,8 +24,11 @@
 	* Centerpoint(Sterling) [Easy to borrow HTB shares]
 	* Overnight shorting usually has interest
 * Focus on 1-2 setups that you're good at
-* Trade volatile stocks 
+* Trade volatile stocks
+* Play safe, prevent FOMO from happening
+* Take good risk reward trades
+* Hide unrealized profit/loss to leave out emotion
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTA4MzMwLDE3NTcwMzY3OTksLTIwOD
+eyJoaXN0b3J5IjpbMTY1Mzg3MDc5LDE3NTcwMzY3OTksLTIwOD
 g3NDY2MTJdfQ==
 -->

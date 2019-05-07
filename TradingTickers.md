@@ -56,9 +56,12 @@
 	* Support and Resistance
 	* Volatility is the key
 	* Daily chart
-		* Volume co
+		* Volume compared to other time of the year
+		* Key support/resistance at large volume
+		* Trade counts(Liquidity)
+* 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODY2NzEyNywxNDIwMjUwNTAzLC0xMj
-IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjUyMzQ1NDI2LDE0MjAyNTA1MDMsLTEyMj
+I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
 -->

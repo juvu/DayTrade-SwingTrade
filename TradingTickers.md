@@ -30,20 +30,20 @@
 * Take good risk reward trades
 * Hide unrealized profit/loss to leave out emotion
 
-## Rules
+### Rules
 * *PDT Restriction* prevents taking more than 3 trades in a week,
 	*  Can be mitigated by using off shore brokers
 * *2.5 Rule* for each dollar being used to short, 2.5x in capital must be put up
 * *Short Sell Restriction* prevents a stock to be shorted into up tick  on the day if it drops over 10%
 * Platform Features that are important - Level 2, T&S, Hotkeys, Scanners
 
-## Brokers
+### Brokers
 * Suretrader: No PDT Restriction since it's an off shore trader
 * ETrade: Low cost, Decent OTC Execution, Improved borrows
 * Interactive Brokers: Longer Short Time
 
 ## Market Scanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTk5NDk4MzMzLC0xMjIyNDAzODI5LDE3NT
+cwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

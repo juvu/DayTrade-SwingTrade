@@ -31,7 +31,8 @@
 * Hide unrealized profit/loss to leave out emotion
 
 ## Rules
+* PDT Restriction prevents taking more than 3 trades in a week, but can 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NjIxNzkzMCwxNzU3MDM2Nzk5LC0yMD
+eyJoaXN0b3J5IjpbMTk2NDczNjU2NiwxNzU3MDM2Nzk5LC0yMD
 g4NzQ2NjEyXX0=
 -->

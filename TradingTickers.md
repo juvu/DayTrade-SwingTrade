@@ -78,7 +78,8 @@
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
 ## EquityFeed Stock Scanning Configurations
-
+* All Sectors
+* All News Types
 * Stock Type
 	* Regular Securities
 	* Stock Splits(D)
@@ -93,8 +94,9 @@
 		* NASDAQ
 		* NYSE
 		* AMEX
-		* 
+* Listed
+	* 20 >= 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzUwMTQ5NCwxNDIwMjUwNTAzLC0xMj
-IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzQ5MjcyNDUsMTQyMDI1MDUwMywtMT
+IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

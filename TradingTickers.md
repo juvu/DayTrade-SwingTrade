@@ -35,7 +35,7 @@
 	*  Can be mitigated by using off shore brokers
 * *2.5 Rule* for each dollar being used to short, 2.5x in capital must be put up
 * *Short Sell Restriction* prevents a stock to be shorted into up tick  on the day if it drops over 10%
-* Platform Features that are important - Level 2, T&S, Hotkeys, Scanners
+* Platform Features that are important - Level 2, Time and Sales, Realtime, Hotkeys, Scanners
 
 ## Brokers
 
@@ -70,8 +70,11 @@
 	* Level 2 not as useful
 * OTC
 	*	Pumps and Dumps
-	*	Level 2 is im
+	*	Level 2 is important
+
+## Technical Indicators
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcyODY2NjQ3LDE0MjAyNTA1MDMsLTEyMj
-I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3NzU3Mjg5MjQsMTQyMDI1MDUwMywtMT
+IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

@@ -10,7 +10,9 @@
 	* Volume
 	* Day's high/low
 * Trading hours:
-	* Major exchanges => 9:30 - 4:00
+	* Major exchanges 
+		* Market => 9:30 - 4:00
+		* Pre/After market => 
 	* OTC => 8:00 - 9:30
 * Pre/Post Market
 	* Usually low volume, better to trade during earning seasons
@@ -105,7 +107,7 @@
 	* Day's Trade >= 400
 	* Net Change >= 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxND
-IwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTQxMDQ2MDEyLC0xNjk5NDYyMTI4LDE0Mj
+AyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0
+NjYxMl19
 -->

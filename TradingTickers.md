@@ -18,7 +18,10 @@
 	* ARCA is good for trading pre/post market
 * If volume is good with a tight spread, then market order is safer, otherwise may 
 * *Liquidity* refers to how easy one can get in and out of a position
-* *float* refers to # of shares available for trading 
+* *float* refers to # of shares available for trading
+* Shorting
+	* S
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcyMDAzNzA4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEwMzUyOTQxMjEsLTIwODg3NDY2MTJdfQ
+==
 -->

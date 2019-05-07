@@ -95,8 +95,14 @@
 		* NYSE
 		* AMEX
 * Listed
-	* 20 >= 
+	* 0.5 <= Last Price <= 20
+	* % change >= 15
+	* Day's $ Volume >= 3000000
+	* Day's Trade >= 3000
+* OTC
+	* Last Price > 0.1
+	* $ Volume >= 500
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzQ5MjcyNDUsMTQyMDI1MDUwMywtMT
-IyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTgyNDc1MTEzNCwxNDIwMjUwNTAzLC0xMj
+IyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
 -->

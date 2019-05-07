@@ -73,6 +73,7 @@
 	*	Level 2 is important
 
 ## Technical Indicators
+
 * When a buyer shows not getting filled while not aligning with Time and Sales then this is possibly being faked. This is the same when it goes to sellers.
 * Level 2 is useful when there's volatility, it could indicate when there's a change of direction.
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
@@ -107,9 +108,11 @@
 	* Net Change >= 0
 
 ## Strategy 1 - Promotion
+
 * Promoter with good history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05OD
-k4MzU1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQw
-MzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOT
+YzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIwMjUw
+NTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MT
+JdfQ==
 -->

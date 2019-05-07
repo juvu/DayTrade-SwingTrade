@@ -78,6 +78,7 @@
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
 ## EquityFeed Stock Scanning Configurations
+
 * All Sectors
 * All News Types
 * Stock Type
@@ -105,7 +106,7 @@
 	* Day's Trade >= 400
 	* Net Change >= 0
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxND
-IwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNDU5NjQ3NDU5LC05ODk4MzU1MDMsLTE2OT
+k0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2
+Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

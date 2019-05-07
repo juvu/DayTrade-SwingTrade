@@ -45,11 +45,11 @@
 
 ## Market Scanners
 
-* Top Scanners:
+* Top Scanners
 	* EquityFeed
 	* Stocks to Trade
 	* Interactive Traders
-* Free Scanners:
+* Free Scanners
 	* Thinkorswim
 	* Finviz.com
 * Technical Analysis
@@ -63,14 +63,15 @@
 
 ## OTC v.s. Listed
 
-* **Listed**
+* Listed
 	* Buy dips, sell highs
 	* Charts are choppier
 	* Many "fakeout" moves
 	* Level 2 not as useful
-* **OTC**
-
+* OTC
+	*	Pumps and Dumps
+	*	Level 2 is im
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE3NzAyMDU2LDE0MjAyNTA1MDMsLTEyMj
+eyJoaXN0b3J5IjpbOTcyODY2NjQ3LDE0MjAyNTA1MDMsLTEyMj
 I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
 -->

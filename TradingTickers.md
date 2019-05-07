@@ -21,7 +21,8 @@
 * *float* refers to # of shares available for trading
 * Shorting
 	* SureTrader(DasPro)
-	* Centerpoint(Sterling) []
+	* Centerpoint(Sterling) [Easy to borrow HTB shares]
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEwODI5NDI3LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
 -->

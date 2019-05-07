@@ -20,8 +20,8 @@
 * *Liquidity* refers to how easy one can get in and out of a position
 * *float* refers to # of shares available for trading
 * Shorting
-	* SureTrader
+	* SureTrader(DasPro)
+	* Centerpoint(Sterling) []
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU5Njg3NjEsLTIwODg3NDY2MTJdfQ
-==
+eyJoaXN0b3J5IjpbNjEwODI5NDI3LC0yMDg4NzQ2NjEyXX0=
 -->

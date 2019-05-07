@@ -20,8 +20,8 @@
 * *Liquidity* refers to how easy one can get in and out of a position
 * *float* refers to # of shares available for trading
 * Shorting
-	* S
+	* SureTrader
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzUyOTQxMjEsLTIwODg3NDY2MTJdfQ
+eyJoaXN0b3J5IjpbLTEwODU5Njg3NjEsLTIwODg3NDY2MTJdfQ
 ==
 -->

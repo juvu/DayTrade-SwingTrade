@@ -42,8 +42,8 @@
 * ETrade: Low cost, Decent OTC Execution, Improved borrows
 * Interactive Brokers: Longer Short Time
 
-##
+## Market Scanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNTgxMTU2LDE3NTcwMzY3OTksLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMj
+A4ODc0NjYxMl19
 -->

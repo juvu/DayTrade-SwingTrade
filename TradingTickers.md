@@ -123,7 +123,7 @@
 * Identify good promotors
 	* Look at the correlation between stock volume and promotion
 	* Need to see spike in volume in millions
-	* If the stock is being promoted for multiple days, if it is, how strong are the prices holding
+	* If it's being promoted for multiple days, if it is, how strong are the prices holding
 * Once a good promotor is identified, we need to identify the same stock promotor on different domains to ensure we get the information the fastest
 	* From gmail, identify promotors promoting the same ticker at similar times
 	* Go on yougetsignal.com
@@ -131,10 +131,10 @@
 	* Find other stock promotor sites on the same server
 	* They are essentially from the same stock promoter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5Nzk4MDI3LC04NzE1Njc3MDMsLTEzMT
-Y3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0
-MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC
-0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIw
-MjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3ND
-Y2MTJdfQ==
+eyJoaXN0b3J5IjpbMTU4NjU3MjE5MywtODcxNTY3NzAzLC0xMz
+E2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4
+NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMi
+wtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQy
+MDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4Nz
+Q2NjEyXX0=
 -->

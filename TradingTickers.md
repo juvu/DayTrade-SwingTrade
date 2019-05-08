@@ -110,9 +110,10 @@
 ## Strategy 1 - Promotion
 
 * Promoter with good history
+* SpeedTrader is good for getting filled
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMz
-A3NDE3NDEyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2
-MjEyOCwxNDIwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OT
-ksLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbOTY2MjcwMTkyLC0yMDU5NTU0OTM5LC00OD
+E5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1
+MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOS
+wxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

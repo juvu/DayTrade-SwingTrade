@@ -113,10 +113,12 @@
 * SpeedTrader is good for getting filled
 * Process
 	* Google "Hot Penny Stocks", "Penny Stock Picks" etc..
-	* 
+	* Advertising sites are mote effective
+	* Repeat every few weeks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDE1ODQxNiwtMjA1OTU1NDkzOSwtND
-gxOTkwNzI0LC0zMDc0MTc0MTIsLTE5NjMxNjI1NSwtOTg5ODM1
-NTAzLC0xNjk5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4Mj
-ksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTcyMjAwODM2NSwxNTAwMTU4NDE2LC0yMD
+U5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2
+MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMy
+wtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+
 -->

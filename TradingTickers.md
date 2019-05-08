@@ -111,9 +111,12 @@
 
 * Promoter with good history
 * SpeedTrader is good for getting filled
+* Process
+	* Google "Hot Penny Stocks", "Penny Stock Picks" etc..
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY2MjcwMTkyLC0yMDU5NTU0OTM5LC00OD
-E5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1
-MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOS
-wxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTUwMDE1ODQxNiwtMjA1OTU1NDkzOSwtND
+gxOTkwNzI0LC0zMDc0MTc0MTIsLTE5NjMxNjI1NSwtOTg5ODM1
+NTAzLC0xNjk5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4Mj
+ksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
 -->

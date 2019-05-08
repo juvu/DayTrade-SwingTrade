@@ -137,10 +137,10 @@
 * Make multiple email and link them to the same account to ensure the promotions will reach the email the fastest
 * **Strategy Overview**
 * Get in, get out, move on
-* Would buy ASAP, using hotkeys and multiple routes
-* 
+* Would used to buy ASAP, using hotkeys and multiple routes (Now most major promotors hit overnight)
+* That was history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEwMjA0ODc5LDcwMzI2MjgzMSwtNDYyNz
+eyJoaXN0b3J5IjpbMzIzMDc5MTU4LDcwMzI2MjgzMSwtNDYyNz
 c4MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3
 MDMsLTEzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LD
 E1MDAxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3

@@ -115,8 +115,11 @@
 	* Google "Hot Penny Stocks", "Penny Stock Picks" etc..
 	* Advertising sites are mote effective
 	* Repeat every few weeks
+* StockPromoters.com
+	* Go through news letters, and sign up for them
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjAwODM2NSwxNTAwMTU4NDE2LC0yMD
+eyJoaXN0b3J5IjpbMTc0MTQ3MzE5MiwxNTAwMTU4NDE2LC0yMD
 U5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2
 MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMy
 wtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=

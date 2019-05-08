@@ -132,9 +132,9 @@
 	* Even when a domain is listed already, we still want to check using reverse IP Domain check since it may got moved to a different server
 	* Change the ip slightly to see if there are promotors using similar ip(i.e. from 198.27.66.153 to 198.27.66.154)
 	* They are essentially from the same stock promoter
-
+	* Once finished, use ThePUMPTracker to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1MTg4OTMzNSwtMTYyMzI4MDIyMCwtOD
+eyJoaXN0b3J5IjpbLTM5MDg0NzQ0NywtMTYyMzI4MDIyMCwtOD
 cxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1
 MTMwNiwxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3Mj
 QsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2

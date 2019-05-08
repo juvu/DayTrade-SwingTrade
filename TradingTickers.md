@@ -129,12 +129,13 @@
 	* Go on yougetsignal.com
 	* Use Reverse IP Domain Check
 	* Find other stock promotor sites on the same server
+	* Change the domain slightly to see if there are promotor sites
 	* They are essentially from the same stock promoter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MTI3NTg2NSwtODcxNTY3NzAzLC0xMz
-E2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4
-NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMi
-wtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQy
-MDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4Nz
-Q2NjEyXX0=
+eyJoaXN0b3J5IjpbOTg2OTQxODMsLTg3MTU2NzcwMywtMTMxNj
+cwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQx
+NiwtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLT
+E5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0MjAy
+NTA1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0Nj
+YxMl19
 -->

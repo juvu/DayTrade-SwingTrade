@@ -136,13 +136,13 @@
 	* Go to each of the websites, find unique slogans/testimonial(reviews)  to search using "..." to find websites from the same promoter
 * Make multiple email and link them to the same account to ensure the promotions will reach the email the fastest
 * **Strategy Overview**
-* 
+* Get in, get out, move on
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwOTQ3MjAyLDcwMzI2MjgzMSwtNDYyNz
-c4MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3
-MDMsLTEzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LD
-E1MDAxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3
-NDE3NDEyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2Mj
-EyOCwxNDIwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTks
-LTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTM4NTM1NTg5NSw3MDMyNjI4MzEsLTQ2Mj
+c3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtODcxNTY3
+NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNi
+wxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMw
+NzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0Nj
+IxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5
+LC0yMDg4NzQ2NjEyXX0=
 -->

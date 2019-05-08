@@ -117,10 +117,11 @@
 	* Repeat every few weeks
 * StockPromoters.com
 	* Go through news letters, and sign up for them
-* ThePUMPTracker from twitter
-* St
+* Promotors
+	* ThePUMPTracker from twitter
+	* StockTips
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NTgwNzkxNCwtMTM1Mjg0NzU0MSwtOT
+eyJoaXN0b3J5IjpbLTcxMzU0MzgxOCwtMTM1Mjg0NzU0MSwtOT
 EyNTEzMDYsMTUwMDE1ODQxNiwtMjA1OTU1NDkzOSwtNDgxOTkw
 NzI0LC0zMDc0MTc0MTIsLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC
 0xNjk5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1

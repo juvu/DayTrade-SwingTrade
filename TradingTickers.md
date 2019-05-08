@@ -109,7 +109,7 @@
 
 ## Strategy 1 - Promotion
 
-* Goal is to identify promoter with good history
+* **Goal is to identify promoter with good promotion history**
 * SpeedTrader is good for getting orders filled
 * Process
 	* Google/Yahoo "Hot Penny Stocks", "Penny Stock Picks" etc..
@@ -135,12 +135,13 @@
 	* Once finished, use ThePUMPTracker to see if the same ticker is promoted there, add it to the news letter and keep track to see if they belong to the same group
 	* Go to each of the websites, find unique slogans/testimonial(reviews)  to search using "..." to find websites from the same promoter
 * Make multiple email and link them to the same account to ensure the promotions will reach the email the fastest
+* **How to trade them**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MD
-YyODQxMzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcw
-MDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQxNi
-wtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLTE5
-NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0MjAyNT
-A1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYx
-Ml19
+eyJoaXN0b3J5IjpbMTIwMzA5OTIwMyw3MDMyNjI4MzEsLTQ2Mj
+c3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtODcxNTY3
+NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNi
+wxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMw
+NzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0Nj
+IxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5
+LC0yMDg4NzQ2NjEyXX0=
 -->

@@ -113,7 +113,7 @@
 * SpeedTrader is good for getting filled
 * Process
 	* Google/Yahoo "Hot Penny Stocks", "Penny Stock Picks" etc..
-	* Advertising sites are more effective in general
+	* Advertised sites are more effective in general
 	* Repeat every few weeks
 * StockPromoters.com
 	* Go through news letters, and sign up for them
@@ -123,13 +123,14 @@
 * Look at the correlation between volume and promotion
 * Need to see spike in volume in millions
 * Check if it's being promoted for multiple days, if it is, how strong are the prices holding
-* Once a good promotor is identified, we need to identify the same stock promotor on different domains
-	* 
+* Once a good promotor is identified, we need to identify the same stock promotor on different domains to ensure 
+	* Go on yougetsignal.com
+	* Use Reverse IP Domain Check
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDQ4Mzk1NTgsLTg3MTU2NzcwMywtMT
-MxNjcwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1
-ODQxNiwtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MT
-IsLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0
-MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbLTYyMTQ0NDg1OSwtODcxNTY3NzAzLC0xMz
+E2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4
+NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMi
+wtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQy
+MDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4Nz
+Q2NjEyXX0=
 -->

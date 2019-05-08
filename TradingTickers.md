@@ -123,12 +123,12 @@
 * Look at the correlation between volume and promotion
 * Need to see spike in volume in millions
 * Check if it's being promoted for multiple days, if it is, how strong are the prices holding
-* Once an good promotor is identified, we need to reverse the website 
+* Once a good promotor is identified, we need to search for websites from the same server 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY5OTE3NTg1LC04NzE1Njc3MDMsLTEzMT
-Y3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0
-MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC
-0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIw
-MjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3ND
-Y2MTJdfQ==
+eyJoaXN0b3J5IjpbMTY4MjkwOTk1MiwtODcxNTY3NzAzLC0xMz
+E2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4
+NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMi
+wtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQy
+MDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4Nz
+Q2NjEyXX0=
 -->

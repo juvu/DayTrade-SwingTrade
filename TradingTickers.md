@@ -112,16 +112,17 @@
 * Promoter with good history
 * SpeedTrader is good for getting filled
 * Process
-	* Google "Hot Penny Stocks", "Penny Stock Picks" etc..
+	* Google/Yahoo  "Hot Penny Stocks", "Penny Stock Picks" etc..
 	* Advertising sites are mote effective
 	* Repeat every few weeks
 * StockPromoters.com
 	* Go through news letters, and sign up for them
 * ThePUMPTracker from twitter
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIwNT
-k1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMTYy
-NTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIwMjUwNTAzLC
-0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIwODg3NDY2MTJdfQ==
-
+eyJoaXN0b3J5IjpbLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MD
+AxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3
+NDEyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOC
+wxNDIwMjUwNTAzLC0xMjIyNDAzODI5LDE3NTcwMzY3OTksLTIw
+ODg3NDY2MTJdfQ==
 -->

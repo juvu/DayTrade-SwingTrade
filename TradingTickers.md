@@ -133,12 +133,13 @@
 	* Change the ip slightly to see if there are promotors using similar ip(i.e. from 198.27.66.153 to 198.27.66.154)
 	* They are essentially from the same stock promoter
 	* Once finished, use ThePUMPTracker to see if the same ticker is promoted there, add it to the news letter and keep track to see if they belong to the same group
-	* Go to each of the websites, find unique phases to search using "..." to find websites of the same promoter
+	* Go to each of the websites, find unique slogans/testimonial(reviews)  to search using "..." to find websites from the same promoter
+	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkyOTc5NzQsLTE2MDYyODQxMzksLT
-E2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcwMDkwNiwtMTM1
-Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQxNiwtMjA1OTU1ND
-kzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLTE5NjMxNjI1NSwt
-OTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0MjAyNTA1MDMsLTEyMj
-I0MDM4MjksMTc1NzAzNjc5OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMT
+YyMzI4MDIyMCwtODcxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUy
+ODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4NDE2LC0yMDU5NTU0OT
+M5LC00ODE5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05
+ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMj
+QwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4NzQ2NjEyXX0=
 -->

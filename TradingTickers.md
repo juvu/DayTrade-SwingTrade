@@ -124,15 +124,16 @@
 * Need to see spike in volume in millions
 * Check if it's being promoted for multiple days, if it is, how strong are the prices holding
 * Once a good promotor is identified, we need to identify the same stock promotor on different domains to ensure we get the information the fastest
-	* From the gmail list, 
+	* From gmail, identify promotors promoting the same ticker at similar times
 	* Go on yougetsignal.com
 	* Use Reverse IP Domain Check
-	* Find other websites on 
+	* Find other stock promotor sites on the same server
+	* They are essentially from the same stock promoter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODc2ODU2MzQsLTg3MTU2NzcwMywtMT
-MxNjcwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1
-ODQxNiwtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MT
-IsLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0
-MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5OSwtMjA4OD
-c0NjYxMl19
+eyJoaXN0b3J5IjpbMTM4OTI2NjA1NCwtODcxNTY3NzAzLC0xMz
+E2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4
+NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMi
+wtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgsMTQy
+MDI1MDUwMywtMTIyMjQwMzgyOSwxNzU3MDM2Nzk5LC0yMDg4Nz
+Q2NjEyXX0=
 -->

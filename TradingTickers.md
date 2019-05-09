@@ -139,19 +139,18 @@
 * Get in, get out, move on
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
 * When do the promotions get announced?
-	* Used to get announced randomly
+	* Used to get announced randomly in the mail
 		* Would buy ASAP, using hotkeys and multiple routes when there's newsletters
 	* Now most major promoters announce them overnight
 		* Trade them if there's good volume over premarket
 		* Need to be careful as they usually gap up get may be overbought
-	* The new method is to buy in premarket when the stock is trading at large volume
-	* Some would get announce at the bell, if they gap up with no news it would pop up in the trading history
+	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the trading history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2OT
-U3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4MzEs
-LTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtOD
-cxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1
-MTMwNiwxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3Mj
-QsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2
-OTk0NjIxMjhdfQ==
+eyJoaXN0b3J5IjpbMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUyOD
+I1NjY4LDg5MDY5NTc3NywxMTU3NjI0NjQzLC0xMjYzNTU4ODEw
+LDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0MTM5LC0xNj
+IzMjgwMjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MDYsLTEzNTI4
+NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIwNTk1NTQ5Mz
+ksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMTYyNTUsLTk4
+OTgzNTUwM119
 -->

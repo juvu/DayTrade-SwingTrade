@@ -150,13 +150,13 @@
 * Before the opening bell,  price may get knock back down momentarily due to manipulation.
 * When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support, as close as possible to market open
 * Premarket high could be a resistance
-* 
+* Watch level 2 and T& S closely
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDQzMTYxMCwtMTYyODMwMTQxOSwxMT
-A3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2
-ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLD
-g1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYyNDY0MywtMTI2MzU1
-ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOS
-wtMTYyMzI4MDIyMCwtODcxNTY3NzAzLC0xMzE2NzAwOTA2LC0x
-MzUyODQ3NTQxXX0=
+eyJoaXN0b3J5IjpbLTExNjI3MzA0ODQsLTE2MjgzMDE0MTksMT
+EwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMTA2Nzc2MDMxOSwxODI3
+Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1MDUyLDk2ODMwODcyMi
+w4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNjM1
+NTg4MTAsNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MDYyODQxMz
+ksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcwMDkwNiwt
+MTM1Mjg0NzU0MV19
 -->

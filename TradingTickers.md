@@ -146,13 +146,13 @@
 		* Need to be careful as they usually gap up get may be overbought
 	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the trading history
 		* Can sometimes be spotted if OTC being traded in large volume for no reason, then it would likely pop up in scanner
-* Before the opening bell,  
+* Before the opening bell,  price may get knock back down momentarily due to manipulation
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4Mz
-A4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYyNDY0Mywt
-MTI2MzU1ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1MCwtMTYwNj
-I4NDEzOSwtMTYyMzI4MDIyMCwtODcxNTY3NzAzLC0xMzE2NzAw
-OTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAwMTU4NDE2LC
-0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNzQxMiwtMTk2
-MzE2MjU1XX0=
+eyJoaXN0b3J5IjpbMTgyNzY4OTA0NywtOTM5NzI0OTcsMTgxMD
+Q3NTA1Miw5NjgzMDg3MjIsODUyODI1NjY4LDg5MDY5NTc3Nywx
+MTU3NjI0NjQzLC0xMjYzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNz
+c4MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3
+MDMsLTEzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LD
+E1MDAxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3
+NDE3NDEyXX0=
 -->

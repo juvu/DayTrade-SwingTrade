@@ -107,7 +107,7 @@
 	* Day's Trade >= 400
 	* Net Change >= 0
 
-## Strategy 1 - Promotion
+## Strategy 1 - Stock Promotion
 
 * **Goal is to identify promoter with good promotion history**
 * SpeedTrader is good for getting orders filled
@@ -155,12 +155,14 @@
 * Sell half of the shares when it hits first resistance
 * One of the potential risk level is red-green level
 * Test different market makers to see which one is more efficient
+
+## Buying Multi-day Breakouts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTk3ODY5MCwtMTE0MDMxNTEwOSwxNT
-YwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LDExMDcx
-NDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMTgyNzY4OT
-A0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUy
-ODI1NjY4LDg5MDY5NTc3NywxMTU3NjI0NjQzLC0xMjYzNTU4OD
-EwLDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0MTM5LC0x
-NjIzMjgwMjIwXX0=
+eyJoaXN0b3J5IjpbMzkyNjU1OTI4LDEyNjk5Nzg2OTAsLTExND
+AzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMw
+MTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMz
+E5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4
+MzA4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYyNDY0My
+wtMTI2MzU1ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1MCwtMTYw
+NjI4NDEzOV19
 -->

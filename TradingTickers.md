@@ -153,13 +153,13 @@
 * Watch level 2 and T& S closely
 * Try to sell when it's still strong, once it's weak it gets very hard to sell
 * Sell half of the shares when it hits first resistance
-* 
+* One of the potential risk level is red-green level
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNjE0MTQxLDE1NjA2MzA3MjUsLTIxND
-MwMTQ1NDQsLTE2MjgzMDE0MTksMTEwNzE0ODUzNSwtMTg0MDUw
-MTI5OCwtMTA2Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5Ny
-wxODEwNDc1MDUyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1
-Nzc3LDExNTc2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYyODMxLC
-00NjI3NzgwNTAsLTE2MDYyODQxMzksLTE2MjMyODAyMjAsLTg3
-MTU2NzcwM119
+eyJoaXN0b3J5IjpbLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMj
+E0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQw
+NTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyND
+k3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2
+OTU3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4Mz
+EsLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwt
+ODcxNTY3NzAzXX0=
 -->

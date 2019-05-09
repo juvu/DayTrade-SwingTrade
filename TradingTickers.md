@@ -139,14 +139,14 @@
 * Get in, get out, move on
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
 * Would used to buy ASAP, using hotkeys and multiple routes until promoters announce them overnight
-* The new uy premarket when the stock is trading at large volume
+* The new method is to buy in premarket when the stock is trading at large volume
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDYzNjA0MCwxMTU3NjI0NjQzLC0xMj
-YzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0
-MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MD
-YsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIw
-NTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMT
-YyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwxNDIwMjUwNTAz
-LC0xMjIyNDAzODI5XX0=
+eyJoaXN0b3J5IjpbODkwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNj
+M1NTg4MTAsNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MDYyODQx
+MzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcwMDkwNi
+wtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQxNiwtMjA1
+OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLTE5NjMxNj
+I1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0MjAyNTA1MDMs
+LTEyMjI0MDM4MjldfQ==
 -->

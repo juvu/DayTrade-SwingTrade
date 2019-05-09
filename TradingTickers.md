@@ -152,12 +152,13 @@
 * Premarket high could be a resistance
 * Watch level 2 and T& S closely
 * Try to sell when it's still strong, once it's weak it gets very hard to sell
+* Sell half of the shares when it hits first resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDMwMTQ1NDQsLTE2MjgzMDE0MTksMT
-EwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMTA2Nzc2MDMxOSwxODI3
-Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1MDUyLDk2ODMwODcyMi
-w4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNjM1
-NTg4MTAsNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MDYyODQxMz
-ksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcwMDkwNiwt
-MTM1Mjg0NzU0MV19
+eyJoaXN0b3J5IjpbMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMT
+YyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3
+NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNT
+IsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYy
+NDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1MC
+wtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtODcxNTY3NzAzLC0x
+MzE2NzAwOTA2XX0=
 -->

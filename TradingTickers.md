@@ -74,7 +74,7 @@
 
 ## Technical Indicators
 
-* When a buyer shows not getting filled while not aligning with Time and Sales then this is possibly being faked. This is the same when it goes to sellers.
+* When a buyer shows not getting filled while not aligning with Time and Sales then this is possibly being faked. This is the same for sellers.
 * Level 2 is useful when there's volatility, it could indicate when there's a change of direction.
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
@@ -156,13 +156,13 @@
 * One of the potential risk level is red-green level
 * Test different market makers to see which one is more efficient
 
-## Buying Multi-day Breakouts
+## Strategy 2 - Buying Multi-day Breakouts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExND
-AzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMw
-MTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMz
-E5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4
-MzA4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYyNDY0My
-wtMTI2MzU1ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1MCwtMTYw
-NjI4NDEzOV19
+eyJoaXN0b3J5IjpbNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OT
+c4NjkwLC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1
+NDQsLTE2MjgzMDE0MTksMTEwNzE0ODUzNSwtMTg0MDUwMTI5OC
+wtMTA2Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5NywxODEw
+NDc1MDUyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LD
+ExNTc2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYyODMxLC00NjI3
+NzgwNTBdfQ==
 -->

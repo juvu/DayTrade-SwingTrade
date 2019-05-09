@@ -137,16 +137,17 @@
 * Make multiple email and link them to the same account to ensure the promotions will reach the email the fastest
 * **Strategy Overview**
 * Get in, get out, move on
+* Remember how good day one of the promotion was last time, and how good was the overall promotion
 * Would used to buy ASAP, using hotkeys and multiple routes 
 * That was history, now most major promotors hit overnight
 	* Buy premarket when the stock is trading at large volume
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjM1NTg4MTAsNzAzMjYyODMxLC00Nj
-I3NzgwNTAsLTE2MDYyODQxMzksLTE2MjMyODAyMjAsLTg3MTU2
-NzcwMywtMTMxNjcwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMD
-YsMTUwMDE1ODQxNiwtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0z
-MDc0MTc0MTIsLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5ND
-YyMTI4LDE0MjAyNTA1MDMsLTEyMjI0MDM4MjksMTc1NzAzNjc5
-OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNzUzOTYxNDgzLC0xMjYzNTU4ODEwLDcwMz
+I2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgw
+MjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MDYsLTEzNTI4NDc1ND
+EsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4
+MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMTYyNTUsLTk4OTgzNT
+UwMywtMTY5OTQ2MjEyOCwxNDIwMjUwNTAzLC0xMjIyNDAzODI5
+LDE3NTcwMzY3OTldfQ==
 -->

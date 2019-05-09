@@ -140,16 +140,18 @@
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
 * When do the promotions get announced?
 	* Used to get announced randomly
-		* W buy ASAP, using hotkeys and multiple routes when there's newsletters
+		* Would buy ASAP, using hotkeys and multiple routes when there's newsletters
 	* Now most major promoters announce them overnight
+		* Trade them if there's good volume over premarket
+		* Need to be careful as they usually gap up get may be overbought
 	* The new method is to buy in premarket when the stock is trading at large volume
 	* Tr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzY5OTU2MCw4OTA2OTU3NzcsMTE1Nz
-YyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4MzEsLTQ2Mjc3ODA1
-MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtODcxNTY3NzAzLC
-0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1MTMwNiwxNTAw
-MTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3MjQsLTMwNzQxNz
-QxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2OTk0NjIxMjgs
-MTQyMDI1MDUwM119
+eyJoaXN0b3J5IjpbODUyODI1NjY4LDg5MDY5NTc3NywxMTU3Nj
+I0NjQzLC0xMjYzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4MDUw
+LC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MDMsLT
+EzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAx
+NTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3ND
+EyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwx
+NDIwMjUwNTAzXX0=
 -->

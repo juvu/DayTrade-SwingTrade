@@ -138,15 +138,16 @@
 * **Strategy Overview**
 * Get in, get out, move on
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
-* Would used to buy ASAP, using hotkeys and multiple routes until promoters announce them overnight
-* The new method is to buy in premarket when the stock is trading at large volume
-	* 
+* when do the promotions get announced?
+	* Would used to buy ASAP, using hotkeys and multiple routes until promoters announce them overnight
+	* The new method is to buy in premarket when the stock is trading at large volume
+	* Tr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNj
-M1NTg4MTAsNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MDYyODQx
-MzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcwMDkwNi
-wtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQxNiwtMjA1
-OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLTE5NjMxNj
-I1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4LDE0MjAyNTA1MDMs
-LTEyMjI0MDM4MjldfQ==
+eyJoaXN0b3J5IjpbLTIwNjEwODc2MjUsODkwNjk1Nzc3LDExNT
+c2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYyODMxLC00NjI3Nzgw
+NTAsLTE2MDYyODQxMzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMy
+wtMTMxNjcwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUw
+MDE1ODQxNiwtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MT
+c0MTIsLTE5NjMxNjI1NSwtOTg5ODM1NTAzLC0xNjk5NDYyMTI4
+LDE0MjAyNTA1MDNdfQ==
 -->

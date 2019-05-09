@@ -147,13 +147,13 @@
 	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the trading history
 		* Can sometimes be spotted if OTC being traded in large volume for no reason, then it would likely pop up in scanner
 * Before the opening bell,  price may get knock back down momentarily due to manipulation.
-* When the volume is big, it's an indication of a support since it could indicate change of direction
+* When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMT
-gyNzY4OTA0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5NjgzMDg3
-MjIsODUyODI1NjY4LDg5MDY5NTc3NywxMTU3NjI0NjQzLC0xMj
-YzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0
-MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MD
-YsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIw
-NTk1NTQ5MzldfQ==
+eyJoaXN0b3J5IjpbLTIwMTU5NzU0NTksLTE4NDA1MDEyOTgsLT
+EwNjc3NjAzMTksMTgyNzY4OTA0NywtOTM5NzI0OTcsMTgxMDQ3
+NTA1Miw5NjgzMDg3MjIsODUyODI1NjY4LDg5MDY5NTc3NywxMT
+U3NjI0NjQzLC0xMjYzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4
+MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MD
+MsLTEzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1
+MDAxNTg0MTZdfQ==
 -->

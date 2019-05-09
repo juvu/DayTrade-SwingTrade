@@ -148,13 +148,13 @@
 		* Can sometimes be spotted if OTC being traded in large volume for no reason, then it would likely pop up in scanner
 * Before the opening bell,  price may get knock back down momentarily due to manipulation.
 * When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support, as close as possible to market open
-* 
+* Premarket 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMT
-A2Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1
-MDUyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LDExNT
-c2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYyODMxLC00NjI3Nzgw
-NTAsLTE2MDYyODQxMzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMy
-wtMTMxNjcwMDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUw
-MDE1ODQxNl19
+eyJoaXN0b3J5IjpbMTY4NzExOTMxOCwxMTA3MTQ4NTM1LC0xOD
+QwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcy
+NDk3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OT
+A2OTU3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4
+MzEsLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMC
+wtODcxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05
+MTI1MTMwNl19
 -->

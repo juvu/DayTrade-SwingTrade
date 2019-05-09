@@ -138,12 +138,11 @@
 * **Strategy Overview**
 * Get in, get out, move on
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
-* Would used to buy ASAP, using hotkeys and multiple routes b
-* That was history, now most major promotors hit overnight
-	* Buy premarket when the stock is trading at large volume
+* Would used to buy ASAP, using hotkeys and multiple routes until promoters announce them overnight
+* The new uy premarket when the stock is trading at large volume
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjE4MjAyMSwxMTU3NjI0NjQzLC0xMj
+eyJoaXN0b3J5IjpbLTI5NDYzNjA0MCwxMTU3NjI0NjQzLC0xMj
 YzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0
 MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MD
 YsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIw

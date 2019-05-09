@@ -144,17 +144,17 @@
 	* Now most major promoters announce them overnight
 		* Trade them if there's good volume over premarket
 		* Need to be careful as they usually gap up get may be overbought
-	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the trading history
+	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the scanner
 		* Can sometimes be spotted if OTC being traded in large volume for no reason, then it would likely pop up in scanner
 * Before the opening bell,  price may get knock back down momentarily due to manipulation.
 * When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support, as close as possible to market open
-* Premarket 
+* Premarket high could be a resistance
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzExOTMxOCwxMTA3MTQ4NTM1LC0xOD
-QwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcy
-NDk3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OT
-A2OTU3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4
-MzEsLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMC
-wtODcxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05
-MTI1MTMwNl19
+eyJoaXN0b3J5IjpbLTE2MjgzMDE0MTksMTEwNzE0ODUzNSwtMT
+g0MDUwMTI5OCwtMTA2Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3
+MjQ5NywxODEwNDc1MDUyLDk2ODMwODcyMiw4NTI4MjU2NjgsOD
+kwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYy
+ODMxLC00NjI3NzgwNTAsLTE2MDYyODQxMzksLTE2MjMyODAyMj
+AsLTg3MTU2NzcwMywtMTMxNjcwMDkwNiwtMTM1Mjg0NzU0MSwt
+OTEyNTEzMDZdfQ==
 -->

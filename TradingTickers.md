@@ -145,12 +145,13 @@
 		* Trade them if there's good volume over premarket
 		* Need to be careful as they usually gap up get may be overbought
 	* Some would get announce at the opening bell, if they gap up with no news it would pop up in the trading history
+		* Can sometimes be spotted if OTC being traded in large volume for no reason
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUyOD
-I1NjY4LDg5MDY5NTc3NywxMTU3NjI0NjQzLC0xMjYzNTU4ODEw
-LDcwMzI2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0MTM5LC0xNj
-IzMjgwMjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MDYsLTEzNTI4
-NDc1NDEsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIwNTk1NTQ5Mz
-ksLTQ4MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMTYyNTUsLTk4
-OTgzNTUwM119
+eyJoaXN0b3J5IjpbLTI3MjA4MDg0MiwxODEwNDc1MDUyLDk2OD
+MwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2MjQ2NDMs
+LTEyNjM1NTg4MTAsNzAzMjYyODMxLC00NjI3NzgwNTAsLTE2MD
+YyODQxMzksLTE2MjMyODAyMjAsLTg3MTU2NzcwMywtMTMxNjcw
+MDkwNiwtMTM1Mjg0NzU0MSwtOTEyNTEzMDYsMTUwMDE1ODQxNi
+wtMjA1OTU1NDkzOSwtNDgxOTkwNzI0LC0zMDc0MTc0MTIsLTE5
+NjMxNjI1NV19
 -->

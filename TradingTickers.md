@@ -151,8 +151,9 @@
 * When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support, as close as possible to market open
 * Premarket high could be a resistance
 * Watch level 2 and T& S closely
+* Try to sell when it's still strong, once it's weak it gets very hard to sell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI3MzA0ODQsLTE2MjgzMDE0MTksMT
+eyJoaXN0b3J5IjpbLTIxNDMwMTQ1NDQsLTE2MjgzMDE0MTksMT
 EwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMTA2Nzc2MDMxOSwxODI3
 Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1MDUyLDk2ODMwODcyMi
 w4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2MjQ2NDMsLTEyNjM1

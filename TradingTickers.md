@@ -154,9 +154,9 @@
 * Try to sell when it's still strong, once it's weak it gets very hard to sell
 * Sell half of the shares when it hits first resistance
 * One of the potential risk level is red-green level
-* 
+* Test different market makers to see which one is more efficient
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODM4NDA0NSwtMTE0MDMxNTEwOSwxNT
+eyJoaXN0b3J5IjpbMTI2OTk3ODY5MCwtMTE0MDMxNTEwOSwxNT
 YwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LDExMDcx
 NDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMTgyNzY4OT
 A0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUy

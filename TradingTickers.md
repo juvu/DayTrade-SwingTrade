@@ -145,13 +145,13 @@
 		* Trade them if there's good volume over premarket
 		* Need to be careful as they usually gap up get may be overbought
 	* The new method is to buy in premarket when the stock is trading at large volume
-	* Tr
+	* Some would get announce at the bell, if they gap up with no news it would pop up in the trading history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyODI1NjY4LDg5MDY5NTc3NywxMTU3Nj
-I0NjQzLC0xMjYzNTU4ODEwLDcwMzI2MjgzMSwtNDYyNzc4MDUw
-LC0xNjA2Mjg0MTM5LC0xNjIzMjgwMjIwLC04NzE1Njc3MDMsLT
-EzMTY3MDA5MDYsLTEzNTI4NDc1NDEsLTkxMjUxMzA2LDE1MDAx
-NTg0MTYsLTIwNTk1NTQ5MzksLTQ4MTk5MDcyNCwtMzA3NDE3ND
-EyLC0xOTYzMTYyNTUsLTk4OTgzNTUwMywtMTY5OTQ2MjEyOCwx
-NDIwMjUwNTAzXX0=
+eyJoaXN0b3J5IjpbOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2OT
+U3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMyNjI4MzEs
+LTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4MDIyMCwtOD
+cxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NTQxLC05MTI1
+MTMwNiwxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00ODE5OTA3Mj
+QsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4MzU1MDMsLTE2
+OTk0NjIxMjhdfQ==
 -->

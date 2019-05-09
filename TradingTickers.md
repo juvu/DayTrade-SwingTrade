@@ -138,16 +138,16 @@
 * **Strategy Overview**
 * Get in, get out, move on
 * Remember how good day one of the promotion was last time, and how good was the overall promotion
-* Would used to buy ASAP, using hotkeys and multiple routes 
+* Would used to buy ASAP, using hotkeys and multiple routes  
 * That was history, now most major promotors hit overnight
 	* Buy premarket when the stock is trading at large volume
 	* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUzOTYxNDgzLC0xMjYzNTU4ODEwLDcwMz
-I2MjgzMSwtNDYyNzc4MDUwLC0xNjA2Mjg0MTM5LC0xNjIzMjgw
-MjIwLC04NzE1Njc3MDMsLTEzMTY3MDA5MDYsLTEzNTI4NDc1ND
-EsLTkxMjUxMzA2LDE1MDAxNTg0MTYsLTIwNTk1NTQ5MzksLTQ4
-MTk5MDcyNCwtMzA3NDE3NDEyLC0xOTYzMTYyNTUsLTk4OTgzNT
-UwMywtMTY5OTQ2MjEyOCwxNDIwMjUwNTAzLC0xMjIyNDAzODI5
-LDE3NTcwMzY3OTldfQ==
+eyJoaXN0b3J5IjpbMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MD
+MyNjI4MzEsLTQ2Mjc3ODA1MCwtMTYwNjI4NDEzOSwtMTYyMzI4
+MDIyMCwtODcxNTY3NzAzLC0xMzE2NzAwOTA2LC0xMzUyODQ3NT
+QxLC05MTI1MTMwNiwxNTAwMTU4NDE2LC0yMDU5NTU0OTM5LC00
+ODE5OTA3MjQsLTMwNzQxNzQxMiwtMTk2MzE2MjU1LC05ODk4Mz
+U1MDMsLTE2OTk0NjIxMjgsMTQyMDI1MDUwMywtMTIyMjQwMzgy
+OSwxNzU3MDM2Nzk5XX0=
 -->

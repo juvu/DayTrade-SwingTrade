@@ -150,7 +150,7 @@
 * Before the opening bell,  price may get knock back down momentarily due to manipulation.
 * When the volume is big, with change of direction, it's indicating a support. Try to get in as close as possible in the premarket around the support, as close as possible to market open
 * Premarket high could be a resistance
-* Watch level 2 and T& S closely
+* Watch level 2 and T& S closely  
 * Try to sell when it's still strong, once it's weak it gets very hard to sell
 * Sell half of the shares when it hits first resistance
 * One of the potential risk level is red-green level
@@ -158,7 +158,7 @@
 
 ## Buying Multi-day Breakouts
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkyNjU1OTI4LDEyNjk5Nzg2OTAsLTExND
+eyJoaXN0b3J5IjpbMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExND
 AzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMw
 MTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMz
 E5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4

@@ -163,13 +163,14 @@
 * No major resistance levels nearby
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
-*  
+*  If holding overnight, risk green red or key support levels
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMT
-Y2NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4Njkw
-LC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLT
-E2MjgzMDE0MTksMTEwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMTA2
-Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1MD
-UyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2
-MjQ2NDNdfQ==
+eyJoaXN0b3J5IjpbMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03Nj
+A5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgw
+LDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMj
+E0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQw
+NTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyND
+k3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2
+OTU3NzddfQ==
 -->

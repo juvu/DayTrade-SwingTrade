@@ -203,6 +203,7 @@
 ## Listed stock breakouts
 * Resistance with no volume at those days does not matter as much
 * Need to test breakout level at least 2 times
+* Ideal chart is when a stock has burst in volume and a big run, then consolidates for a few days and then breaks
 * Daily chart
 	* BIG volume compared to the past
 	* High volatility
@@ -219,11 +220,11 @@
 	* Use green red
 	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzODE5Mzk3Nyw4NTE5MTg5NjgsMTUyOD
-ExMTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0
-MDIsMTk2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLD
-EzMTI2ODgwMSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQw
-MjMwNiwtNjk3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMC
-wtMTI3ODAwMzYyNywtMTgwMjkyOTY0NCw2MTgxMzQzNTIsMTcw
-NzIxNzMzMV19
+eyJoaXN0b3J5IjpbLTE2MDk2MjAzNDEsODUxOTE4OTY4LDE1Mj
+gxMTEyOTgsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkw
+NDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMS
+wxMzEyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0
+MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMj
+AsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3
+MDcyMTczMzFdfQ==
 -->

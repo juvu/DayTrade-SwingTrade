@@ -164,22 +164,24 @@
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
 *  If holding overnight, risk green red(below previous close) or key support levels
+* Also major support level can be risk area
 * Go small overnight in OTC
 * When breaking out, level 2 isn't important as it consolidates a lot
 * When betting overnight, use level 2 the next morning
 * At EOD, if the stock holding above key levels, may consider holding it overnight
 * If a breakout held all day, and in the EOD there started to be some action going towards upside, consider buying in
+* 
 * On day 2
 	* Use level 2
 	* Sell into strength
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMj
-c4MDAzNjI3LC0xODAyOTI5NjQ0LDYxODEzNDM1MiwxNzA3MjE3
-MzMxLC0xODE5MDYxMjU4LDIwNDE3MTE4NDMsMTk1OTQxMzc5Ni
-wtNzYwOTc4NTQxLDExMTY2NzMxMTcsNTc1Mzc0ODkxLDI1NDEx
-OTQ4MCwxMjY5OTc4NjkwLC0xMTQwMzE1MTA5LDE1NjA2MzA3Mj
-UsLTIxNDMwMTQ1NDQsLTE2MjgzMDE0MTksMTEwNzE0ODUzNSwt
-MTg0MDUwMTI5OF19
+eyJoaXN0b3J5IjpbLTY0Nzg5MDU5MywzMzk4MzQ2MTcsLTE3MD
+czMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0
+MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0My
+wxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUz
+NzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMD
+ksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwx
+MTA3MTQ4NTM1XX0=
 -->

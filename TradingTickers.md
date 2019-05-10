@@ -190,13 +190,13 @@
 * Use prior resistance as risk
 * OTC's can crash fast
 * Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the n<sup>ith</sup> day is below the close of a multi-day runner, then it's a clear momentum shift.
-* 
+* Don't avoid shorting strength
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5OD
-M0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5
-NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LD
-IwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMTY2
-NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4NjkwLC
-0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLTE2
-MjgzMDE0MTldfQ==
+eyJoaXN0b3J5IjpbLTEyMjk5NjcxNDYsLTI0NDAyMzA2LC02OT
+cxNTcxMTUsMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAz
+NjI3LC0xODAyOTI5NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC
+0xODE5MDYxMjU4LDIwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYw
+OTc4NTQxLDExMTY2NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MC
+wxMjY5OTc4NjkwLC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIx
+NDMwMTQ1NDRdfQ==
 -->

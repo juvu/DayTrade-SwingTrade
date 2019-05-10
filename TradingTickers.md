@@ -185,10 +185,11 @@
 * Multiple green days
 * Large % run relative to prior action
 * First red day
-* If it's a pump, then it's better
-* Look at history
+* If it's a pump, then it's better. Look at past promoter history.
+* Look at historical graph if it's not a stock promotion
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1OTQxMjg0NywtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbLTExNTUyMzQ3MCwtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

@@ -164,13 +164,13 @@
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
 *  If holding overnight, risk green red or key support levels
-* 
+* Go small overnight in OTC
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03Nj
-A5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgw
-LDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMj
-E0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQw
-NTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyND
-k3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2
-OTU3NzddfQ==
+eyJoaXN0b3J5IjpbMTEzMzU2NzMyOSwyMDQxNzExODQzLDE5NT
+k0MTM3OTYsLTc2MDk3ODU0MSwxMTE2NjczMTE3LDU3NTM3NDg5
+MSwyNTQxMTk0ODAsMTI2OTk3ODY5MCwtMTE0MDMxNTEwOSwxNT
+YwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LDExMDcx
+NDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMTgyNzY4OT
+A0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUy
+ODI1NjY4XX0=
 -->

@@ -194,9 +194,9 @@
 * Sometimes the first red day would not play out nicely for a few consecutive days in a row. In those cases see if first red day holds below previous close for a whole day on the intraday chart
 * First red day usually has a dip buy opportunity
 * Use red green as risk, can short into bounce
-* 
+* Sometimes there's a bounce, and we can short the stock the second time during the day
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMTg0MDQ5LDE5NjM0MjMwMzMsLTE5Nj
+eyJoaXN0b3J5IjpbNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5Nj
 QxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0
 MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMz
 k4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5

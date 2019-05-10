@@ -156,13 +156,14 @@
 * One of the potential risk level is red-green level
 * Test different market makers to see which one is more efficient
 
-## Strategy 2 - Buying Multi-day Breakouts
+## Strategy 2 - Buying OTC Multi-day Breakouts
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OT
-c4NjkwLC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1
-NDQsLTE2MjgzMDE0MTksMTEwNzE0ODUzNSwtMTg0MDUwMTI5OC
-wtMTA2Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5NywxODEw
-NDc1MDUyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LD
-ExNTc2MjQ2NDMsLTEyNjM1NTg4MTAsNzAzMjYyODMxLC00NjI3
-NzgwNTBdfQ==
+eyJoaXN0b3J5IjpbLTgwMzg5NDkxNyw1NzUzNzQ4OTEsMjU0MT
+E5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcy
+NSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC
+0xODQwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkz
+OTcyNDk3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1MjgyNTY2OC
+w4OTA2OTU3NzcsMTE1NzYyNDY0MywtMTI2MzU1ODgxMCw3MDMy
+NjI4MzFdfQ==
 -->

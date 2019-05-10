@@ -203,7 +203,9 @@
 ## Listed stock breakouts
 * Resistance with no volume at those days does not matter as much
 * Need to test breakout level at least 2 times
-* Ideal chart is when a stock has burst in volume and a big run, then consolidates for a few days and then breaks
+* Ideal chart is when a stock has burst in volume and a big run, then consolidates for a few days and then breaks out
+* Don't need to chase, buy dips if missed since charts will be choppy
+* Risk previous support, not breakout leve
 * Daily chart
 	* BIG volume compared to the past
 	* High volatility
@@ -220,7 +222,7 @@
 	* Use green red
 	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk2MjAzNDEsODUxOTE4OTY4LDE1Mj
+eyJoaXN0b3J5IjpbLTE3NTM4MzM1NDQsODUxOTE4OTY4LDE1Mj
 gxMTEyOTgsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkw
 NDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMS
 wxMzEyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0

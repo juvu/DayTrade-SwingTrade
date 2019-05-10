@@ -192,9 +192,9 @@
 * Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the n<sup>ith</sup> day is below the close of a multi-day runner, then it's a clear momentum shift.
 * Don't avoid shorting strength
 * Sometimes the first red day would not play out nicely for a few consecutive days in a row. In those cases see if first red day holds below previous close for a whole day on the intraday chart
-* Firs
+* First red day usually has a dip buy opportunity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjgwOTQ3NCwtMTIyOTk2NzE0NiwtMj
+eyJoaXN0b3J5IjpbMjEwMzk0NjIxMSwtMTIyOTk2NzE0NiwtMj
 Q0MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUx
 MjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLD
 E3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5

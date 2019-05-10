@@ -153,7 +153,7 @@
 * Watch level 2 and T& S closely  
 * Try to sell when it's still strong, once it's weak it gets very hard to sell
 * Sell half of the shares when it hits first resistance
-* One of the potential risk level is red-green level
+* One of the potential risk level is red-green(below previous close) level
 * Test different market makers to see which one is more efficient
 
 ## Strategy 2 - Buying OTC Multi-day Breakouts
@@ -163,20 +163,20 @@
 * No major resistance levels nearby
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
-*  If holding overnight, risk green red or key support levels
+*  If holding overnight, risk green red(below previous close) or key support levels
 * Go small overnight in OTC
 * When breaking out, level 2 isn't important as it consolidates a lot
 * When betting overnight, use level 2 the next morning
 * On day 2
 	* Use level 2
 	* Sell into strength
-	* Re-buy with big dip with green red as risk
+	* Re-buy with big dip with green red(below previous close) as risk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzIxNzMzMSwtMTgxOTA2MTI1OCwyMD
-QxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2Njcz
-MTE3LDU3NTM3NDg5MSwyNTQxMTk0ODAsMTI2OTk3ODY5MCwtMT
-E0MDMxNTEwOSwxNTYwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4
-MzAxNDE5LDExMDcxNDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3Nj
-AzMTksMTgyNzY4OTA0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5
-NjgzMDg3MjJdfQ==
+eyJoaXN0b3J5IjpbNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MT
+kwNjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1
+NDEsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNj
+k5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAx
+NDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMj
+k4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4
+MTA0NzUwNTJdfQ==
 -->

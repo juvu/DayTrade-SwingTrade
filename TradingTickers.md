@@ -179,8 +179,11 @@
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 
+## OTC Short Setups
+
+*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNzQyMjkyMiwtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbMTQxMzAwMjQ0NiwtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

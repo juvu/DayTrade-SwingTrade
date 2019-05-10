@@ -215,12 +215,14 @@
 	* Will buy at pullback
 	* Risk prior intraday support and adjust accordingly
 	* Sell into strength
+	* Use green red
+	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjk0OTgzMTIsLTE4MDAyOTM2NDYsLT
-E5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQx
-Nzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0My
-wtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4
-MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mj
-k2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgs
-MjA0MTcxMTg0M119
+eyJoaXN0b3J5IjpbMTUyODExMTI5OCwtMTgwMDI5MzY0NiwtMT
+kzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMTk2NDE3
+ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTczODQzLC
+0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3MTU3MTE1LDMzOTgz
+NDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjkyOT
+Y0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OCwy
+MDQxNzExODQzXX0=
 -->

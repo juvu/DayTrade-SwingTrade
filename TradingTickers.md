@@ -201,6 +201,7 @@
 	* Bounces
 
 ## Listed stock breakouts
+* Resistance with no volume at those days does not matter as much
 * Daily chart
 	* Similar to OTC breakouts
 		* Major resistance level held for more than 2 days
@@ -213,11 +214,11 @@
 	* Risk prior intraday support and adjust accordingly
 	* Sell into strength
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5Nj
-M0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4
-MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLT
-Y5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgw
-MDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMz
-EsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03
-NjA5Nzg1NDFdfQ==
+eyJoaXN0b3J5IjpbLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNT
+kwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3
+NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0Ni
+wtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDcz
+MTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0Mz
+UyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0Mywx
+OTU5NDEzNzk2XX0=
 -->

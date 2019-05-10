@@ -158,8 +158,8 @@
 
 ## Strategy 2 - Buying OTC Multi-day Breakouts
 
-* Need to have good volume
-* Want at least 1 red day
+* Need to have good volume & volatility
+* Want at least 1 red day in between
 * No major resistance levels nearby
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
@@ -170,6 +170,8 @@
 * When betting overnight, use level 2 the next morning
 * At EOD, if the stock holding above key levels, may consider holding it overnight
 * If a breakout held all day, and in the EOD there started to be some action going towards upside, consider buying in
+* Be careful of overnight halts
+* 
 * On day 2
 	* Use level 2
 	* Sell into strength
@@ -177,11 +179,11 @@
 	* Adjust risk on key support accordingly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MD
-czMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0
-MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0My
-wxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUz
-NzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMD
-ksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwx
-MTA3MTQ4NTM1XX0=
+eyJoaXN0b3J5IjpbMTU4Mzg0NTY5LC02OTcxNTcxMTUsMzM5OD
+M0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5
+NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LD
+IwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMTY2
+NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4NjkwLC
+0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLTE2
+MjgzMDE0MTldfQ==
 -->

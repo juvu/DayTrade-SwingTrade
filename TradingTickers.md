@@ -209,16 +209,17 @@
 	* **BIG Volume compared to the past**
 	* Hi volatility
 * Intraday
+	* Intraday high that matches daily breakout will give more confiden
 	* Will buy any time of the day
 	* Will buy at pullback
 	* Risk prior intraday support and adjust accordingly
 	* Sell into strength
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNT
-kwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3
-NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0Ni
-wtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDcz
-MTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0Mz
-UyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0Mywx
-OTU5NDEzNzk2XX0=
+eyJoaXN0b3J5IjpbLTEyOTM0MjQ1MzIsLTE4MDAyOTM2NDYsLT
+E5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQx
+Nzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0My
+wtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4
+MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mj
+k2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgs
+MjA0MTcxMTg0M119
 -->

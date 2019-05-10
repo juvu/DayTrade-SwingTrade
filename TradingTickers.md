@@ -189,13 +189,13 @@
 * Look at historical graph if it's not a stock promotion
 * Use prior resistance as risk
 * OTC's can crash fast
-* Look at previous days, if the close of the n-1 day is < open of n<sup>ith</s>
+* Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDU4Mzg5NCwtNjk3MTU3MTE1LDMzOT
-gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
-OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
-wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2
-NjczMTE3LDU3NTM3NDg5MSwyNTQxMTk0ODAsMTI2OTk3ODY5MC
-wtMTE0MDMxNTEwOSwxNTYwNjMwNzI1LC0yMTQzMDE0NTQ0LC0x
-NjI4MzAxNDE5XX0=
+eyJoaXN0b3J5IjpbLTE1OTEzNDk4OTIsLTY5NzE1NzExNSwzMz
+k4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5
+Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNT
+gsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTEx
+NjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OT
+AsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwt
+MTYyODMwMTQxOV19
 -->

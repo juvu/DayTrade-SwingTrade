@@ -75,7 +75,7 @@
 ## Technical Indicators
 
 * When a buyer shows not getting filled while not aligning with Time and Sales then this is possibly being faked. This is the same for sellers.
-* Level 2 is useful when there's volatility, it could indicate when there's a change of direction.
+* Level 2 is useful when there's volatility, it could indicate when there's a change of direction(does not work if it's not volatile)
 * 3 useful chartrooms : Penny Stocking Silver, Investors Underground, Promotion Stock Secrets
 
 ## EquityFeed Stock Scanning Configurations
@@ -174,11 +174,11 @@
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNj
-E4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcx
-MTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNy
-w1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAz
-MTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMT
-QxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMzE5
-LDE4Mjc2ODkwNDddfQ==
+eyJoaXN0b3J5IjpbLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLT
+E4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkw
+NjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1ND
+EsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5
+Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxND
+U0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4
+LC0xMDY3NzYwMzE5XX0=
 -->

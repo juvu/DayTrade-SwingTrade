@@ -161,9 +161,9 @@
 * Need to have good volume
 * Want at least 1 red day
 * No major resistance levels nearby
-* 
+* Usually hold for a small part of the move
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMjQzNTQ4MiwxMTE2NjczMTE3LDU3NT
+eyJoaXN0b3J5IjpbLTc2MDk3ODU0MSwxMTE2NjczMTE3LDU3NT
 M3NDg5MSwyNTQxMTk0ODAsMTI2OTk3ODY5MCwtMTE0MDMxNTEw
 OSwxNTYwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LD
 ExMDcxNDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMTgy

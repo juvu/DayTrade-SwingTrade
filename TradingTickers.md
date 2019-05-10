@@ -189,8 +189,9 @@
 * Look at historical graph if it's not a stock promotion
 * Use prior resistance as risk
 * OTC's can crash fast
+* Look at previous days, if the close of the n-1 day is < open of n<sup>ith</s>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MDU4NTY0MiwtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbLTMzNDU4Mzg5NCwtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

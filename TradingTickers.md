@@ -187,9 +187,10 @@
 * First red day
 * If it's a pump, then it's better. Look at past promoter history.
 * Look at historical graph if it's not a stock promotion
-* 
+* Use prior resistance as risk
+* OTC's can crash fast
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUyMzQ3MCwtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbMTY4MDU4NTY0MiwtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

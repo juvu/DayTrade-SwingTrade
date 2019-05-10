@@ -163,13 +163,13 @@
 * No major resistance levels nearby
 * Usually hold for a small part of the move
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
-* 
+*  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDAxMjMyLC03NjA5Nzg1NDEsMTExNj
-Y3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAs
-LTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMT
-YyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3
-NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNT
-IsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYy
-NDY0M119
+eyJoaXN0b3J5IjpbMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMT
+Y2NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4Njkw
+LC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLT
+E2MjgzMDE0MTksMTEwNzE0ODUzNSwtMTg0MDUwMTI5OCwtMTA2
+Nzc2MDMxOSwxODI3Njg5MDQ3LC05Mzk3MjQ5NywxODEwNDc1MD
+UyLDk2ODMwODcyMiw4NTI4MjU2NjgsODkwNjk1Nzc3LDExNTc2
+MjQ2NDNdfQ==
 -->

@@ -194,17 +194,19 @@
 * First red day usually has a dip buy opportunity
 * Use red green as risk, can short into bounce
 * Sometimes there's a bounce, and we can short the stock the second time during the day
-* Becareful not to 
+* Be careful about the risk level
 * Strategy
 	* Short into strength
 	* G/R breakdown
 	* Bounces
+
+## Listed stock brea
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTgyNTczOTMsNTkwMjkwNDAyLDE5Nj
-M0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4
-MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLT
-Y5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgw
-MDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMz
-EsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03
-NjA5Nzg1NDFdfQ==
+eyJoaXN0b3J5IjpbMTY1MjE1NDM1OSw1OTAyOTA0MDIsMTk2Mz
+QyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgw
+MSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNj
+k3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAw
+MzYyNywtMTgwMjkyOTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMS
+wtMTgxOTA2MTI1OCwyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2
+MDk3ODU0MV19
 -->

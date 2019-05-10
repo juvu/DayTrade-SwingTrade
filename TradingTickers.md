@@ -167,17 +167,18 @@
 * Go small overnight in OTC
 * When breaking out, level 2 isn't important as it consolidates a lot
 * When betting overnight, use level 2 the next morning
+* At EOD, if the stock holding above key levels, may consider holding it overnight
 * On day 2
 	* Use level 2
 	* Sell into strength
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MD
-cyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5NDEz
-Nzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4OTEsMj
-U0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYz
-MDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NT
-M1LC0xODQwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcs
-LTkzOTcyNDk3XX0=
+eyJoaXN0b3J5IjpbLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNj
+E4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcx
+MTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNy
+w1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAz
+MTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMT
+QxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMzE5
+LDE4Mjc2ODkwNDddfQ==
 -->

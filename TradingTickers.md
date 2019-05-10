@@ -209,6 +209,7 @@
 		* No major overhead resistance
 	* Hi volatility
 * Intraday
+* 
 	* Intraday high that matches daily breakout will give more strength
 	* Can use consolidation level as risk if buying at the EOD
 	* Will buy any time of the day
@@ -218,11 +219,11 @@
 	* Use green red
 	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyODExMTI5OCwtMTgwMDI5MzY0NiwtMT
-kzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMTk2NDE3
-ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTczODQzLC
-0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3MTU3MTE1LDMzOTgz
-NDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjkyOT
-Y0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OCwy
-MDQxNzExODQzXX0=
+eyJoaXN0b3J5IjpbMjg3Mjc0MTgsMTUyODExMTI5OCwtMTgwMD
+I5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAz
+MywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNz
+Q5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3MTU3
+MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNy
+wtMTgwMjkyOTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgx
+OTA2MTI1OF19
 -->

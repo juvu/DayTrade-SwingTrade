@@ -181,12 +181,14 @@
 
 ## OTC Short Setups
 
-* Look for overextendsion for daily graph
+* Look for overextension for daily graph
 * Multiple green days
 * Large % run relative to prior action
-* 
+* First red day
+* If it's a pump, then it's better
+* Look at history
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5ODE5OTE4NywtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbMTU1OTQxMjg0NywtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

@@ -179,7 +179,7 @@
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 
-## OTC Short Setups
+## Strategy 3 - OTC Short Setups
 
 * Look for overextension for daily graph
 * Multiple green days
@@ -200,12 +200,12 @@
 	* G/R breakdown
 	* Bounces
 
-## Listed stock breakouts
+## Strategy 4 - Listed stock breakouts
 * Resistance with no volume at those days does not matter as much
 * Need to test breakout level at least 2 times
 * Ideal chart is when a stock has burst in volume and a big run, then consolidates for a few days and then breaks out
 * Don't need to chase, buy dips if missed since charts will be choppy
-* Risk previous support, not breakout leve
+* Risk previous support, not breakout level
 * Daily chart
 	* BIG volume compared to the past
 	* High volatility
@@ -222,11 +222,11 @@
 	* Use green red
 	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTM4MzM1NDQsODUxOTE4OTY4LDE1Mj
-gxMTEyOTgsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkw
-NDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMS
-wxMzEyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0
-MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMj
-AsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3
-MDcyMTczMzFdfQ==
+eyJoaXN0b3J5IjpbMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyOD
+ExMTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0
+MDIsMTk2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLD
+EzMTI2ODgwMSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQw
+MjMwNiwtNjk3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMC
+wtMTI3ODAwMzYyNywtMTgwMjkyOTY0NCw2MTgxMzQzNTIsMTcw
+NzIxNzMzMV19
 -->

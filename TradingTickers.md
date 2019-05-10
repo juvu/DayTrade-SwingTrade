@@ -190,17 +190,18 @@
 * Use prior resistance as risk
 * OTC's can crash fast
 * Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the n<sup>ith</sup> day is below the close of a multi-day runner, then it's a clear momentum shift.
-* Don't avoid shorting strength
+* Don't avoid shorting into strength
 * Sometimes the first red day would not play out nicely for a few consecutive days in a row. In those cases see if first red day holds below previous close for a whole day on the intraday chart
 * First red day usually has a dip buy opportunity
 * Use red green as risk, can short into bounce
-
+* Look for lower highs
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMj
-k5NjcxNDYsLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5ODM0NjE3
-LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5NjQ0LD
-YxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LDIwNDE3
-MTE4NDMsMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMTY2NzMxMT
-csNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4NjkwLC0xMTQw
-MzE1MTA5XX0=
+eyJoaXN0b3J5IjpbMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OT
+k3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzEx
+NSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLT
+E4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkw
+NjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1ND
+EsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5
+Nzg2OTBdfQ==
 -->

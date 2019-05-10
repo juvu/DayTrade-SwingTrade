@@ -191,12 +191,13 @@
 * OTC's can crash fast
 * Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the n<sup>ith</sup> day is below the close of a multi-day runner, then it's a clear momentum shift.
 * Don't avoid shorting strength
+* Sometimes the first red day would not, then see if 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjk5NjcxNDYsLTI0NDAyMzA2LC02OT
-cxNTcxMTUsMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAz
-NjI3LC0xODAyOTI5NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC
-0xODE5MDYxMjU4LDIwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYw
-OTc4NTQxLDExMTY2NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MC
-wxMjY5OTc4NjkwLC0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIx
-NDMwMTQ1NDRdfQ==
+eyJoaXN0b3J5IjpbMjA4NjQyMjM5MSwtMTIyOTk2NzE0NiwtMj
+Q0MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUx
+MjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLD
+E3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5
+NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4OT
+EsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2
+MDYzMDcyNV19
 -->

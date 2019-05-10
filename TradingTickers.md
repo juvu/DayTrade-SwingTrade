@@ -170,14 +170,14 @@
 * When betting overnight, use level 2 the next morning
 * At EOD, if the stock holding above key levels, may consider holding it overnight
 * If a breakout held all day, and in the EOD there started to be some action going towards upside, consider buying in
-* 
 * On day 2
 	* Use level 2
 	* Sell into strength
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Nzg5MDU5MywzMzk4MzQ2MTcsLTE3MD
+eyJoaXN0b3J5IjpbLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MD
 czMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0
 MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0My
 wxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUz

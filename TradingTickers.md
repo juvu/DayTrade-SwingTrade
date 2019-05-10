@@ -193,8 +193,9 @@
 * Don't avoid shorting strength
 * Sometimes the first red day would not play out nicely for a few consecutive days in a row. In those cases see if first red day holds below previous close for a whole day on the intraday chart
 * First red day usually has a dip buy opportunity
+* Use red green as risk, can short into bounce
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzk0NjIxMSwtMTIyOTk2NzE0NiwtMj
+eyJoaXN0b3J5IjpbMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMj
 Q0MDIzMDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUx
 MjAsLTEyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLD
 E3MDcyMTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5

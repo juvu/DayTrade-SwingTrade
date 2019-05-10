@@ -204,11 +204,11 @@
 * Resistance with no volume at those days does not matter as much
 * Need to test breakout level at least 2 times
 * Daily chart
-	* BIG Volume compared to the past
+	* BIG volume compared to the past
+	* High volatility
 	* Similar to OTC breakouts
 		* Major resistance level held for more than 2 days
 		* No major overhead resistance
-	* Hi volatility
 * Intraday
 	* Intraday high that matches daily breakout will give more strength
 	* Can use consolidation level as risk if buying at the EOD
@@ -219,11 +219,11 @@
 	* Use green red
 	* Adjust support level along the way
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MD
-AyOTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMw
-MzMsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMT
-c0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1
-NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2Mj
-csLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4
-MTkwNjEyNThdfQ==
+eyJoaXN0b3J5IjpbMTUzODE5Mzk3Nyw4NTE5MTg5NjgsMTUyOD
+ExMTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0
+MDIsMTk2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLD
+EzMTI2ODgwMSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQw
+MjMwNiwtNjk3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMC
+wtMTI3ODAwMzYyNywtMTgwMjkyOTY0NCw2MTgxMzQzNTIsMTcw
+NzIxNzMzMV19
 -->

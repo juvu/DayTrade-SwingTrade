@@ -165,8 +165,10 @@
 * The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
 *  If holding overnight, risk green red or key support levels
 * Go small overnight in OTC
+* When breaking out, level 2 isn't important as it consolidates a lot
+* When betting overnight, use level 2 the next morning
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMzU2NzMyOSwyMDQxNzExODQzLDE5NT
+eyJoaXN0b3J5IjpbMjA0ODE1MDg2OCwyMDQxNzExODQzLDE5NT
 k0MTM3OTYsLTc2MDk3ODU0MSwxMTE2NjczMTE3LDU3NTM3NDg5
 MSwyNTQxMTk0ODAsMTI2OTk3ODY5MCwtMTE0MDMxNTEwOSwxNT
 YwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LDExMDcx

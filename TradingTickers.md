@@ -167,12 +167,16 @@
 * Go small overnight in OTC
 * When breaking out, level 2 isn't important as it consolidates a lot
 * When betting overnight, use level 2 the next morning
+* On day 2
+	* Use level 2
+	* Sell into strength
+	* Rebuy with big dip with green red as risk
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODE1MDg2OCwyMDQxNzExODQzLDE5NT
-k0MTM3OTYsLTc2MDk3ODU0MSwxMTE2NjczMTE3LDU3NTM3NDg5
-MSwyNTQxMTk0ODAsMTI2OTk3ODY5MCwtMTE0MDMxNTEwOSwxNT
-YwNjMwNzI1LC0yMTQzMDE0NTQ0LC0xNjI4MzAxNDE5LDExMDcx
-NDg1MzUsLTE4NDA1MDEyOTgsLTEwNjc3NjAzMTksMTgyNzY4OT
-A0NywtOTM5NzI0OTcsMTgxMDQ3NTA1Miw5NjgzMDg3MjIsODUy
-ODI1NjY4XX0=
+eyJoaXN0b3J5IjpbLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOT
+U5NDEzNzk2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4
+OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMT
+U2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3
+MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2OD
+kwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNTIsOTY4MzA4NzIyLDg1
+MjgyNTY2OF19
 -->

@@ -161,10 +161,9 @@
 * Need to have good volume & volatility
 * Want at least 1 red day in between
 * No major resistance levels nearby
-* Usually hold a small part of the move
-* The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
-*  If holding overnight, risk green red(below previous close) or key support levels
-* Also major support level can be risk area
+* Usually sell a portion as it goes up when it looks like it's about to turn
+* The pullback can go below key breakout level by a little bit as it doesn't hold very well, don't rush to sell
+*  If holding overnight, risk green red(below previous close) then key support levels as it forms
 * Go small overnight in OTC
 * When breaking out, level 2 isn't important as it consolidates a lot
 * When betting overnight, use level 2 the next morning
@@ -180,11 +179,11 @@
 	* Adjust risk on key support accordingly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMzk4MjE4OSwtNjk3MTU3MTE1LDMzOT
-gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
-OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
-wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2
-NjczMTE3LDU3NTM3NDg5MSwyNTQxMTk0ODAsMTI2OTk3ODY5MC
-wtMTE0MDMxNTEwOSwxNTYwNjMwNzI1LC0yMTQzMDE0NTQ0LC0x
-NjI4MzAxNDE5XX0=
+eyJoaXN0b3J5IjpbLTg1MDg2ODE5LC02OTcxNTcxMTUsMzM5OD
+M0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5
+NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LD
+IwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMTY2
+NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4NjkwLC
+0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLTE2
+MjgzMDE0MTldfQ==
 -->

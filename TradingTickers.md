@@ -200,9 +200,14 @@
 	* G/R breakdown
 	* Bounces
 
-## Listed stock brea
+## Listed stock breakouts
+* Similar to OTC breakouts
+	* Major resistance level held for more than 2 days
+	* No major overhead resistance
+* BIG Volume compared to the past
+* Hi volatility
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MjE1NDM1OSw1OTAyOTA0MDIsMTk2Mz
+eyJoaXN0b3J5IjpbMTY2MTI3OTU4MCw1OTAyOTA0MDIsMTk2Mz
 QyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgw
 MSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNj
 k3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAw

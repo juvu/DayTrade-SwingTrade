@@ -203,23 +203,25 @@
 ## Listed stock breakouts
 * Resistance with no volume at those days does not matter as much
 * Daily chart
+	* Volume
 	* Similar to OTC breakouts
 		* Major resistance level held for more than 2 days
 		* No major overhead resistance
 	* **BIG Volume compared to the past**
 	* Hi volatility
 * Intraday
-	* Intraday high that matches daily breakout will give more confiden
+	* Intraday high that matches daily breakout will give more strength
+	* Can use consolidation level as risk if buying at the EOD
 	* Will buy any time of the day
 	* Will buy at pullback
 	* Risk prior intraday support and adjust accordingly
 	* Sell into strength
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTM0MjQ1MzIsLTE4MDAyOTM2NDYsLT
-E5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQx
-Nzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0My
-wtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4
-MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5Mj
-k2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNTgs
-MjA0MTcxMTg0M119
+eyJoaXN0b3J5IjpbMTA5ODM3MzMwLC0xODAwMjkzNjQ2LC0xOT
+M2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4
+NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLT
+EyMjk5NjcxNDYsLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5ODM0
+NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5Nj
+Q0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LDIw
+NDE3MTE4NDNdfQ==
 -->

@@ -172,6 +172,7 @@
 * Be careful of overnight halts
 * Risk previous support, not breakout levels
 * Don't chase spikes, buy dips if I miss
+* If the price is overextended, it's better to miss than to buy
 * On day 2
 	* Use level 2
 	* Sell into strength
@@ -179,7 +180,7 @@
 	* Adjust risk on key support accordingly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDI1OTQ3NCwtNjk3MTU3MTE1LDMzOT
+eyJoaXN0b3J5IjpbMjEwNzQyMjkyMiwtNjk3MTU3MTE1LDMzOT
 gzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgwMjky
 OTY0NCw2MTgxMzQzNTIsMTcwNzIxNzMzMSwtMTgxOTA2MTI1OC
 wyMDQxNzExODQzLDE5NTk0MTM3OTYsLTc2MDk3ODU0MSwxMTE2

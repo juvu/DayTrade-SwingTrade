@@ -189,13 +189,14 @@
 * Look at historical graph if it's not a stock promotion
 * Use prior resistance as risk
 * OTC's can crash fast
-* Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the 
+* Look at previous days, if the close of the (n-1)<sup>ith</sup> day is below low of n<sup>ith</sup> day, they it's considered as a green day. Once the low of the n<sup>ith</sup> day is below the close of a multi-day runner, then it's a clear momentum shift.
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTEzNDk4OTIsLTY5NzE1NzExNSwzMz
-k4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4MDI5
-Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkwNjEyNT
-gsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1NDEsMTEx
-NjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OT
-AsLTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwt
-MTYyODMwMTQxOV19
+eyJoaXN0b3J5IjpbLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5OD
+M0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5
+NjQ0LDYxODEzNDM1MiwxNzA3MjE3MzMxLC0xODE5MDYxMjU4LD
+IwNDE3MTE4NDMsMTk1OTQxMzc5NiwtNzYwOTc4NTQxLDExMTY2
+NzMxMTcsNTc1Mzc0ODkxLDI1NDExOTQ4MCwxMjY5OTc4NjkwLC
+0xMTQwMzE1MTA5LDE1NjA2MzA3MjUsLTIxNDMwMTQ1NDQsLTE2
+MjgzMDE0MTldfQ==
 -->

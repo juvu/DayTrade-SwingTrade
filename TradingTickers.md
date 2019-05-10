@@ -162,13 +162,14 @@
 * Want at least 1 red day
 * No major resistance levels nearby
 * Usually hold for a small part of the move
-* The pullback can go back
+* The pullback can go below key level by a little bit as it doesn't hold very well, don't rush to sell
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODU0ODgzMTksLTc2MDk3ODU0MSwxMT
-E2NjczMTE3LDU3NTM3NDg5MSwyNTQxMTk0ODAsMTI2OTk3ODY5
-MCwtMTE0MDMxNTEwOSwxNTYwNjMwNzI1LC0yMTQzMDE0NTQ0LC
-0xNjI4MzAxNDE5LDExMDcxNDg1MzUsLTE4NDA1MDEyOTgsLTEw
-Njc3NjAzMTksMTgyNzY4OTA0NywtOTM5NzI0OTcsMTgxMDQ3NT
-A1Miw5NjgzMDg3MjIsODUyODI1NjY4LDg5MDY5NTc3NywxMTU3
-NjI0NjQzXX0=
+eyJoaXN0b3J5IjpbMTIzNDAxMjMyLC03NjA5Nzg1NDEsMTExNj
+Y3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5Nzg2OTAs
+LTExNDAzMTUxMDksMTU2MDYzMDcyNSwtMjE0MzAxNDU0NCwtMT
+YyODMwMTQxOSwxMTA3MTQ4NTM1LC0xODQwNTAxMjk4LC0xMDY3
+NzYwMzE5LDE4Mjc2ODkwNDcsLTkzOTcyNDk3LDE4MTA0NzUwNT
+IsOTY4MzA4NzIyLDg1MjgyNTY2OCw4OTA2OTU3NzcsMTE1NzYy
+NDY0M119
 -->

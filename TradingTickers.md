@@ -184,7 +184,7 @@
 * Look for overextension for daily graph
 * Multiple green days
 * Large % run relative to prior action
-* First red day
+* First red day or hitting major resistance level
 * If it's a pump, then it's better. Look at past promoter history.
 * Look at historical graph if it's not a stock promotion
 * Use prior resistance as risk
@@ -194,14 +194,14 @@
 * Sometimes the first red day would not play out nicely for a few consecutive days in a row. In those cases see if first red day holds below previous close for a whole day on the intraday chart
 * First red day usually has a dip buy opportunity
 * Use red green as risk, can short into bounce
-* Look for lower highs
+* If missed
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OT
-k3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzEx
-NSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLT
-E4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcyMTczMzEsLTE4MTkw
-NjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNzk2LC03NjA5Nzg1ND
-EsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MTE5NDgwLDEyNjk5
-Nzg2OTBdfQ==
+eyJoaXN0b3J5IjpbLTE5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMz
+EyNjg4MDEsMTc0OTk3Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIz
+MDYsLTY5NzE1NzExNSwzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLT
+EyNzgwMDM2MjcsLTE4MDI5Mjk2NDQsNjE4MTM0MzUyLDE3MDcy
+MTczMzEsLTE4MTkwNjEyNTgsMjA0MTcxMTg0MywxOTU5NDEzNz
+k2LC03NjA5Nzg1NDEsMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0
+MTE5NDgwXX0=
 -->

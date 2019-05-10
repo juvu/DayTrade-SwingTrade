@@ -158,8 +158,9 @@
 
 ## Strategy 2 - Buying OTC Multi-day Breakouts
 
+* Buying 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMzg5NDkxNyw1NzUzNzQ4OTEsMjU0MT
+eyJoaXN0b3J5IjpbMTExNjY3MzExNyw1NzUzNzQ4OTEsMjU0MT
 E5NDgwLDEyNjk5Nzg2OTAsLTExNDAzMTUxMDksMTU2MDYzMDcy
 NSwtMjE0MzAxNDU0NCwtMTYyODMwMTQxOSwxMTA3MTQ4NTM1LC
 0xODQwNTAxMjk4LC0xMDY3NzYwMzE5LDE4Mjc2ODkwNDcsLTkz

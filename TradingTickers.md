@@ -238,9 +238,10 @@
 * Must have volume (very liquid)
 * Risk off day's high
 * Can not be too close too the resistance level
-* First time testing resistance level, it'd
+* First time testing resistance level, it'd likely not break
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODIxNjI5MSwyMDI1NTU1OTE1LDE0Mz
+eyJoaXN0b3J5IjpbMjAzNzc5Mjg4MywyMDI1NTU1OTE1LDE0Mz
 YzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2
 OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLD
 U5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2MDY4

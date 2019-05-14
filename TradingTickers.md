@@ -244,7 +244,7 @@
 * Can short into a morning spike
 
 ## Strategy 7 - Shorting Overextended Gap Downs
-* What is overextended
+* Must be overextended!!!
 	* Many consecutive green days
 	* Or up a lot since the run up
 * Use red green or high of day as risk
@@ -254,12 +254,14 @@
 * But at the bounce back if it pushes down at the bell
 * Cover along the way
 * Can short into bounces with previous resistance levels
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjg3NzY4NiwtOTAzNzkyMjM2LDE0OT
-M1ODcyODAsLTIxODIzNDA3MywxNTYzNjUzOTU1LC0xNjA4MTM5
-MzQ0LDE5NzA2NDMzMjksMjEyOTA0MDM4NCwxMjUwMzczNDk4LD
-IwMzc3OTI4ODMsMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LDEyMTE5
-OTU3MzEsMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyODExMTI5OC
-wtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2
-MzQyMzAzM119
+eyJoaXN0b3J5IjpbLTEyNDkwMDUxNTcsLTkwMzc5MjIzNiwxND
+kzNTg3MjgwLC0yMTgyMzQwNzMsMTU2MzY1Mzk1NSwtMTYwODEz
+OTM0NCwxOTcwNjQzMzI5LDIxMjkwNDAzODQsMTI1MDM3MzQ5OC
+wyMDM3NzkyODgzLDIwMjU1NTU5MTUsMTQzNjM0NjY1NywxMjEx
+OTk1NzMxLDIwOTA2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOT
+gsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5
+NjM0MjMwMzNdfQ==
 -->

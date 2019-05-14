@@ -239,15 +239,14 @@
 * Risk off day's high
 * Can not be too close too the resistance level
 * First time testing major resistance level, it'd likely not break
-* When it breakouts out very quickly, don't panic, see if the breakout would hold
 * The risk level is high of daily resistance area
 * Can short into a morning spike
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAwNjQ4NDEwLDE5NzA2NDMzMjksMjEyOT
-A0MDM4NCwxMjUwMzczNDk4LDIwMzc3OTI4ODMsMjAyNTU1NTkx
-NSwxNDM2MzQ2NjU3LDEyMTE5OTU3MzEsMjA5MDYxOTM1Myw4NT
-E5MTg5NjgsMTUyODExMTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0
-MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMTk2NDE3ODQwMy
-wxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTczODQzLC0xMjI5
-OTY3MTQ2XX0=
+eyJoaXN0b3J5IjpbLTE2MDgxMzkzNDQsMTk3MDY0MzMyOSwyMT
+I5MDQwMzg0LDEyNTAzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1
+OTE1LDE0MzYzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLD
+g1MTkxODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2
+MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4ND
+AzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEy
+Mjk5NjcxNDZdfQ==
 -->

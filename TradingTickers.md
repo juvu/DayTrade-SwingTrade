@@ -222,9 +222,11 @@
 	* Use green red
 	* Adjust support level along the way
 
-## Strategy 5 - Short p
+## Strategy 5 - Short Pullbacks on Bullish Stock
+* Top percent gainer, overextended
+* Not easy, can 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NDMyODY3MCwyMDkwNjE5MzUzLDg1MT
+eyJoaXN0b3J5IjpbMTcwNDgwNjc3NSwyMDkwNjE5MzUzLDg1MT
 kxODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQx
 OTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLD
 E2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMjk5

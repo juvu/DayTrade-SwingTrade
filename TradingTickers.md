@@ -226,16 +226,16 @@
 * Top percent gainer, overextended
 * Not easy, must respect risk
 * Risk high of day
-* Look for lower high or double top
+* Look for lower high and/or double top
 * Above average volume
 * Large run from previous consolidation area
 * Day 2 or beyond ideal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MT
-kxODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQx
-OTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLD
-E2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMjk5
-NjcxNDYsLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5ODM0NjE3LC
-0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0xODAyOTI5NjQ0LDYx
-ODEzNDM1Ml19
+eyJoaXN0b3J5IjpbLTE1NTQzMDE3OTcsMTIxMTk5NTczMSwyMD
+kwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4LC0xODAwMjkz
+NjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC
+0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5
+NzM4NDMsLTEyMjk5NjcxNDYsLTI0NDAyMzA2LC02OTcxNTcxMT
+UsMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0x
+ODAyOTI5NjQ0XX0=
 -->

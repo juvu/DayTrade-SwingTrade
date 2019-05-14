@@ -242,12 +242,17 @@
 * First time testing major resistance level, it'd likely not break
 * The risk level is high of daily resistance area
 * Can short into a morning spike
+
+## Strategy 7 - Shoring Overextended Gap Downs
+* W
+* Many consecutive green days
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzk5NzQxMzIsLTE2MDgxMzkzNDQsMT
-k3MDY0MzMyOSwyMTI5MDQwMzg0LDEyNTAzNzM0OTgsMjAzNzc5
-Mjg4MywyMDI1NTU1OTE1LDE0MzYzNDY2NTcsMTIxMTk5NTczMS
-wyMDkwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4LC0xODAw
-MjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMD
-MzLC0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3
-NDk5NzM4NDNdfQ==
+eyJoaXN0b3J5IjpbMjAxNDI3Mjg4OSwtMTYwODEzOTM0NCwxOT
+cwNjQzMzI5LDIxMjkwNDAzODQsMTI1MDM3MzQ5OCwyMDM3Nzky
+ODgzLDIwMjU1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLD
+IwOTA2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAy
+OTM2NDYsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMz
+MsLTE5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0
+OTk3Mzg0M119
 -->

@@ -243,12 +243,13 @@
 * The risk level is high of daily resistance area
 * Can short into a morning spike
 
-## Strategy 7 - Shoring Overextended Gap Downs
-* W
-* Many consecutive green days
-* 
+## Strategy 7 - Shorting Overextended Gap Downs
+* What is overextended
+	* Many consecutive green days
+	* Or up a lot since the run up
+* Res
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDI3Mjg4OSwtMTYwODEzOTM0NCwxOT
+eyJoaXN0b3J5IjpbLTE2ODAzMTU0NiwtMTYwODEzOTM0NCwxOT
 cwNjQzMzI5LDIxMjkwNDAzODQsMTI1MDM3MzQ5OCwyMDM3Nzky
 ODgzLDIwMjU1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLD
 IwOTA2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAy

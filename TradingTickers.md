@@ -233,20 +233,21 @@
 * Day 2 or beyond would be ideal
 
 ## Strategy 6 - Short Major Resistance on Daily Chart
+* Risk off day's high and breakout
+* Must respect resistance
 * Scale in short risking off major resistance area
 * Cover into fade
 * Must have volume (very liquid)
-* Risk off day's high
 * Can not be too close too the resistance level
 * First time testing major resistance level, it'd likely not break
 * The risk level is high of daily resistance area
 * Can short into a morning spike
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDgxMzkzNDQsMTk3MDY0MzMyOSwyMT
-I5MDQwMzg0LDEyNTAzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1
-OTE1LDE0MzYzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLD
-g1MTkxODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2
-MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4ND
-AzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEy
-Mjk5NjcxNDZdfQ==
+eyJoaXN0b3J5IjpbLTEwMzk5NzQxMzIsLTE2MDgxMzkzNDQsMT
+k3MDY0MzMyOSwyMTI5MDQwMzg0LDEyNTAzNzM0OTgsMjAzNzc5
+Mjg4MywyMDI1NTU1OTE1LDE0MzYzNDY2NTcsMTIxMTk5NTczMS
+wyMDkwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4LC0xODAw
+MjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMD
+MzLC0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3
+NDk5NzM4NDNdfQ==
 -->

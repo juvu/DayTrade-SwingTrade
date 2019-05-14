@@ -233,16 +233,16 @@
 * Day 2 or beyond would be ideal
 
 ## Strategy 6 - Short Major Resistance on Daily Chart
-* Scale in short risking off resistance area
+* Scale in short risking off major resistance area
 * Cover into fade
 * Must have volume (very liquid)
 * Risk off day's high
 * Can not be too close too the resistance level
 * First time testing major resistance level, it'd likely not break
-* When it breakouts out, don't panic, see if the breakout would hold
-* The risk level is high of day / resistance area
+* When it breakouts out very quickly, don't panic, see if the breakout would hold
+* The risk level is high of daily resistance area
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTc1NTkwNCwyMTI5MDQwMzg0LDEyNT
+eyJoaXN0b3J5IjpbMTk3MDY0MzMyOSwyMTI5MDQwMzg0LDEyNT
 AzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1OTE1LDE0MzYzNDY2
 NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2OCwxNT
 I4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5

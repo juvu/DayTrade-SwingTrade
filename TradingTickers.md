@@ -179,7 +179,7 @@
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 
-## Strategy 3 - OTC Short Setups(FRD)
+## Strategy 3 - OTC Short Setups
 
 * Look for overextension for daily graph
 * Multiple green days
@@ -247,9 +247,11 @@
 * What is overextended
 	* Many consecutive green days
 	* Or up a lot since the run up
-* Res
+* Use red green as risk
+* Respect the risk
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAzMTU0NiwtMTYwODEzOTM0NCwxOT
+eyJoaXN0b3J5IjpbMTU2MzY1Mzk1NSwtMTYwODEzOTM0NCwxOT
 cwNjQzMzI5LDIxMjkwNDAzODQsMTI1MDM3MzQ5OCwyMDM3Nzky
 ODgzLDIwMjU1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLD
 IwOTA2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAy

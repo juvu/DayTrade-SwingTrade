@@ -230,10 +230,11 @@
 * Above average volume
 * Large run from previous consolidation area
 * Day 2 or beyond ideal
-*   . . . . . /\ . . /\
-* 
+*   . . . . . /\ . . . .  /\
+*  . . . . /. . .\ . / . . . \
+* . . . / . . . . . .. . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA5ODg4NzEsMTIxMTk5NTczMSwyMD
+eyJoaXN0b3J5IjpbLTExMDEyMDQ5NjgsMTIxMTk5NTczMSwyMD
 kwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4LC0xODAwMjkz
 NjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC
 0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5

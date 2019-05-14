@@ -249,13 +249,14 @@
 	* Or up a lot since the run up
 * Use red green as risk
 * Respect the risk
-* Gapdown is better than green red fade since it's just starting to go down instead of market 
+* Gap down is better than green red fade since it's just starting to go down instead of market hours sells
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzczMjQ5ODExLDE1NjM2NTM5NTUsLTE2MD
-gxMzkzNDQsMTk3MDY0MzMyOSwyMTI5MDQwMzg0LDEyNTAzNzM0
-OTgsMjAzNzc5Mjg4MywyMDI1NTU1OTE1LDE0MzYzNDY2NTcsMT
-IxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTEx
-Mjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMi
-wxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMx
-MjY4ODAxXX0=
+eyJoaXN0b3J5IjpbLTIxODIzNDA3MywxNTYzNjUzOTU1LC0xNj
+A4MTM5MzQ0LDE5NzA2NDMzMjksMjEyOTA0MDM4NCwxMjUwMzcz
+NDk4LDIwMzc3OTI4ODMsMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LD
+EyMTE5OTU3MzEsMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyODEx
+MTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MD
+IsMTk2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEz
+MTI2ODgwMV19
 -->

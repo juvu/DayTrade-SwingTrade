@@ -247,17 +247,17 @@
 * What is overextended
 	* Many consecutive green days
 	* Or up a lot since the run up
-* Use red green as risk
+* Use red green or hard of day as risk
 * Respect the risk
 * Gap down is better than green red fade since it's just starting to go down instead of market hours sells
 * Buy near red green if it pushes up at the bell
-* But at the rebound if it pushes down at th
+* But at the bounce back if it pushes down at the bell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTQ3ODgzNCwtMjE4MjM0MDczLDE1Nj
-M2NTM5NTUsLTE2MDgxMzkzNDQsMTk3MDY0MzMyOSwyMTI5MDQw
-Mzg0LDEyNTAzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1OTE1LD
-E0MzYzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkx
-ODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOT
-EzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2
-MDY4NzY0MzFdfQ==
+eyJoaXN0b3J5IjpbNzU1NzA1MDQ5LC0yMTgyMzQwNzMsMTU2Mz
+Y1Mzk1NSwtMTYwODEzOTM0NCwxOTcwNjQzMzI5LDIxMjkwNDAz
+ODQsMTI1MDM3MzQ5OCwyMDM3NzkyODgzLDIwMjU1NTU5MTUsMT
+QzNjM0NjY1NywxMjExOTk1NzMxLDIwOTA2MTkzNTMsODUxOTE4
+OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MT
+MsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYw
+Njg3NjQzMV19
 -->

@@ -226,12 +226,13 @@
 * Top percent gainer, overextended
 * Not easy, must respect risk
 * Risk high of day
-* Look for lower high and/or double top
+* Look for lower high after a potential topping out
 * Above average volume
 * Large run from previous consolidation area
-* Day 2 or beyond ideal
+* Day 2 or beyond would be ideal
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Mzc0NTQzNiwxMjExOTk1NzMxLDIwOT
+eyJoaXN0b3J5IjpbMTQzNjM0NjY1NywxMjExOTk1NzMxLDIwOT
 A2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2
 NDYsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLT
 E5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3

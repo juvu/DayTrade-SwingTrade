@@ -250,13 +250,14 @@
 * Use red green as risk
 * Respect the risk
 * Gap down is better than green red fade since it's just starting to go down instead of market hours sells
-* 
+* Buy near red green if it pushes up at the bell
+* But at the rebound if it pushes down at th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxODIzNDA3MywxNTYzNjUzOTU1LC0xNj
-A4MTM5MzQ0LDE5NzA2NDMzMjksMjEyOTA0MDM4NCwxMjUwMzcz
-NDk4LDIwMzc3OTI4ODMsMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LD
-EyMTE5OTU3MzEsMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyODEx
-MTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MD
-IsMTk2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEz
-MTI2ODgwMV19
+eyJoaXN0b3J5IjpbMTgxNTQ3ODgzNCwtMjE4MjM0MDczLDE1Nj
+M2NTM5NTUsLTE2MDgxMzkzNDQsMTk3MDY0MzMyOSwyMTI5MDQw
+Mzg0LDEyNTAzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1OTE1LD
+E0MzYzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkx
+ODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOT
+EzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2
+MDY4NzY0MzFdfQ==
 -->

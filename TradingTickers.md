@@ -231,14 +231,15 @@
 * Large run from previous consolidation area
 * Day 2 or beyond ideal
 *   . . . . . /\ . . . .  /\
-*  . . . . /. . .\ . / . . . \
-* . . . / . . . . . .. . 
+*  . . . . /. . .\ . / . . . \ . . . /   <=
+* . . . / . . . . . . . . . . . .\ / 
+* . /. . . . . . . . . . . . . . . . . . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDEyMDQ5NjgsMTIxMTk5NTczMSwyMD
-kwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4LC0xODAwMjkz
-NjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC
-0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5
-NzM4NDMsLTEyMjk5NjcxNDYsLTI0NDAyMzA2LC02OTcxNTcxMT
-UsMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMjc4MDAzNjI3LC0x
-ODAyOTI5NjQ0XX0=
+eyJoaXN0b3J5IjpbLTU0NzU5NzUwLDEyMTE5OTU3MzEsMjA5MD
+YxOTM1Myw4NTE5MTg5NjgsMTUyODExMTI5OCwtMTgwMDI5MzY0
+NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMT
+k2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTcz
+ODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3MTU3MTE1LD
+MzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgw
+MjkyOTY0NF19
 -->

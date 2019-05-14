@@ -235,9 +235,11 @@
 ## Strategy 6 - Short Major Resistance on Daily Chart
 * Scale in short risking off resistance area
 * Cover into fade
-* Need to have va
+* Must have volume (very liquid)
+* Risk off day's high
+* Can not be too close too the resistance level
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyODY1ODAxLDIwMjU1NTU5MTUsMTQzNj
+eyJoaXN0b3J5IjpbMzM5NjYxNzA5LDIwMjU1NTU5MTUsMTQzNj
 M0NjY1NywxMjExOTk1NzMxLDIwOTA2MTkzNTMsODUxOTE4OTY4
 LDE1MjgxMTEyOTgsLTE4MDAyOTM2NDYsLTE5MzYwNDE5MTMsNT
 kwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQxNzg0MDMsMTYwNjg3

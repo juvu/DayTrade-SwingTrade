@@ -222,7 +222,7 @@
 	* Use green red
 	* Adjust support level along the way
 
-## Strategy 5 - Short Pullbacks on Bullish Stock
+## Strategy 5 - Short First Hard Pullbacks
 * Top percent gainer, overextended
 * Not easy, must respect risk
 * Risk high of day
@@ -230,16 +230,12 @@
 * Above average volume
 * Large run from previous consolidation area
 * Day 2 or beyond ideal
-*   . . . . . /\ . . . .  /\
-*  . . . . /. . .\ . / . . . \ . . . /   <=
-* . . . / . . . . . . . . . . . .\ / 
-* . /. . . . . . . . . . . . . . . . . . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzU5NzUwLDEyMTE5OTU3MzEsMjA5MD
-YxOTM1Myw4NTE5MTg5NjgsMTUyODExMTI5OCwtMTgwMDI5MzY0
-NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMT
-k2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTcz
-ODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3MTU3MTE1LD
-MzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3ODAwMzYyNywtMTgw
-MjkyOTY0NF19
+eyJoaXN0b3J5IjpbLTQ1Mzc0NTQzNiwxMjExOTk1NzMxLDIwOT
+A2MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2
+NDYsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLT
+E5NjQxNzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3
+Mzg0MywtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNS
+wzMzk4MzQ2MTcsLTE3MDczMTUxMjAsLTEyNzgwMDM2MjcsLTE4
+MDI5Mjk2NDRdfQ==
 -->

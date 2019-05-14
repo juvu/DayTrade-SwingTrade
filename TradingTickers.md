@@ -239,13 +239,13 @@
 * Risk off day's high
 * Can not be too close too the resistance level
 * First time testing major resistance level, it'd likely not break
-* 
+* When it breakouts out, don't panic, see if the breakout would hold
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDM3MzQ5OCwyMDM3NzkyODgzLDIwMj
-U1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLDIwOTA2MTkz
-NTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2NDYsLT
-E5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQx
-Nzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0My
-wtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4
-MzQ2MTddfQ==
+eyJoaXN0b3J5IjpbMjEyOTA0MDM4NCwxMjUwMzczNDk4LDIwMz
+c3OTI4ODMsMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LDEyMTE5OTU3
+MzEsMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyODExMTI5OCwtMT
+gwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQy
+MzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2ODgwMS
+wxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNiwtNjk3
+MTU3MTE1XX0=
 -->

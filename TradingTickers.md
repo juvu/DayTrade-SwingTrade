@@ -253,9 +253,9 @@
 * Buy near red green if it pushes up at the bell
 * But at the bounce back if it pushes down at the bell
 * Cover along the way
-* 
+* Can short into bounces with previous resistance levels
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTY1ODQxNiwtOTAzNzkyMjM2LDE0OT
+eyJoaXN0b3J5IjpbLTExMjg3NzY4NiwtOTAzNzkyMjM2LDE0OT
 M1ODcyODAsLTIxODIzNDA3MywxNTYzNjUzOTU1LC0xNjA4MTM5
 MzQ0LDE5NzA2NDMzMjksMjEyOTA0MDM4NCwxMjUwMzczNDk4LD
 IwMzc3OTI4ODMsMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LDEyMTE5

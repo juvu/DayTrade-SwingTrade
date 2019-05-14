@@ -238,14 +238,14 @@
 * Must have volume (very liquid)
 * Risk off day's high
 * Can not be too close too the resistance level
-* First time testing resistance level, it'd likely not break
+* First time testing major resistance level, it'd likely not break
 * 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNzc5Mjg4MywyMDI1NTU1OTE1LDE0Mz
-YzNDY2NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2
-OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLD
-U5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2MDY4
-NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMjk5NjcxND
-YsLTI0NDAyMzA2LC02OTcxNTcxMTUsMzM5ODM0NjE3LC0xNzA3
-MzE1MTIwXX0=
+eyJoaXN0b3J5IjpbMTI1MDM3MzQ5OCwyMDM3NzkyODgzLDIwMj
+U1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLDIwOTA2MTkz
+NTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2NDYsLT
+E5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5NjQx
+Nzg0MDMsMTYwNjg3NjQzMSwxMzEyNjg4MDEsMTc0OTk3Mzg0My
+wtMTIyOTk2NzE0NiwtMjQ0MDIzMDYsLTY5NzE1NzExNSwzMzk4
+MzQ2MTddfQ==
 -->

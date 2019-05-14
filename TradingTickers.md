@@ -241,12 +241,13 @@
 * First time testing major resistance level, it'd likely not break
 * When it breakouts out very quickly, don't panic, see if the breakout would hold
 * The risk level is high of daily resistance area
+* Can short into a morning spike
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDY0MzMyOSwyMTI5MDQwMzg0LDEyNT
-AzNzM0OTgsMjAzNzc5Mjg4MywyMDI1NTU1OTE1LDE0MzYzNDY2
-NTcsMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2OCwxNT
-I4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5
-MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLDE2MDY4NzY0Mz
-EsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMjk5NjcxNDYsLTI0
-NDAyMzA2XX0=
+eyJoaXN0b3J5IjpbNjAwNjQ4NDEwLDE5NzA2NDMzMjksMjEyOT
+A0MDM4NCwxMjUwMzczNDk4LDIwMzc3OTI4ODMsMjAyNTU1NTkx
+NSwxNDM2MzQ2NjU3LDEyMTE5OTU3MzEsMjA5MDYxOTM1Myw4NT
+E5MTg5NjgsMTUyODExMTI5OCwtMTgwMDI5MzY0NiwtMTkzNjA0
+MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMTk2NDE3ODQwMy
+wxNjA2ODc2NDMxLDEzMTI2ODgwMSwxNzQ5OTczODQzLC0xMjI5
+OTY3MTQ2XX0=
 -->

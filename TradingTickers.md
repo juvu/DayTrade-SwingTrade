@@ -227,17 +227,17 @@
 * Not easy, must respect risk
 * Risk high of day
 * Look for lower high after a potential topping out
-* Look for the ** first hard ** pull back
+* Look for the first *hard* pull back
 * Above average volume
 * Large run from previous consolidation area
 * Day 2 or beyond would be ideal
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzIwNjE5LDE0MzYzNDY2NTcsMTIxMT
-k5NTczMSwyMDkwNjE5MzUzLDg1MTkxODk2OCwxNTI4MTExMjk4
-LC0xODAwMjkzNjQ2LC0xOTM2MDQxOTEzLDU5MDI5MDQwMiwxOT
-YzNDIzMDMzLC0xOTY0MTc4NDAzLDE2MDY4NzY0MzEsMTMxMjY4
-ODAxLDE3NDk5NzM4NDMsLTEyMjk5NjcxNDYsLTI0NDAyMzA2LC
-02OTcxNTcxMTUsMzM5ODM0NjE3LC0xNzA3MzE1MTIwLC0xMjc4
-MDAzNjI3XX0=
+eyJoaXN0b3J5IjpbMjAyNTU1NTkxNSwxNDM2MzQ2NjU3LDEyMT
+E5OTU3MzEsMjA5MDYxOTM1Myw4NTE5MTg5NjgsMTUyODExMTI5
+OCwtMTgwMDI5MzY0NiwtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMT
+k2MzQyMzAzMywtMTk2NDE3ODQwMywxNjA2ODc2NDMxLDEzMTI2
+ODgwMSwxNzQ5OTczODQzLC0xMjI5OTY3MTQ2LC0yNDQwMjMwNi
+wtNjk3MTU3MTE1LDMzOTgzNDYxNywtMTcwNzMxNTEyMCwtMTI3
+ODAwMzYyN119
 -->

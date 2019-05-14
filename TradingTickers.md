@@ -179,7 +179,7 @@
 	* Re-buy with big dip with green red(below previous close) as risk
 	* Adjust risk on key support accordingly
 
-## Strategy 3 - OTC Short Setups
+## Strategy 3 - OTC Short Setups(FRD)
 
 * Look for overextension for daily graph
 * Multiple green days
@@ -200,7 +200,7 @@
 	* G/R breakdown
 	* Bounces
 
-## Strategy 4 - Listed stock breakouts()
+## Strategy 4 - Listed stock breakouts
 * Resistance with no volume at those days does not matter as much
 * Need to test breakout level at least 2 times
 * Ideal chart is when a stock has burst in volume and a big run, then consolidates for a few days and then breaks out
@@ -231,7 +231,7 @@
 * Large run from previous consolidation area
 * Day 2 or beyond ideal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODMyMjc5OSwyMDkwNjE5MzUzLDg1MT
+eyJoaXN0b3J5IjpbMTIxMTk5NTczMSwyMDkwNjE5MzUzLDg1MT
 kxODk2OCwxNTI4MTExMjk4LC0xODAwMjkzNjQ2LC0xOTM2MDQx
 OTEzLDU5MDI5MDQwMiwxOTYzNDIzMDMzLC0xOTY0MTc4NDAzLD
 E2MDY4NzY0MzEsMTMxMjY4ODAxLDE3NDk5NzM4NDMsLTEyMjk5

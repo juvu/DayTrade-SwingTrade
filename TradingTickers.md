@@ -252,13 +252,13 @@
 * Gap down is better than green red fade since it's just starting to go down instead of market hours sells
 * Buy near red green if it pushes up at the bell
 * But at the bounce back if it pushes down at the bell
-* 
+* Cover into strength
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNzgzNDMyLDE0OTM1ODcyODAsLTIxOD
-IzNDA3MywxNTYzNjUzOTU1LC0xNjA4MTM5MzQ0LDE5NzA2NDMz
-MjksMjEyOTA0MDM4NCwxMjUwMzczNDk4LDIwMzc3OTI4ODMsMj
-AyNTU1NTkxNSwxNDM2MzQ2NjU3LDEyMTE5OTU3MzEsMjA5MDYx
-OTM1Myw4NTE5MTg5NjgsMTUyODExMTI5OCwtMTgwMDI5MzY0Ni
-wtMTkzNjA0MTkxMyw1OTAyOTA0MDIsMTk2MzQyMzAzMywtMTk2
-NDE3ODQwM119
+eyJoaXN0b3J5IjpbLTkwMzc5MjIzNiwxNDkzNTg3MjgwLC0yMT
+gyMzQwNzMsMTU2MzY1Mzk1NSwtMTYwODEzOTM0NCwxOTcwNjQz
+MzI5LDIxMjkwNDAzODQsMTI1MDM3MzQ5OCwyMDM3NzkyODgzLD
+IwMjU1NTU5MTUsMTQzNjM0NjY1NywxMjExOTk1NzMxLDIwOTA2
+MTkzNTMsODUxOTE4OTY4LDE1MjgxMTEyOTgsLTE4MDAyOTM2ND
+YsLTE5MzYwNDE5MTMsNTkwMjkwNDAyLDE5NjM0MjMwMzMsLTE5
+NjQxNzg0MDNdfQ==
 -->

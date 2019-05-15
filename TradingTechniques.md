@@ -12,6 +12,7 @@
 * Low float are more volatile, but less liquid
 * Heavy resistance refers to consolidation at price level with >20M volume
 * Breakout refers to moving through a resistance area followed by high volume and volatility
+* Level 2 is not useful unless at a breakout point
 
 ### Brokers
 * Interactive Broker(min 10,000)
@@ -30,9 +31,8 @@
 	* Beyond Greed and Fear
 	* The Reminiscences of a Stock Operator
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2OD
-E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMD
+c2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUy
+NDMsLTIwODg3NDY2MTJdfQ==
 -->

@@ -1,4 +1,7 @@
- 
+
+## Market Cap
+* Maga cap >200B
+* 2B - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjMwNzM2OCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTgxMDk1OTAxLC0yMDg4NzQ2NjEyXX0=
 -->

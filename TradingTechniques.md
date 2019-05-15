@@ -26,9 +26,12 @@
 	* Expensive commission
 	* Good execution
 	* No PDT
-* 
+* Reading materials
+	* MOMO Trader
+	* Beyond Greed and Fear
+	* The Reminiscences of a Stock Operator
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIxMDIzMDIsLTIwNzYwMjI1MzgsMT
-Y4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTQ2MDMwOTQ4NCwtMjA3NjAyMjUzOCwxNj
+gxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2
+NjEyXX0=
 -->

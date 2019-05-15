@@ -20,10 +20,10 @@
 		* Can be used to determine which side of the trade you should be on
 		* At the Market offerings
 		* Warrants
+			* Sold by companies to raise money
 		* Balance Sheets
 		* Cash Flow
 	* It can be found on EDGAR database at sec.gov
-
 ### Brokers
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
@@ -42,7 +42,7 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTM0MTExMSwtMTYwNDc4OTg1OCw2Mz
+eyJoaXN0b3J5IjpbLTgyMDY5MzU3MCwtMTYwNDc4OTg1OCw2Mz
 c5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5
 NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

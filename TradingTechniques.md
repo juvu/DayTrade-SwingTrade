@@ -13,7 +13,8 @@
 * Heavy resistance refers to consolidation at price level with >20M volume
 * Breakout refers to moving through a resistance area followed by high volume and volatility
 * Level 2 is not useful unless at a breakout point
-* 
+* Read Google Finance and news from platform
+* SEC filing is a financial st
 
 ### Brokers
 * Interactive Broker(min 10,000)
@@ -33,7 +34,7 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5MzEyNzQyLC0xNjA0Nzg5ODU4LDYzNz
-k5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1
-OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2MjAzNzAxMzMsLTE2MDQ3ODk4NTgsNj
+M3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2Mzkx
+OTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
 -->

@@ -19,11 +19,13 @@
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
 	* Fast Execution
-	* 
-|Centerpoint|Expensive Commission, |
-|Trade Zero()||
+	* Hard to short
+* Centerpoint()50,0
+	* Can short
+	* Expensive commission
+* Trade Zero()
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIxNzU1MTA0LC0yMDc2MDIyNTM4LDE2OD
-E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMzkwNzIwMDAsLTIwNzYwMjI1MzgsMT
+Y4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0
+NjYxMl19
 -->

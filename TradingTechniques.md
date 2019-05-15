@@ -11,8 +11,9 @@
 * 1M - 500M is the comfort zone
 * Float refers to the number of shares for trading of a stock
 * Low float are more volatile, but less liquid
-* Heavy resistance 
+* Heavy resistance refers to consolidation at price level with >20M volume
+* Breakout refers to 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0OTQ2ODE0OSwxMjM4NDk1MjQzLC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTcyNTAzOTEsMTIzODQ5NTI0MywtMjA4OD
+c0NjYxMl19
 -->

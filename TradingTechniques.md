@@ -25,7 +25,7 @@
 		* Cash Flow
 	* It can be found on EDGAR database at sec.gov
 * Key Terms:
-	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings, Limit Order, Market Order, Stop Loss
+	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings, Limit Order, Market Order, Stop Loss, Average up, 
 * Volume
 	* 0-10M (light)
 	* 10-25M (Mid)
@@ -53,8 +53,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMT
-YwNDc4OTg1OCw2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1
-NDc2NiwyOTYzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl
-19
+eyJoaXN0b3J5IjpbMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMD
+k5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAy
+MjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC
+0yMDg4NzQ2NjEyXX0=
 -->

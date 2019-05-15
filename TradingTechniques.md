@@ -15,17 +15,20 @@
 * Breakout refers to moving through a resistance area followed by high volume and volatility
 
 ### Brokers
-
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
 	* Fast Execution
 	* Hard to short
-* Centerpoint()50,0
-	* Can short
+* Centerpoint(min 50,000)
+	* Easy to borrow shares to short
 	* Expensive commission
-* Trade Zero()
+* Trade Zero(min 500)
+	* Expensive commission
+	* Good execution
+	* No PDT
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzkwNzIwMDAsLTIwNzYwMjI1MzgsMT
+eyJoaXN0b3J5IjpbLTEyNDIxMDIzMDIsLTIwNzYwMjI1MzgsMT
 Y4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0
 NjYxMl19
 -->

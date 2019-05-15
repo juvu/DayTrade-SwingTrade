@@ -13,7 +13,8 @@
 * Low float are more volatile, but less liquid
 * Heavy resistance refers to consolidation at price level with >20M volume
 * Breakout refers to moving through a resistance area followed by high volume and volatility
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTY4MTk1NDc2NiwyOTYzOTE5NTgsMTIzOD
+Q5NTI0MywtMjA4ODc0NjYxMl19
 -->

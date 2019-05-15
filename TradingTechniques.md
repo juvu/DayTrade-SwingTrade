@@ -17,9 +17,11 @@
 ### Brokers
 |Broker|Advantages|
 |--|--|
-|Interactive Broker(min 10,000)|Cheap commission|
+|Interactive Broker(min 10,000)|Cheap Commissions, Fast Execution|
+|Centerpoint|Expensive Commission|
+|Trade Zero||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzMxMDMxMCwtMjA3NjAyMjUzOCwxNj
-gxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbNTM1NzAyMzQyLC0yMDc2MDIyNTM4LDE2OD
+E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
+MTJdfQ==
 -->

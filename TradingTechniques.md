@@ -14,7 +14,10 @@
 * Breakout refers to moving through a resistance area followed by high volume and volatility
 * Level 2 is not useful unless at a breakout point
 * Read Google Finance and news from platform
-* SEC filing is a financial st
+* SEC filing
+	* A financial statement sumited to U.S. securities and Exchange Commision
+	* Contains
+	* 
 
 ### Brokers
 * Interactive Broker(min 10,000)
@@ -34,7 +37,7 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAzNzAxMzMsLTE2MDQ3ODk4NTgsNj
-M3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2Mzkx
-OTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTYzOTA0MTAxMCwtMTYwNDc4OTg1OCw2Mz
+c5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5
+NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

@@ -7,7 +7,6 @@
 | Mid-cap | $2B to $10B|
 | Small-cap | $300M to $2B|
 | Micro-cap | $50M to $300M|
-
 * 1M - 500M is the comfort zone
 * Float refers to the number of shares for trading of a stock
 * Low float are more volatile, but less liquid
@@ -30,8 +29,10 @@
 	* MOMO Trader
 	* Beyond Greed and Fear
 	* The Reminiscences of a Stock Operator
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MDMwOTQ4NCwtMjA3NjAyMjUzOCwxNj
-gxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2OD
+E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
+MTJdfQ==
 -->

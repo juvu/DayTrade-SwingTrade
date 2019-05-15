@@ -15,13 +15,15 @@
 * Breakout refers to moving through a resistance area followed by high volume and volatility
 
 ### Brokers
-|Broker|Advantages|
-|--|--|
-|Interactive Broker(min 10,000)|Cheap Commissions, Fast Execution|
-|Centerpoint|Expensive Commission|
-|Trade Zero||
+
+* Interactive Broker(min 10,000)
+	* Cheap Commissions
+	* Fast Execution
+	* 
+|Centerpoint|Expensive Commission, |
+|Trade Zero()||
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM1NzAyMzQyLC0yMDc2MDIyNTM4LDE2OD
+eyJoaXN0b3J5IjpbOTIxNzU1MTA0LC0yMDc2MDIyNTM4LDE2OD
 E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
 MTJdfQ==
 -->

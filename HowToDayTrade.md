@@ -254,8 +254,11 @@
 
 ## Chapter 11
 - Aerobic exercise for 30 mins to free mind and make better judgement
-- Find gappers, make a list of 4-6 stocks to keep in watch. Note down the important infos related to each stock
+- Find gapers, make a list of 4-6 stocks to keep in watch. Note down the important infos related to each stock
 - At 9:15 - 9:30, prepare buy orders for gap and go candidates
 - Make 10 trades per day
-- Track the trades in a spreadsheet. Use it to analyse accuracy rate, average winners/losers of each strategy
+- Track the trades in a spreadsheet. Use it to analyze accuracy rate, average winners/losers of each strategy
 - Follow a max day loss
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjk5MTE2MTA3XX0=
+-->

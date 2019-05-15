@@ -1,5 +1,5 @@
 
-## Info
+### Info
 |Capital|Market shares|
 |--|--|
 | Mega-cap | >$200B|
@@ -13,8 +13,10 @@
 * Low float are more volatile, but less liquid
 * Heavy resistance refers to consolidation at price level with >20M volume
 * Breakout refers to moving through a resistance area followed by high volume and volatility
-* 
+
+### Brokers
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MTk1NDc2NiwyOTYzOTE5NTgsMTIzOD
-Q5NTI0MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOT
+YzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

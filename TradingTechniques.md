@@ -10,7 +10,7 @@
 
 * 1M - 500M is the comfort zone
 * Float refers to the number of shares for trading of a stock
-* 
+* Low float are more volatile
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMjI3MDM4LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

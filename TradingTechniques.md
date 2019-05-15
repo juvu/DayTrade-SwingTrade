@@ -1,5 +1,5 @@
 
-## Market Cap
+## Info
 |Capital|Market shares|
 |--|--|
 | Mega-cap | >$200B|
@@ -11,8 +11,8 @@
 * 1M - 500M is the comfort zone
 * Float refers to the number of shares for trading of a stock
 * Low float are more volatile, but less liquid
-
+* Heavy resistance 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDg2NjQyNSwxMjM4NDk1MjQzLC0yMD
+eyJoaXN0b3J5IjpbMTQ0OTQ2ODE0OSwxMjM4NDk1MjQzLC0yMD
 g4NzQ2NjEyXX0=
 -->

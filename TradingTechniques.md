@@ -15,32 +15,26 @@
 * Breakout refers to moving through a resistance area followed by high volume and volatility
 
 ### Brokers
-Interactive broker (minimum 10,000)
+
+* What broker do I use
+* Interactive broker (minimum 10,000)
 Cheap commission
-・ Good execution
-Barely have shares to short
-
-Centerpoint security (minimum 50,000
-
-Expensive commission
-
 Good execution
+Barely have shares to short
+pricing
 
+Centerpoint security (minimum 50,000)
+Expensive commission Good execution
 Have shares to borrow most all the time
-
 Pricing
 
-Trade zero (minimum 500
-
+Trade zero (minimum 500)
 Expensive commission
-
 Good execution
-
-・ Non Us citizen only
-
+Non Us citizen only
 Pricing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MTI3MDYwMCwtMjA3NjAyMjUzOCwxNj
-gxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTk4Mjg4NzU4LC0yMDc2MDIyNTM4LDE2OD
+E5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2
+MTJdfQ==
 -->

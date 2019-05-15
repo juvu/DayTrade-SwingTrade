@@ -30,7 +30,7 @@
 	* 0-10M (light)
 	* 10-25M (Mid)
 	* 25-40M (Heavy)
-	* 40M+ Super Heavy)
+	* 40M+ (Super Heavy)
 ### Psychology of Trading
 * 
 
@@ -53,8 +53,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEzNTIyLC0yMDk5ODg1NDgzLC0xNj
-A0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0
-NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMT
+YwNDc4OTg1OCw2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1
+NDc2NiwyOTYzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl
+19
 -->

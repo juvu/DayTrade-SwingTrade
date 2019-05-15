@@ -26,6 +26,9 @@
 	* It can be found on EDGAR database at sec.gov
 * Key Terms:
 	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings
+### Psychology of Trading
+* 
+
 ### Brokers
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
@@ -44,7 +47,7 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2MTg2MjY1LC0xNjA0Nzg5ODU4LDYzNz
-k5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1
-OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc5ODEwODIyMSwtMTYwNDc4OTg1OCw2Mz
+c5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5
+NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

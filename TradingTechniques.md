@@ -26,6 +26,11 @@
 	* It can be found on EDGAR database at sec.gov
 * Key Terms:
 	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings, Limit Order, Market Order, Stop Loss
+* Volume
+	* 0-10M (light)
+	* 10-25M (Mid)
+	* 25-40M (Heavy)
+	* 40M+ Super Heavy)
 ### Psychology of Trading
 * 
 
@@ -48,8 +53,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTk5Njg2NDUsLTIwOTk4ODU0ODMsLT
-E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
-NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbLTEyNDEzNTIyLC0yMDk5ODg1NDgzLC0xNj
+A0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0
+NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX
+0=
 -->

@@ -56,7 +56,10 @@
 	* Short sellers are frustrated
 	* Buyer's has strength
 	* There will be a lot sellers, but buyer's in control
-* price neutralizing
+	* It's better to short parabolic charts
+* Price neutralizing
+	* When volume is fading
+	* Price is not dropping
 * factor conflict 
 
 
@@ -82,10 +85,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NT
-k0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1
-MDIsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMD
-k5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAy
-MjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTgzNjk1MjA5NSw0NzQyMTY1MzksLTc2Mz
+UxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2
+MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5Mj
+czNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkz
+MTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LD
+EyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
 -->

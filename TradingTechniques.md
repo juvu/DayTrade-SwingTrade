@@ -18,6 +18,7 @@
 	* Sell partially at the day's high
 	* Buy when it breaks day's high
 	* Sell into strength
+		* Use half of the spike if can not be sold into strength
 	* Sell at the average gain that's tracked
 
 ## Long Strategy Premarket Breakout Pattern
@@ -137,7 +138,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQxNTE5OTIsNzM2MTgyOTk1LDE5Mj
+eyJoaXN0b3J5IjpbLTE0OTc5NTg3MDQsNzM2MTgyOTk1LDE5Mj
 Q1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIs
 NTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNT
 k4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4

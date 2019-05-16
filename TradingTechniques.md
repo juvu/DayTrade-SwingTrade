@@ -2,7 +2,7 @@
 * Stock is consolidating premarket with resistance
 * When the market opens, stock goes over high of premarket
 * Good volume on the breakout
-* For biotech stocks, does not need to focus on the float, can just focus on the pattern
+* 20-30% profit is considered to be a good tr
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -11,7 +11,7 @@
 	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
-	* Low float(9M & under)
+	* Low float(9M & under, unless it's a biotech company)
 	* Low market cap
 	* News catalyst
 		* Merge with bigger company(Very bullish)
@@ -110,7 +110,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3OTk1NzMzLDE5NjgzNjM5MjQsLTY1MD
+eyJoaXN0b3J5IjpbOTM1MzI2NTcwLDE5NjgzNjM5MjQsLTY1MD
 ExNzMwNSwtMTMxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYz
 Nyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
 Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3

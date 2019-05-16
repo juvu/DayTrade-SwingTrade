@@ -60,7 +60,8 @@
 * Price neutralizing
 	* When volume is fading
 	* Price is not dropping
-	* When the volume is low, and you have a big position, then buY to cover will spike up the price
+	* When the volume is low, and you have a big position, then buy to cover will spike up the price
+	* When the stock is both bearish and bullish at the same time
 * factor conflict 
 
 
@@ -86,7 +87,7 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NzIxNTMwLDI0MTgzMTYzNyw0NzQyMT
+eyJoaXN0b3J5IjpbLTg3NTI5OTc3LDI0MTgzMTYzNyw0NzQyMT
 Y1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwt
 MTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NT
 I5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4

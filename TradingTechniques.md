@@ -1,4 +1,4 @@
-## 
+## Getting Started
 ### Info
 |Capital|Market shares|
 |--|--|
@@ -31,6 +31,23 @@
 	* 10-25M (Mid)
 	* 25-40M (Heavy)
 	* 40M+ (Super Heavy)
+
+### Brokers
+* Interactive Broker(min 10,000)
+	* Cheap Commissions
+	* Fast Execution
+	* Hard to short
+* Centerpoint(min 50,000)
+	* Easy to borrow shares to short
+	* Expensive commission
+* Trade Zero(min 500)
+	* Expensive commission
+	* Good execution
+	* No PDT
+* Reading materials
+	* MOMO Trader
+	* Beyond Greed and Fear
+	* The Reminiscences of a Stock Operator
 
 ### Resistance
 * Consistant resistance
@@ -70,29 +87,13 @@
 * Set risk and max loss, and follow through
 * Don't get emotional
 
-### Brokers
-* Interactive Broker(min 10,000)
-	* Cheap Commissions
-	* Fast Execution
-	* Hard to short
-* Centerpoint(min 50,000)
-	* Easy to borrow shares to short
-	* Expensive commission
-* Trade Zero(min 500)
-	* Expensive commission
-	* Good execution
-	* No PDT
-* Reading materials
-	* MOMO Trader
-	* Beyond Greed and Fear
-	* The Reminiscences of a Stock Operator
-
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyND
-E4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0
-NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLT
-YwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1
-NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOC
-wxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTg2MDE2OTYxNiwtMTMxOTAxODgyMSwxOD
+czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
+NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
+AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz
+NTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC
+0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0
+OTUyNDNdfQ==
 -->

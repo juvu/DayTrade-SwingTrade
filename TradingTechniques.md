@@ -1,7 +1,6 @@
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating premarket with resistance
 * When the market opens, stock goes over high of premarket
-* Stock is not up too much premarket
 * Good volume on the breakout
 * For biotech stocks, does not need to focus on the float, can just focus on the pattern
 * Sizing
@@ -12,14 +11,14 @@
 	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
-	* Low float
+	* Low float(9M & under)
 	* Low market cap
 	* News catalyst
 		* Merge with bigger company(Very bullish)
 		* Earnings winner
 		* Contract winner(If there's deposit from another company, that's bullish)
 	* Clean chart with no overhead resistance(or resistance with low volume)
-
+	* Stock is not up too much premarket(i.e. 20-25%)
 ## Getting Started
 ### Info
 |Capital|Market shares|
@@ -111,11 +110,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMz
-E5MDE4ODIxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUz
-OSwtNzYzNTEyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xOD
-UzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mjkx
-ODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OC
-w2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYz
-OTE5NThdfQ==
+eyJoaXN0b3J5IjpbMTE3OTk1NzMzLDE5NjgzNjM5MjQsLTY1MD
+ExNzMwNSwtMTMxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYz
+Nyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
+Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
+MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
+E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
+NTQ3NjZdfQ==
 -->

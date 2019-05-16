@@ -13,7 +13,7 @@
 		* Merge with bigger company(Very bullish)
 		* Earnings winner
 		* Contract winner(If there's deposit from another company, that's bullish)
-	* Clean chart with noresistant
+	* Clean chart with no overhead resistance(or resistance with low volume)
 
 ## Getting Started
 ### Info
@@ -106,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQyNjA2NTgsLTEzMTkwMTg4MjEsMT
-g3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIz
-NDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLT
-EwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQy
-MzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0Mi
-wtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4
-NDk1MjQzXX0=
+eyJoaXN0b3J5IjpbLTY1MDExNzMwNSwtMTMxOTAxODgyMSwxOD
+czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
+NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
+AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz
+NTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC
+0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0
+OTUyNDNdfQ==
 -->

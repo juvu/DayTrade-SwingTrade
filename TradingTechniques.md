@@ -50,19 +50,19 @@
 * 
 
 ### Type of trades not to short
-* Slow grinding
+* Slow Grinding
 	* Hard to short since there's too many support along the way
 	* Prices goes up slowly
 	* Short sellers are frustrated
 	* Buyer's has strength
 	* There will be a lot sellers, but buyer's in control
 	* It's better to short parabolic charts
-* Price neutralizing
+* Price Neutralizing
 	* When volume is fading
 	* Price is not dropping
 	* When the volume is low, and you have a big position, then buy to cover will spike up the price
 	* When the stock is both bearish and bullish at the same time
-* factor conflict 
+* Factor Conflict 
 
 
 ### Psychology of Trading
@@ -87,10 +87,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NTI5OTc3LDI0MTgzMTYzNyw0NzQyMT
-Y1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwt
-MTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NT
-I5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4
-NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMj
-k2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMzg1NDg5OTksMjQxODMxNjM3LDQ3NDIxNj
+UzOSwtNzYzNTEyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0x
+ODUzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mj
+kxODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1
+OCw2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOT
+YzOTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

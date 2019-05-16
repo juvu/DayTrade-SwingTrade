@@ -1,4 +1,4 @@
-
+## 
 ### Info
 |Capital|Market shares|
 |--|--|
@@ -15,7 +15,7 @@
 * Level 2 is not useful unless at a breakout point
 * Read Google Finance and news from platform
 * SEC filing
-	* A financial statement sumited to U.S. securities and Exchange Commision
+	* A financial statement submitted to U.S. securities and Exchange Commission
 	* SEC Filing Contains
 		* Can be used to determine which side of the trade you should be on
 		* At the Market offerings
@@ -88,11 +88,11 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjkyODQ3MCwxODczODkzMTcyLDI0MT
-gzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2
-LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNj
-A3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0
-ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LD
-E2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3
-NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyND
+E4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0
+NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLT
+YwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1
+NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOC
+wxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4
+NzQ2NjEyXX0=
 -->

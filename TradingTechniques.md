@@ -37,7 +37,9 @@
 	* Stock moving with consistance resistance
 	* >500k+
 	* Trading in some small range
-	* Once there's a gap up, it's likely the price will go towar
+	* Once there's a huge gap up, it's likely the price will go towards the range since
+		* Long term share holder would be willing sell
+		* People shorting into morning spike
 * Individual resistance
 	* Big volume with individual resistance
 		* 4-5M  <= light
@@ -76,9 +78,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI0NzUyNjcsMzgzNjkxMjE5LC0xOD
-UzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mjkx
-ODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OC
-w2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYz
-OTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjc0Mzg1NzcxLDM4MzY5MTIxOSwtMTg1Mz
+AzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgw
+LDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNj
+M3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2Mzkx
+OTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
 -->

@@ -4,7 +4,7 @@
 * Good volume on the breakout
 * 20-30% profit is considered to be a good trade
 * The stock is bullish if it can hold half of the first spike on the first pullback
-* Always sell into strength
+* Always take profit  into strength
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -14,7 +14,7 @@
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
 	* Low float
-	* Low market cap(<50M unless it's a biotech company)
+	* Low market cap(<100M unless it's a biotech company)
 	* News catalyst
 		* Merge with bigger company(Very bullish)
 		* Earnings winner
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMT
-k2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4
-OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0LC
-05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMDE2
-ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1OC
-wtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLTIw
-NzYwMjI1MzhdfQ==
+eyJoaXN0b3J5IjpbODUyODczMzkxLC0xMDk3NzExNDU4LC0yMD
+A1OTgwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMwNSwtMTMxOTAx
+ODgyMSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLT
+c2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAz
+Njk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLD
+E5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3
+OTkzMTQyXX0=
 -->

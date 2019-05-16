@@ -63,7 +63,7 @@
 	* When the volume is low, and you have a big position, then buy to cover will spike up the price
 * Factor Conflict
 	* When the stock is both bearish and bullish at the same time
-	* 
+	* volume gettin
 
 
 ### Psychology of Trading
@@ -88,10 +88,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwNjE4ODk5LDI0MTgzMTYzNyw0NzQyMT
-Y1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwt
-MTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NT
-I5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4
-NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMj
-k2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTUxOTM3NTI0MiwyNDE4MzE2MzcsNDc0Mj
+E2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTks
+LTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5ND
+UyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5
+ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LD
+I5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
 -->

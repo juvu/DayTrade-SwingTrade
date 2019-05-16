@@ -13,8 +13,8 @@
 	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
-	* Low float(<50M unless it's a biotech company)
-	* Low market cap
+	* Low float
+	* Low market cap(<50M unless it's a biotech company)
 	* News catalyst
 		* Merge with bigger company(Very bullish)
 		* Earnings winner
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDU5ODAwMDIsMTk2ODM2MzkyNCwtNj
-UwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4OTMxNzIsMjQxODMx
-NjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0LC05NzU5NDQwNDYsMz
-gzNjkxMjE5LC0xODUzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDcz
-NzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4My
-wtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4
-MTk1NDc2Nl19
+eyJoaXN0b3J5IjpbLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMT
+k2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4
+OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0LC
+05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMDE2
+ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1OC
+wtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLTIw
+NzYwMjI1MzhdfQ==
 -->

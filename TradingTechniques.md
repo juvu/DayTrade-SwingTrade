@@ -1,6 +1,8 @@
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating premarket with resistance
-* When the market opens, sto
+* When the market opens, stock goes over high of premarket
+* Stock is not up too much premarket
+* Good volume on the breakout
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -108,11 +110,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzIwOTc2NjksLTY1MDExNzMwNSwtMT
-MxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1
-MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMT
-g1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5
-MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NT
-gsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2
-MzkxOTU4XX0=
+eyJoaXN0b3J5IjpbNzE5NTk5Njc1LC02NTAxMTczMDUsLTEzMT
+kwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5
+LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NT
+MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
+MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
+YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
+MTk1OF19
 -->

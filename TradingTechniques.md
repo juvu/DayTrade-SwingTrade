@@ -36,8 +36,8 @@
 * Consistant resistance
 	* Stock moving with consistance resistance
 	* >500k+
-	* Trading in small range
-	* 
+	* Trading in some small range
+	* Once there's a gap up, it's likely the price will go towar
 * Individual resistance
 	* Big volume with individual resistance
 		* 4-5M  <= light
@@ -76,9 +76,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NzYyMzk4NiwzODM2OTEyMTksLTE4NT
-MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
-MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
-YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
-MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExNjI0NzUyNjcsMzgzNjkxMjE5LC0xOD
+UzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mjkx
+ODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OC
+w2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYz
+OTE5NTgsMTIzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

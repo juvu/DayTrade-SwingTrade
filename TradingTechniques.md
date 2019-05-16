@@ -33,7 +33,7 @@
 	* 40M+ (Super Heavy)
 
 ### Resistance
-
+* Individual resit
 
 
 ### Psychology of Trading
@@ -58,8 +58,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTI2MDM3OTYsMTQ5NDUyOTE4MCwxOT
-I3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5
-MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OC
-wxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDIwNTQ3ODU4LDE0OTQ1MjkxODAsMTkyNz
+M0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMx
+NDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMT
+IzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

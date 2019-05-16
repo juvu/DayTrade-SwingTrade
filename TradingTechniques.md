@@ -2,7 +2,7 @@
 * Stock is consolidating premarket with resistance
 * When the market opens, stock goes over high of premarket
 * Good volume on the breakout
-* 20-30% profit is considered to be a good tr
+* 20-30% profit is considered to be a good trade
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -11,7 +11,7 @@
 	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
-	* Low float(9M & under, unless it's a biotech company)
+	* Low float(<50M unless it's a biotech company)
 	* Low market cap
 	* News catalyst
 		* Merge with bigger company(Very bullish)
@@ -19,6 +19,9 @@
 		* Contract winner(If there's deposit from another company, that's bullish)
 	* Clean chart with no overhead resistance(or resistance with low volume)
 	* Stock is not up too much premarket(i.e. 20-25%)
+
+
+
 ## Getting Started
 ### Info
 |Capital|Market shares|
@@ -110,11 +113,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzI2NTcwLDE5NjgzNjM5MjQsLTY1MD
-ExNzMwNSwtMTMxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYz
-Nyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
-Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
-MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
-E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
-NTQ3NjZdfQ==
+eyJoaXN0b3J5IjpbLTUyMzc2OTE3OCwxOTY4MzYzOTI0LC02NT
+AxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2
+MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzOD
+M2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3
+NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC
+0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgx
+OTU0NzY2XX0=
 -->

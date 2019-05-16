@@ -40,6 +40,7 @@
 	* Once there's a huge gap up, it's likely the price will go towards the range since
 		* Long term share holder would be willing sell
 		* People shorting into morning spike
+		* Can calculate the bag holders by the consist resistant level's volume
 * Individual resistance
 	* Big volume with individual resistance
 		* 4-5M  <= light
@@ -78,9 +79,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0Mzg1NzcxLDM4MzY5MTIxOSwtMTg1Mz
-AzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgw
-LDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNj
-M3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2Mzkx
-OTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTE2NjQ5OTcyNywzODM2OTEyMTksLTE4NT
+MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
+MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
+YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
+MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
 -->

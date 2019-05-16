@@ -33,6 +33,8 @@
 	* 40M+ (Super Heavy)
 
 ### Resistance
+* Consistant resistance
+	* 
 * Individual resitance
 	* Big volume with individual resistance
 		* 4-5M  <= light
@@ -71,8 +73,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5ND
-UyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5
-ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LD
-I5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLT
+YwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1
+NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOC
+wxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4
+NzQ2NjEyXX0=
 -->

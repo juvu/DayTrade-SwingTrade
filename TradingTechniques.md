@@ -1,3 +1,7 @@
+## Long Strategy Premarket Breakout Pattern
+* Sizing
+	* breaks premarket hi
+
 ## Getting Started
 ### Info
 |Capital|Market shares|
@@ -87,9 +91,9 @@
 * Set risk and max loss, and follow through
 * Don't get emotional
 
-* 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDE2OTYxNiwtMTMxOTAxODgyMSwxOD
+eyJoaXN0b3J5IjpbMTI4NjQ1MzUxMywtMTMxOTAxODgyMSwxOD
 czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
 NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
 AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz

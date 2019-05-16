@@ -42,7 +42,7 @@
 		* People shorting into morning spike
 		* Can calculate the bag holders by the consistent resistant level's volume
 * Individual resistance
-	* Big volume with individual resistance
+	* Big volume at a specific point where most of the time it's trading in small volumes
 		* 4-5M  <= light
 		* 20M+  <= light-mid
 		* 30M+  <= mid
@@ -79,10 +79,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MTI3NDQzNiwtOTc1OTQ0MDQ2LDM4Mz
-Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
-MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
-E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
-NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbLTEwNTc0OTA1NjIsLTk3NTk0NDA0NiwzOD
+M2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3
+NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC
+0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgx
+OTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2Nj
+EyXX0=
 -->

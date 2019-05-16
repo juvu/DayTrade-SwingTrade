@@ -42,7 +42,9 @@
 * 
 
 ### type of shorts
-* Slow gr
+* Slow grinding
+* price neutralizing
+* factor conflict 
 
 
 ### Psychology of Trading
@@ -67,8 +69,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTQ0NzYzLDE0OTQ1MjkxODAsMTkyNz
-M0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMx
-NDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMT
-IzODQ5NTI0MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3Mz
+QyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0
+MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMj
+M4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
 -->

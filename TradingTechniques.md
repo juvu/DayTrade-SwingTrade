@@ -1,5 +1,6 @@
 ## Tips
 * Afternoon breakout is not as strong as morning spike
+* Always take profit into strength, not weakness
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -7,7 +8,6 @@
 * Good volume on the breakout
 * 20-30% profit is considered to be a good trade
 * The stock is bullish if it can hold half of the first spike on the first pullback
-* Always take profit into strength
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -117,11 +117,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODUzODYwNzgsNTg3ODc1ODk1LDg1Mj
-g3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYz
-OTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3Mi
-wyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0
-NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MD
-IsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5
-ODg1NDgzXX0=
+eyJoaXN0b3J5IjpbNTc1ODg2OTYyLDU4Nzg3NTg5NSw4NTI4Nz
+MzOTEsLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMTk2ODM2Mzky
+NCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4OTMxNzIsMj
+QxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0LC05NzU5NDQw
+NDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMDE2ODc2NTAyLC
+02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1OCwtMjA5OTg4
+NTQ4M119
 -->

@@ -1,3 +1,6 @@
+## Tips
+* Afternoon breakout is not as strong as morning spike
+
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
 * When the market opens, stock goes over high of premarket
@@ -114,11 +117,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5Nz
-cxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTcz
-MDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsND
-c0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEy
-MTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMT
-Q5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0
-Nzg5ODU4XX0=
+eyJoaXN0b3J5IjpbLTE4ODUzODYwNzgsNTg3ODc1ODk1LDg1Mj
+g3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYz
+OTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3Mi
+wyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0
+NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MD
+IsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5
+ODg1NDgzXX0=
 -->

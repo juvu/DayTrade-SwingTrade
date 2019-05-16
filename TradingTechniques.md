@@ -3,6 +3,7 @@
 * When the market opens, stock goes over high of premarket
 * Stock is not up too much premarket
 * Good volume on the breakout
+* For biotech stocks, does not need to focus on the float, can just focus on the pattern
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -110,11 +111,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NTk5Njc1LC02NTAxMTczMDUsLTEzMT
-kwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5
-LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NT
-MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
-MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
-YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
-MTk1OF19
+eyJoaXN0b3J5IjpbMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMz
+E5MDE4ODIxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUz
+OSwtNzYzNTEyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xOD
+UzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mjkx
+ODAsMTkyNzM0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OC
+w2Mzc5OTMxNDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYz
+OTE5NThdfQ==
 -->

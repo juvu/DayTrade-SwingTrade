@@ -3,6 +3,7 @@
 * When the market opens, stock goes over high of premarket
 * Good volume on the breakout
 * 20-30% profit is considered to be a good trade
+* The stock is bullish if it can hold half of the first spike on the first pullback
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -19,7 +20,6 @@
 		* Contract winner(If there's deposit from another company, that's bullish)
 	* Clean chart with no overhead resistance(or resistance with low volume)
 	* Stock is not up too much premarket(i.e. 20-25%)
-
 
 
 ## Getting Started
@@ -113,11 +113,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNzMxNTk0NiwxOTY4MzYzOTI0LC02NT
-AxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2
-MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzOD
-M2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3
-NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC
-0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgx
-OTU0NzY2XX0=
+eyJoaXN0b3J5IjpbODU0NDM0ODM0LDE5NjgzNjM5MjQsLTY1MD
+ExNzMwNSwtMTMxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYz
+Nyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
+Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
+MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
+E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
+NTQ3NjZdfQ==
 -->

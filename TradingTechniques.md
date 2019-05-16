@@ -47,7 +47,6 @@
 		* 20M+  <= light-mid
 		* 30M+  <= mid
 		* 40M+  <= big
-* 
 
 ### Type of trades not to short
 * Slow Grinding
@@ -65,11 +64,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 
-
 ### Psychology of Trading
 * Don't force a trade
-* Don't over trade if you 
-
+* Don't over trade if your plan does not work more than 2 times
+* Set risk and max loss, and follow through
+* Don't get emotional
 
 ### Brokers
 * Interactive Broker(min 10,000)
@@ -89,11 +88,11 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM2NTk0NDYsMTg3Mzg5MzE3MiwyND
-E4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0
-NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLT
-YwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1
-NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOC
-wxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTQxNjkyODQ3MCwxODczODkzMTcyLDI0MT
+gzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2
+LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNj
+A3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0
+ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LD
+E2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3
+NDY2MTJdfQ==
 -->

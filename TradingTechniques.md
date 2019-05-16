@@ -1,6 +1,9 @@
 ## Tips
 * Afternoon breakout is not as strong as morning spike
 * Always take profit into strength, not weakness
+## Midday Perk Pattern
+* Around 11am - 2pm
+* 
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -119,11 +122,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMD
-A0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1
-Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4Mz
-YzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3
-MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NT
-k0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1
-MDJdfQ==
+eyJoaXN0b3J5IjpbLTE3NzYwOTA5NDgsNzM2MTgyOTk1LDE5Mj
+Q1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIs
+NTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNT
+k4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4
+MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03Nj
+M1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5
+NjNdfQ==
 -->

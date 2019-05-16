@@ -1,6 +1,7 @@
 ## Tips
 * Afternoon breakout is not as strong as morning spike
 * Always take profit into strength, not weakness
+* Double support/resistance is hard to break
 ## Midday Perk Pattern
 * Around 11am - 2pm
 * Works around 60-65%, not as good as premarket
@@ -138,11 +139,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTU1MjY2Nyw3MzYxODI5OTUsMTkyND
-U1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Miw1
-ODc4NzU4OTUsODUyODczMzkxLC0xMDk3NzExNDU4LC0yMDA1OT
-gwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMwNSwtMTMxOTAxODgy
-MSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2Mz
-UxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2
-M119
+eyJoaXN0b3J5IjpbMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NT
+U5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4
+Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5OD
+AwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIx
+LDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNT
+EyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYz
+XX0=
 -->

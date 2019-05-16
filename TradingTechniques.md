@@ -31,6 +31,11 @@
 	* 10-25M (Mid)
 	* 25-40M (Heavy)
 	* 40M+ (Super Heavy)
+
+### Resistance
+
+
+
 ### Psychology of Trading
 * 
 
@@ -53,8 +58,8 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMD
-k5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAy
-MjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMTI2MDM3OTYsMTQ5NDUyOTE4MCwxOT
+I3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5
+MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OC
+wxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
 -->

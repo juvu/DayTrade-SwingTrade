@@ -13,7 +13,7 @@
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
 	* Typically there'll be 3 pullbacks
-	* Take profit along the third push
+	* Take 2/3 profit along the third spike
 	* let the remaining run higher
 	* If the stock breaks half of the morning spike, sell the position
 * Requirement
@@ -118,11 +118,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1OD
-g2OTYyLDU4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgs
-LTIwMDU5ODAwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMz
-E5MDE4ODIxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUz
-OSwtNzYzNTEyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xOD
-UzMDM2OTYzLC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1Mjkx
-ODBdfQ==
+eyJoaXN0b3J5IjpbMTkyNDU1OTg5LDYyNDIwMDQ4NSwtODkxOD
+I0MzIxLDU3NTg4Njk2Miw1ODc4NzU4OTUsODUyODczMzkxLC0x
+MDk3NzExNDU4LC0yMDA1OTgwMDAyLDE5NjgzNjM5MjQsLTY1MD
+ExNzMwNSwtMTMxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYz
+Nyw0NzQyMTY1MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
+Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
+Ml19
 -->

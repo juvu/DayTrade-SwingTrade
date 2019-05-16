@@ -4,8 +4,12 @@
 	* First pullback, add 1/3 of position
 	* Typically there'll be 3 pullbacks
 	* Take profit on the third push
-	* let
+	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
+* Requirement
+	* Low float
+	* Low market cap
+	* News 
 
 ## Getting Started
 ### Info
@@ -98,7 +102,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyNDYzODk5LC0xMzE5MDE4ODIxLDE4Nz
+eyJoaXN0b3J5IjpbNzgzODE0MjA0LC0xMzE5MDE4ODIxLDE4Nz
 M4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0
 LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMD
 E2ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1

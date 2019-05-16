@@ -1,5 +1,5 @@
 ## Long Strategy Premarket Breakout Pattern
-* Stock is consolidating premarket with resistance
+* Stock is consolidating in a small range premarket with resistance
 * When the market opens, stock goes over high of premarket
 * Good volume on the breakout
 * 20-30% profit is considered to be a good trade
@@ -113,7 +113,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzc2OTE3OCwxOTY4MzYzOTI0LC02NT
+eyJoaXN0b3J5IjpbLTIyNzMxNTk0NiwxOTY4MzYzOTI0LC02NT
 AxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2
 MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzOD
 M2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3

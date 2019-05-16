@@ -35,6 +35,9 @@
 ### Resistance
 * Consistant resistance
 	* Stock moving with consistance resistance
+	* >500k+
+	* Trading in small range
+	* 
 * Individual resistance
 	* Big volume with individual resistance
 		* 4-5M  <= light
@@ -73,9 +76,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMD
-E2ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1
-OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLT
-IwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5
-NTI0MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc3NzYyMzk4NiwzODM2OTEyMTksLTE4NT
+MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
+MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
+YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
+MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
 -->

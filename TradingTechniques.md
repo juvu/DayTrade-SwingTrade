@@ -9,7 +9,11 @@
 * Requirement
 	* Low float
 	* Low market cap
-	* News 
+	* News catalyst
+		* Merge with bigger company(Very bullish)
+		* Earnings winner
+		* Contract winner(if the b)
+		* 
 
 ## Getting Started
 ### Info
@@ -102,11 +106,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgzODE0MjA0LC0xMzE5MDE4ODIxLDE4Nz
-M4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0
-LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMD
-E2ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1
-OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLT
-IwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5
-NTI0M119
+eyJoaXN0b3J5IjpbLTk3NzIxMjE3OCwtMTMxOTAxODgyMSwxOD
+czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
+NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
+AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz
+NTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC
+0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0
+OTUyNDNdfQ==
 -->

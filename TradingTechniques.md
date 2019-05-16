@@ -53,6 +53,9 @@
 * Slow grinding
 	* Hard to short since there's too many support along the way
 	* Prices goes up slowly
+	* Short sellers are frustrated
+	* Buyer's has strength
+	* There will be a lot sellers, but buyer's in control
 * price neutralizing
 * factor conflict 
 
@@ -79,10 +82,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4Mz
-Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
-MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
-E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
-NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MT
-JdfQ==
+eyJoaXN0b3J5IjpbNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NT
+k0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1
+MDIsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMD
+k5ODg1NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAy
+MjUzOCwxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC
+0yMDg4NzQ2NjEyXX0=
 -->

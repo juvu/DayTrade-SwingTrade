@@ -1,6 +1,9 @@
 ## Long Strategy Premarket Breakout Pattern
 * Sizing
-	* breaks premarket hi
+	* Breaks premarket high, add 1/3 of the position
+	* First pullback, add 1/3 of position
+	* Typically there'll be 3 pullbacks
+	* take profit into third 
 
 ## Getting Started
 ### Info
@@ -93,7 +96,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjQ1MzUxMywtMTMxOTAxODgyMSwxOD
+eyJoaXN0b3J5IjpbMTExMzkwODczNCwtMTMxOTAxODgyMSwxOD
 czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
 NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
 AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz

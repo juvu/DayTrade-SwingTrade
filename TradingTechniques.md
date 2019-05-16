@@ -35,7 +35,7 @@
 ### Resistance
 * Consistant resistance
 	* Stock moving with consistent resistance
-	* >500k+
+	* over 500k+
 	* Trading in some small range
 	* Once there's a huge gap up, it's likely the price will go towards the range since
 		* Long term share holder would be willing sell
@@ -79,9 +79,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NT
-MwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4
-MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0Nzg5ODU4LD
-YzNzk5MzE0MiwtMjA3NjAyMjUzOCwxNjgxOTU0NzY2LDI5NjM5
-MTk1OCwxMjM4NDk1MjQzLC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTU1MTI3NDQzNiwtOTc1OTQ0MDQ2LDM4Mz
+Y5MTIxOSwtMTg1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3
+MiwxNDk0NTI5MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLT
+E2MDQ3ODk4NTgsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5
+NTQ3NjYsMjk2MzkxOTU4LDEyMzg0OTUyNDMsLTIwODg3NDY2MT
+JdfQ==
 -->

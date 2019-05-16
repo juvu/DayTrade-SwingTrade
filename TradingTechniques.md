@@ -34,8 +34,8 @@
 
 ### Resistance
 * Consistant resistance
-	* 
-* Individual resitance
+	* Stock moving with consistance resistance
+* Individual resistance
 	* Big volume with individual resistance
 		* 4-5M  <= light
 		* 20M+  <= light-mid
@@ -73,9 +73,9 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLT
-YwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1
-NDgzLC0xNjA0Nzg5ODU4LDYzNzk5MzE0MiwtMjA3NjAyMjUzOC
-wxNjgxOTU0NzY2LDI5NjM5MTk1OCwxMjM4NDk1MjQzLC0yMDg4
-NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMD
+E2ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1
+OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMxNDIsLT
+IwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMTIzODQ5
+NTI0MywtMjA4ODc0NjYxMl19
 -->

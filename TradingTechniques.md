@@ -11,7 +11,8 @@
 	* Price above open price
 	* Low float
 	* Low market cap
-	* Consolidate for at least 1-1:
+	* Consolidate for at least 1-1:30 hr
+	* Clear
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -130,7 +131,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDg1NjM0ODYsNzM2MTgyOTk1LDE5Mj
+eyJoaXN0b3J5IjpbLTEwMDA4NTMwMjIsNzM2MTgyOTk1LDE5Mj
 Q1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIs
 NTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNT
 k4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4

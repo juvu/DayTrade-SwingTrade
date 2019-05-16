@@ -4,7 +4,7 @@
 * Good volume on the breakout
 * 20-30% profit is considered to be a good trade
 * The stock is bullish if it can hold half of the first spike on the first pullback
-* Always take profit  into strength
+* Always take profit into strength
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
@@ -114,11 +114,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUyODczMzkxLC0xMDk3NzExNDU4LC0yMD
-A1OTgwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMwNSwtMTMxOTAx
-ODgyMSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLT
-c2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAz
-Njk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLD
-E5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3
-OTkzMTQyXX0=
+eyJoaXN0b3J5IjpbNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5Nz
+cxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTcz
+MDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsND
+c0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEy
+MTksLTE4NTMwMzY5NjMsLTEwMTY4NzY1MDIsLTYwNzM3NzIsMT
+Q5NDUyOTE4MCwxOTI3MzQyMzU4LC0yMDk5ODg1NDgzLC0xNjA0
+Nzg5ODU4XX0=
 -->

@@ -1,9 +1,11 @@
 ## Long Strategy Premarket Breakout Pattern
+* Stock is consolidating premarket with resistance
+* When the market opens, sto
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
 	* First pullback, add 1/3 of position
 	* Typically there'll be 3 pullbacks
-	* Take profit on the third push
+	* Take profit along the third push
 	* let the remaining run higher
 	* If the stock breaks the high of the second push, sell the shares
 * Requirement
@@ -106,11 +108,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDExNzMwNSwtMTMxOTAxODgyMSwxOD
-czODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2MzUxMjM0
-NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2MywtMT
-AxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5MjczNDIz
-NTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkzMTQyLC
-0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LDEyMzg0
-OTUyNDNdfQ==
+eyJoaXN0b3J5IjpbLTE4MzIwOTc2NjksLTY1MDExNzMwNSwtMT
+MxOTAxODgyMSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1
+MzksLTc2MzUxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMT
+g1MzAzNjk2MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5
+MTgwLDE5MjczNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NT
+gsNjM3OTkzMTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2
+MzkxOTU4XX0=
 -->

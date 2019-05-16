@@ -12,7 +12,11 @@
 	* Low float
 	* Low market cap
 	* Consolidate for at least 1-1:30 hr
-	* Clear
+	* Clean chart
+* Sizing
+	* Buy at the breakout
+	* Sell partially at the day's high
+	* buy
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -131,11 +135,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDA4NTMwMjIsNzM2MTgyOTk1LDE5Mj
-Q1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIs
-NTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNT
-k4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4
-MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03Nj
-M1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5
-NjNdfQ==
+eyJoaXN0b3J5IjpbLTIwNzYzMzI3Nyw3MzYxODI5OTUsMTkyND
+U1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Miw1
+ODc4NzU4OTUsODUyODczMzkxLC0xMDk3NzExNDU4LC0yMDA1OT
+gwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMwNSwtMTMxOTAxODgy
+MSwxODczODkzMTcyLDI0MTgzMTYzNyw0NzQyMTY1MzksLTc2Mz
+UxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2
+M119
 -->

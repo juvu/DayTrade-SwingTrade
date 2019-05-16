@@ -14,7 +14,7 @@
 	* Typically there'll be 3 pullbacks
 	* Take profit along the third push
 	* let the remaining run higher
-	* If the stock breaks the high of the second push, sell the shares
+	* If the stock breaks half of the morning spike, sell the position
 * Requirement
 	* Low float
 	* Low market cap(<100M unless it's a biotech company)
@@ -117,11 +117,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1ODg2OTYyLDU4Nzg3NTg5NSw4NTI4Nz
-MzOTEsLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMTk2ODM2Mzky
-NCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4OTMxNzIsMj
-QxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0LC05NzU5NDQw
-NDYsMzgzNjkxMjE5LC0xODUzMDM2OTYzLC0xMDE2ODc2NTAyLC
-02MDczNzcyLDE0OTQ1MjkxODAsMTkyNzM0MjM1OCwtMjA5OTg4
-NTQ4M119
+eyJoaXN0b3J5IjpbLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3OD
+c1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAw
+MiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMT
+g3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIz
+NDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5NjMsLT
+EwMTY4NzY1MDIsLTYwNzM3NzIsMTQ5NDUyOTE4MCwxOTI3MzQy
+MzU4XX0=
 -->

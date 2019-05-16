@@ -6,6 +6,12 @@
 * Works around 60-65%, not as good as premarket
 * Requirements
 	* Large volume(5M+ by midday)
+	* News catalyst
+	* Holds 1/2 of morning spike or above
+	* Price above open price
+	* Low float
+	* Low market cap
+	* Consolidate for at least 1-1:
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -124,11 +130,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUwMjM5NjgxLDczNjE4Mjk5NSwxOTI0NT
-U5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4
-Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5OD
-AwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIx
-LDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNT
-EyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYz
-XX0=
+eyJoaXN0b3J5IjpbLTE4NDg1NjM0ODYsNzM2MTgyOTk1LDE5Mj
+Q1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIs
+NTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNT
+k4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4
+MjEsMTg3Mzg5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03Nj
+M1MTIzNDQsLTk3NTk0NDA0NiwzODM2OTEyMTksLTE4NTMwMzY5
+NjNdfQ==
 -->

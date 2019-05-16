@@ -60,6 +60,7 @@
 * Price neutralizing
 	* When volume is fading
 	* Price is not dropping
+	* When the volume is low, and you have a big position, then but to cover will spike up the price
 * factor conflict 
 
 
@@ -85,10 +86,10 @@
 	* The Reminiscences of a Stock Operator
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNjk1MjA5NSw0NzQyMTY1MzksLTc2Mz
-UxMjM0NCwtOTc1OTQ0MDQ2LDM4MzY5MTIxOSwtMTg1MzAzNjk2
-MywtMTAxNjg3NjUwMiwtNjA3Mzc3MiwxNDk0NTI5MTgwLDE5Mj
-czNDIzNTgsLTIwOTk4ODU0ODMsLTE2MDQ3ODk4NTgsNjM3OTkz
-MTQyLC0yMDc2MDIyNTM4LDE2ODE5NTQ3NjYsMjk2MzkxOTU4LD
-EyMzg0OTUyNDMsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNT
+EyMzQ0LC05NzU5NDQwNDYsMzgzNjkxMjE5LC0xODUzMDM2OTYz
+LC0xMDE2ODc2NTAyLC02MDczNzcyLDE0OTQ1MjkxODAsMTkyNz
+M0MjM1OCwtMjA5OTg4NTQ4MywtMTYwNDc4OTg1OCw2Mzc5OTMx
+NDIsLTIwNzYwMjI1MzgsMTY4MTk1NDc2NiwyOTYzOTE5NTgsMT
+IzODQ5NTI0MywtMjA4ODc0NjYxMl19
 -->

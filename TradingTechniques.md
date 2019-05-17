@@ -5,14 +5,16 @@
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 
 ## Gap up fill
-Requirement
-* Gap up
-* Morning panic
-* Fill the gap
-* 100%+ open from previous day
-* First green day is very bullish
-* Close around opening price
-
+* Requirement
+	* Gap up
+	* Morning panic
+	* Fill the gap
+	* 100%+ open from previous day
+	* First green day is very bullish
+	* Close around opening price
+	* No low float/Market cap requirement
+* Sizing
+	
 ## Multi Day/Week/Month/Year Breakout
 Requirement
 * Need strong  volume for previous resistance
@@ -166,11 +168,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzM5NjkzMzMsLTEzNDA1Mjg0OTksMT
-k1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1Nzgz
-NzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1NzAsLTEyMzM5NjE5Nj
-YsMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4NDMxODksMjA0MjI5
-NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODksNjI0MjAwNDg1LC04OT
-E4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NTg5NSw4NTI4NzMzOTFd
-fQ==
+eyJoaXN0b3J5IjpbLTE0OTUzMzU5NiwtMTM0MDUyODQ5OSwxOT
+UyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3
+MjYsLTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2Ni
+wzMjExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1
+MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MT
+gyNDMyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MV19
+
 -->

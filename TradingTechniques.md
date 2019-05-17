@@ -33,6 +33,7 @@
 * 20-30% profit is considered to be a good trade
 * The stock is bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
+* F
 * A clean chart usually goes further than messy charts
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
@@ -143,11 +144,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMj
-k1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5
-MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MS
-wtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02
-NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4Mz
-E2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDQsLTk3NTk0NDA0Nl19
-
+eyJoaXN0b3J5IjpbLTExNjYwMzk1NjgsLTg0MTA3NzgwLDk3MD
+g0MzE4OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2
+MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1OD
+k1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwx
+OTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mz
+g5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDRd
+fQ==
 -->

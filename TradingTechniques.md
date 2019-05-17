@@ -4,6 +4,10 @@
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 
+## Gap up fill
+Requirement
+* 
+
 ## Multi Day/Week/Month/Year Breakout
 Requirement
 * Need strong  volume for previous resistance
@@ -157,11 +161,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwOD
-k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy
-MDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MT
-gyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1
-NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMT
-Q1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDVd
+eyJoaXN0b3J5IjpbLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNT
+c4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYx
+OTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQzMTg5LDIwND
+IyOTUzOCw3MzYxODI5OTUsMTkyNDU1OTg5LDYyNDIwMDQ4NSwt
+ODkxODI0MzIxLDU3NTg4Njk2Miw1ODc4NzU4OTUsODUyODczMz
+kxLC0xMDk3NzExNDU4LC0yMDA1OTgwMDAyLDE5NjgzNjM5MjRd
 fQ==
 -->

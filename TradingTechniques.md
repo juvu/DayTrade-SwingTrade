@@ -37,7 +37,7 @@
 * A clean chart usually goes further than messy charts
 * Sizing
 	* Breaks premarket high, add 1/3 of the position
-	* First pullback, add 1/3 of position
+	* First, second pullback, add 1/3 of position
 	* Typically there'll be 3 pullbacks
 	* Take 2/3 profit along the third spike
 	* let the remaining run higher
@@ -144,11 +144,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA0MTM4NjMsLTg0MTA3NzgwLDk3MD
-g0MzE4OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2
-MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1OD
-k1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwx
-OTY4MzYzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mz
-g5MzE3MiwyNDE4MzE2MzcsNDc0MjE2NTM5LC03NjM1MTIzNDRd
-fQ==
+eyJoaXN0b3J5IjpbMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4ND
+MxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODksNjI0
+MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NTg5NS
+w4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMTk2
+ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4OT
+MxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0XX0=
+
 -->

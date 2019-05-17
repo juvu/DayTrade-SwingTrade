@@ -15,7 +15,9 @@
 	* No low float/Market cap requirement
 * Sizing
 	* Buy at 3:59/4:00pm or after market
-	* Sell into stre
+	* Sell into strength in the next morning spike
+	* Use green red as risk if it gaps up
+	* Use previous day's sup/res level during consolidation as support if it gaps down
 ## Multi Day/Week/Month/Year Breakout
 Requirement
 * Need strong  volume for previous resistance
@@ -169,11 +171,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTQ0MTUyNDcsLTIxNzE4MzU4LC0xMz
-QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
-OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC
-0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQz
-MTg5LDIwNDIyOTUzOCw3MzYxODI5OTUsMTkyNDU1OTg5LDYyND
-IwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Miw1ODc4NzU4OTVd
-fQ==
+eyJoaXN0b3J5IjpbLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzND
+A1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5
+MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1NzAsLT
+EyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4NDMx
+ODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODksNjI0Mj
+AwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NTg5NV19
+
 -->

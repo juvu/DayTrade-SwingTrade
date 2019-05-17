@@ -4,6 +4,8 @@
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 
+## Multi Day/Week/Month/Year Breakout
+
 ## Midday Perk Pattern
 * Around 11am - 2pm
 * Sell before 2:30 because people who are holding onto the stock on the day will be selling.
@@ -146,11 +148,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMj
-ExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1Mzgs
-NzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyND
-MyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5
-NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMT
-czMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2Mzdd
-fQ==
+eyJoaXN0b3J5IjpbLTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMT
+IzMzk2MTk2NiwzMjExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4
+OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMD
+A0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1
+Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4Mz
+YzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3
+Ml19
 -->

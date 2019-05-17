@@ -7,8 +7,10 @@
 ## Gap up fill
 Requirement
 * Gap up
-* Fill down
-* 100%+
+* Morning panic
+* Fill the gap
+* 100%+ open from previous day
+* First green day is very bullish
 
 ## Multi Day/Week/Month/Year Breakout
 Requirement
@@ -163,11 +165,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjMyODM2OCwtMzc0NDM5MDUzLDUwMT
-YwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1
-NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4MCw5Nz
-A4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODks
-NjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NT
-g5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDJd
+eyJoaXN0b3J5IjpbLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMz
+c0NDM5MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2
+NjQ0LC0xNDA4NTg1NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC
+04NDEwNzc4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5
+NSwxOTI0NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1OD
+g2OTYyLDU4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NThd
 fQ==
 -->

@@ -6,6 +6,7 @@
 
 ## Midday Perk Pattern
 * Around 11am - 2pm
+* Sell before 2:30 because people who are holding onto the stock on the day will be selling.
 * Works around 60-65%, not as good as premarket
 * First green day
 * To stay at a position overnight, judge it's action based on how strong it's closing
@@ -145,11 +146,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04ND
-EwNzc4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwx
-OTI0NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OT
-YyLDU4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIw
-MDU5ODAwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MD
-E4ODIxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOV19
-
+eyJoaXN0b3J5IjpbLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMj
+ExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1Mzgs
+NzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyND
+MyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5
+NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMT
+czMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3MiwyNDE4MzE2Mzdd
+fQ==
 -->

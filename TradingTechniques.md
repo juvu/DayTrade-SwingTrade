@@ -19,12 +19,12 @@
 	* Consolidate for at least 1-1:30 hr
 	* Clean chart
 * Sizing
-	* Buy at the breakout
+	* Buy at the breakout high of the consolidation
 	* Sell partially at the day's high
 	* Buy when it breaks day's high
 	* Sell into strength
 		* Use half of the most recent spike as risk if can not be sold into strength
-	* Sell at the average gain that's tracked
+	* Sell at the bottom of the consolidation
 
 ## Long Strategy Premarket Breakout Pattern
 * Stock is consolidating in a small range premarket with resistance
@@ -144,11 +144,10 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4ND
-MxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODksNjI0
-MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NTg5NS
-w4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5ODAwMDIsMTk2
-ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIxLDE4NzM4OT
-MxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOSwtNzYzNTEyMzQ0XX0=
-
+eyJoaXN0b3J5IjpbMTQ5ODg5NzcsMzIxMTYxMjAxLC04NDEwNz
+c4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0
+NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLD
+U4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5
+ODAwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4OD
+IxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOV19
 -->

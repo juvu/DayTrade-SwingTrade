@@ -7,7 +7,8 @@
 ## Gap up fill
 Requirement
 * Gap up
-* F
+* Fill down
+* 100%+
 
 ## Multi Day/Week/Month/Year Breakout
 Requirement
@@ -162,7 +163,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NTQwMjQ1MCwtMzc0NDM5MDUzLDUwMT
+eyJoaXN0b3J5IjpbMTk1MjMyODM2OCwtMzc0NDM5MDUzLDUwMT
 YwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1
 NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4MCw5Nz
 A4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODks

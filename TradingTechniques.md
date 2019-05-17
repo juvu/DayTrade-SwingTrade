@@ -5,6 +5,9 @@
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 
 ## Multi Day/Week/Month/Year Breakout
+Requirement
+* need strong  volume for rpevious resistance
+* lo=
 
 ## Midday Perk Pattern
 * Around 11am - 2pm
@@ -148,11 +151,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMT
-IzMzk2MTk2NiwzMjExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4
-OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMD
-A0ODUsLTg5MTgyNDMyMSw1NzU4ODY5NjIsNTg3ODc1ODk1LDg1
-Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAwNTk4MDAwMiwxOTY4Mz
-YzOTI0LC02NTAxMTczMDUsLTEzMTkwMTg4MjEsMTg3Mzg5MzE3
-Ml19
+eyJoaXN0b3J5IjpbODc2NTM5ODI3LC0yMDg5NTY2NjQ0LC0xND
+A4NTg1NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4
+MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NT
+U5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4
+Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5OD
+AwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4ODIx
+XX0=
 -->

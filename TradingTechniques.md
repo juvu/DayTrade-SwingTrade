@@ -10,7 +10,9 @@ Requirement
 * Low float / Market cap
 * News Catalyst
 * Stock breaking out and consolidate above resistance
-
+* Sizing
+	* Buy at the pullback
+	* 
 ## Midday Perk Pattern
 * Around 11am - 2pm
 * Sell before 2:30 because people who are holding onto the stock on the day will be selling.
@@ -153,11 +155,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxODYyMzE3LC02MzU3ODM3MjYsLTIwOD
-k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy
-MDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MT
-gyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1
-NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMT
-Q1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDVd
-fQ==
+eyJoaXN0b3J5IjpbLTExNDM2NzQ1OTUsLTYzNTc4MzcyNiwtMj
+A4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2
+MTIwMSwtODQxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3Mz
+YxODI5OTUsMTkyNDU1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIx
+LDU3NTg4Njk2Miw1ODc4NzU4OTUsODUyODczMzkxLC0xMDk3Nz
+ExNDU4LC0yMDA1OTgwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMw
+NV19
 -->

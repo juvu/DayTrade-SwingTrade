@@ -10,7 +10,7 @@
 * First green day
 * To stay at a position overnight, judge it's action based on how strong it's closing
 * Requirements
-	* Large volume(5M+ by midday)
+	* Large volume(5M+ by 11)
 	* News catalyst
 	* Holds 1/2 of morning spike or above
 	* Price above open price
@@ -145,7 +145,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0Mjg0NTM1OCwzMjExNjEyMDEsLTg0MT
+eyJoaXN0b3J5IjpbLTc3NDI0MTY3MCwzMjExNjEyMDEsLTg0MT
 A3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5
 MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5Nj
 IsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAw

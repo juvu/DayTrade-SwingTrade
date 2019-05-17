@@ -20,9 +20,9 @@
 	* Clean chart
 * Sizing
 	* Buy at the breakout high of the consolidation
-		* Sell at the bottom of the consolidation
-	* Sell partially at the day's high as it may be a double top
-		* Add if the stock breakout to the day's high, add to the position
+		* Use bottom of the consolidation as risk
+	* Sell partially at the day's high as it may form a double top
+		* If the stock breakout to the day's high, add to the position
 			* Sell into strength
 		* Use half of the most recent spike as risk if can not be sold into strength
 
@@ -144,7 +144,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNDAxOTcxMiwzMjExNjEyMDEsLTg0MT
+eyJoaXN0b3J5IjpbMTM0OTk5MzA0MiwzMjExNjEyMDEsLTg0MT
 A3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5
 MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1NzU4ODY5Nj
 IsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMTQ1OCwtMjAw

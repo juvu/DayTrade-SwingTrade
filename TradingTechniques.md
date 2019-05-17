@@ -20,7 +20,8 @@
 	* Clean chart
 * Sizing
 	* Buy at the breakout high of the consolidation
-	* Sell partially at the day's high
+	* Sell partially at the day's high as it may be a double top
+	* Add if the stock breakout to the day's high
 	* Buy when it breaks day's high
 	* Sell into strength
 		* Use half of the most recent spike as risk if can not be sold into strength
@@ -144,10 +145,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODg5NzcsMzIxMTYxMjAxLC04NDEwNz
-c4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0
-NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLD
-U4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIwMDU5
-ODAwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MDE4OD
-IxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOV19
+eyJoaXN0b3J5IjpbLTE1MTYxNzI4NTksMzIxMTYxMjAxLC04ND
+EwNzc4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwx
+OTI0NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OT
+YyLDU4Nzg3NTg5NSw4NTI4NzMzOTEsLTEwOTc3MTE0NTgsLTIw
+MDU5ODAwMDIsMTk2ODM2MzkyNCwtNjUwMTE3MzA1LC0xMzE5MD
+E4ODIxLDE4NzM4OTMxNzIsMjQxODMxNjM3LDQ3NDIxNjUzOV19
+
 -->

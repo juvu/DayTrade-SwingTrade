@@ -15,7 +15,7 @@
 	* No low float/Market cap requirement
 * Sizing
 	* Buy at 3:59/4:00pm or after market
-	* Sell at 
+	* Sell into stre
 ## Multi Day/Week/Month/Year Breakout
 Requirement
 * Need strong  volume for previous resistance
@@ -169,11 +169,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NT
-IzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4Mzcy
-NiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LD
-MyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUz
-OCw3MzYxODI5OTUsMTkyNDU1OTg5LDYyNDIwMDQ4NSwtODkxOD
-I0MzIxLDU3NTg4Njk2Miw1ODc4NzU4OTUsODUyODczMzkxXX0=
-
+eyJoaXN0b3J5IjpbLTIwMTQ0MTUyNDcsLTIxNzE4MzU4LC0xMz
+QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
+OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC
+0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQz
+MTg5LDIwNDIyOTUzOCw3MzYxODI5OTUsMTkyNDU1OTg5LDYyND
+IwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Miw1ODc4NzU4OTVd
+fQ==
 -->

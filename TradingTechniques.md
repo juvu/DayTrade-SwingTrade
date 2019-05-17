@@ -9,7 +9,7 @@ Requirement
 * Need strong  volume for previous resistance
 * Low float / Market cap
 * News Catalyst
-* 
+* Stock breaking out and consolidate above resistance
 
 ## Midday Perk Pattern
 * Around 11am - 2pm
@@ -153,11 +153,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMT
-QwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3
-ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3MzYxODI5OTUsMTkyND
-U1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Miw1
-ODc4NzU4OTUsODUyODczMzkxLC0xMDk3NzExNDU4LC0yMDA1OT
-gwMDAyLDE5NjgzNjM5MjQsLTY1MDExNzMwNSwtMTMxOTAxODgy
-MV19
+eyJoaXN0b3J5IjpbMTIxODYyMzE3LC02MzU3ODM3MjYsLTIwOD
+k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy
+MDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MT
+gyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMSw1
+NzU4ODY5NjIsNTg3ODc1ODk1LDg1Mjg3MzM5MSwtMTA5NzcxMT
+Q1OCwtMjAwNTk4MDAwMiwxOTY4MzYzOTI0LC02NTAxMTczMDVd
+fQ==
 -->

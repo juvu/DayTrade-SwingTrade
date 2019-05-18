@@ -72,6 +72,7 @@ Requirement
 * Check history to see if the stock history to see if it has gone supernova
 * The stock is bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
+* if the resistance is >10M, don't hold the position to break through 
 * First green day
 * A clean chart usually goes further than messy charts
 * Sizing
@@ -184,11 +185,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNz
-IzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUs
-LTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3ND
-QzOTA1Myw1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0
-NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtOD
-QxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3MzYxODI5OTVd
+eyJoaXN0b3J5IjpbNDkzNjY5NTc4LC03ODk2NjU2NjcsLTE1MD
+kyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwt
+MTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMz
+I4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYs
+LTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMj
+ExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1Mzhd
 fQ==
 -->

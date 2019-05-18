@@ -7,10 +7,10 @@
 
 |Strategy|Timeframe|
 |--|--|
-|Premarket Breakout||
-|Mid-day perk|
-|Gap fill|
-|Multi month high volume bar breakout|
+|Premarket Breakout|9:30 - 11:30|
+|Mid-day perk||
+|Gap fill||
+|Multi month high volume bar breakout||
 
 ## Gap up fill
 * Requirement
@@ -180,7 +180,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDM0Mjc5LDQ0MDk0MjY0OSwtMTY4OD
+eyJoaXN0b3J5IjpbODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4OD
 gyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4
 LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwOD
 k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy

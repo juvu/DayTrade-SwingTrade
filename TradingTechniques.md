@@ -5,6 +5,9 @@
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 * With a small account, it's better to go long as it has better risk reward. Where a big account is better to go short as it's  safer and better winning percentage, but with less reward.
 
+
+Premarket Breakout
+
 ## Gap up fill
 * Requirement
 	* Gap up
@@ -173,11 +176,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc2MzY5NDE5LDQ0MDk0MjY0OSwtMTY4OD
-gyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4
-LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwOD
-k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy
-MDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MT
-gyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMV19
-
+eyJoaXN0b3J5IjpbLTE3OTIzMzM2OTEsNDQwOTQyNjQ5LC0xNj
+g4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgz
+NjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMj
+A4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2
+MTIwMSwtODQxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3Mz
+YxODI5OTUsMTkyNDU1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIx
+XX0=
 -->

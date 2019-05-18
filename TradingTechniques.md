@@ -76,6 +76,7 @@ Requirement
 * First green day
 * A clean chart usually goes further than messy charts
 * Sizing
+	* Buy in the premarket if 
 	* Breaks premarket high, add 1/3 of the position
 	* First, second pullback, add 1/3 of position
 	* Typically there'll be 3 pullbacks
@@ -185,11 +186,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU0OTAzNTAsLTc4OTY2NTY2NywtMT
-UwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5
-LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NT
-IzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4Mzcy
-NiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LD
-MyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUz
-OF19
+eyJoaXN0b3J5IjpbLTE4MTYwNTg1NjAsLTE3MjU0OTAzNTAsLT
+c4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5
+NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMz
+QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
+OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC
+0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQz
+MTg5XX0=
 -->

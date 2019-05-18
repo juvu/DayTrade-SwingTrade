@@ -44,6 +44,7 @@ Requirement
 * Works around 60-65%, not as good as premarket
 * First green day
 * To stay at a position overnight, judge it's action based on how strong it's closing
+* Less than 10M volume in the past 2 years
 * Requirements
 	* Large volume(5M+ by 11)
 	* News catalyst
@@ -187,11 +188,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLT
-c4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5
-NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMz
-QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
-OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC
-0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQz
-MTg5XX0=
+eyJoaXN0b3J5IjpbLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
+cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
+MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
+E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
+MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC
+0xNDA4NTg1NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEw
+Nzc4MF19
 -->

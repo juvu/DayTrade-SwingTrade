@@ -19,6 +19,7 @@
 	* Sell into strength in the next morning spike
 	* Use green red as risk if it gaps up
 	* Use previous day's sup/res level during consolidation as support if it gaps down
+
 ## Multi Day/Week/Month/Year Breakout
 Requirement
 * Need strong  volume for previous resistance
@@ -172,11 +173,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNz
-E4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1
-Myw1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMT
-QwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3
-ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3MzYxODI5OTUsMTkyND
-U1OTg5LDYyNDIwMDQ4NSwtODkxODI0MzIxLDU3NTg4Njk2Ml19
+eyJoaXN0b3J5IjpbMzc2MzY5NDE5LDQ0MDk0MjY0OSwtMTY4OD
+gyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4
+LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwOD
+k1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjExNjEy
+MDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMjk1MzgsNzM2MT
+gyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODUsLTg5MTgyNDMyMV19
 
 -->

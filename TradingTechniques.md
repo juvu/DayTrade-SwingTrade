@@ -4,7 +4,7 @@
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 * With a small account, it's better to go long as it has better risk reward. Where a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
-* 
+* If the chart has heaviest volume in history(couple of years, 2-3?) treat it as a fresh chart
 
 |Strategy|Timeframe|
 |--|--|
@@ -189,7 +189,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NTc2Nzg1MiwtOTQ0NzA1MDM2LC0xMT
+eyJoaXN0b3J5IjpbLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMT
 g1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDky
 Mjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMT
 Y4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4

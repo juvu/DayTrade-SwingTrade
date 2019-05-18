@@ -69,6 +69,7 @@ Requirement
 * Ideal gap up should be between 20 - 50 percent
 * 20-30% profit is considered to be a good trade
 * Premarket volume >100k
+* Check history to see if the stock history to see if it has gone supernova
 * The stock is bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
 * First green day
@@ -183,11 +184,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMD
-U1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwt
-MTM0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNj
-AzNzkyLC02MzU3ODM3MjYsLTIwODk1NjY2NDQsLTE0MDg1ODU3
-MCwtMTIzMzk2MTk2NiwzMjExNjEyMDEsLTg0MTA3NzgwLDk3MD
-g0MzE4OSwyMDQyMjk1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OV19
-
+eyJoaXN0b3J5IjpbLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNz
+IzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUs
+LTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3ND
+QzOTA1Myw1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0
+NCwtMTQwODU4NTcwLC0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtOD
+QxMDc3ODAsOTcwODQzMTg5LDIwNDIyOTUzOCw3MzYxODI5OTVd
+fQ==
 -->

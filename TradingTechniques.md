@@ -66,7 +66,9 @@ Requirement
 * Stock is consolidating in a small range premarket with resistance
 * When the market opens, stock goes over high of premarket
 * Good volume on the breakout
-* 20-30% profit is considered to be a good trade
+* 20-50% profit is considered to be a good trade
+* Premarket volume >100k
+* 
 * The stock is bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
 * First green day
@@ -181,11 +183,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0Mj
-Y0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwx
-OTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3OD
-M3MjYsLTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2
-NiwzMjExNjEyMDEsLTg0MTA3NzgwLDk3MDg0MzE4OSwyMDQyMj
-k1MzgsNzM2MTgyOTk1LDE5MjQ1NTk4OSw2MjQyMDA0ODVdfQ==
+eyJoaXN0b3J5IjpbMTE5ODQ3OTQwMCwzNzIzMDE0Nyw4NzMwNT
+U5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0x
+MzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MD
+M3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcw
+LC0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwOD
+QzMTg5LDIwNDIyOTUzOCw3MzYxODI5OTUsMTkyNDU1OTg5XX0=
 
 -->

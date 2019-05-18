@@ -3,6 +3,7 @@
 * Always take profit into strength, not weakness
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
+* With a small account, it's better to go long as it has better risk reward. Where 
 
 ## Gap up fill
 * Requirement
@@ -171,11 +172,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzND
-A1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5
-MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1NzAsLT
-EyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4NDMx
-ODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOTI0NTU5ODksNjI0Mj
-AwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYyLDU4Nzg3NTg5NV19
-
+eyJoaXN0b3J5IjpbLTE3OTkwNDIzMzQsLTE2ODg4MjQ1NSwtMj
+E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
+MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC
+0xNDA4NTg1NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEw
+Nzc4MCw5NzA4NDMxODksMjA0MjI5NTM4LDczNjE4Mjk5NSwxOT
+I0NTU5ODksNjI0MjAwNDg1LC04OTE4MjQzMjEsNTc1ODg2OTYy
+XX0=
 -->

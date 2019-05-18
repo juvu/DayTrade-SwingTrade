@@ -4,6 +4,7 @@
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 * With a small account, it's better to go long as it has better risk reward. Where a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
+* 
 
 |Strategy|Timeframe|
 |--|--|
@@ -188,11 +189,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
-cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
-MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
-E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
-MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC
-0xNDA4NTg1NzAsLTEyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEw
-Nzc4MF19
+eyJoaXN0b3J5IjpbMTE4NTc2Nzg1MiwtOTQ0NzA1MDM2LC0xMT
+g1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDky
+Mjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMT
+Y4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4
+MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLT
+IwODk1NjY2NDQsLTE0MDg1ODU3MCwtMTIzMzk2MTk2NiwzMjEx
+NjEyMDFdfQ==
 -->

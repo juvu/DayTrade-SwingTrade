@@ -83,6 +83,7 @@ Requirement
 	* Take 2/3 profit along the third spike
 	* let the remaining run higher
 	* If the stock breaks half of the morning spike, sell the position
+	* Use high of the consolidation as risk
 * Requirement
 	* Low float
 	* Low market cap(<100M unless it's a biotech company)
@@ -186,11 +187,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NzM4NjIxOCwtMTcyNTQ5MDM1MCwtNz
-g5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2
-Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzND
-A1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5
-MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4NTg1NzAsLT
-EyMzM5NjE5NjYsMzIxMTYxMjAxLC04NDEwNzc4MCw5NzA4NDMx
-ODldfQ==
+eyJoaXN0b3J5IjpbLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLT
+c4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5
+NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMz
+QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
+OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC
+0xMjMzOTYxOTY2LDMyMTE2MTIwMSwtODQxMDc3ODAsOTcwODQz
+MTg5XX0=
 -->

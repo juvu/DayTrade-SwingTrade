@@ -122,7 +122,8 @@ Requirement
 	* 10-25M (Mid)
 	* 25-40M (Heavy)
 	* 40M+ (Super Heavy)
-* Consistant v
+* Consistant volume is when volume is trading at 1-5M every day
+* Individual volume is when a stock's price spiked with increase in volume
 ### Brokers
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
@@ -180,7 +181,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzU2NTY1Myw4NzMwNTU5NjMsNDQwOT
+eyJoaXN0b3J5IjpbLTgwODU4MTMzNiw4NzMwNTU5NjMsNDQwOT
 QyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5
 LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNT
 c4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMzOTYx

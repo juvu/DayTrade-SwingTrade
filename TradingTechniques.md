@@ -77,9 +77,10 @@ Requirement
  - [ ] Use premarket high as risk
  - [ ] <100M market cap or biotech
  - [ ] Good volume
- - [ ] Ideally undergo supernova
+ - [ ] Ideally went supernova before
  - [ ] Above 2M float
  - [ ] No overhead resistance
+ - [ ] Clean chart
 * 20-30% profit is considered to be a good trade
 * The stock is considered bullish if it can hold half of the first spike
 * Don't hold through individual resistance of >10M
@@ -185,11 +186,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
-IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
-MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
-g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
-NTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLD
-UwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4
-NTg1NzBdfQ==
+eyJoaXN0b3J5IjpbMTMxODE0MjcyNCwtODA2Nzk1MTA1LDIxMz
+UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
+NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
+UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
+NDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC
+0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwODk1
+NjY2NDRdfQ==
 -->

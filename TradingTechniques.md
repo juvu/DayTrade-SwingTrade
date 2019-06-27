@@ -90,7 +90,7 @@
 - [ ] First green day
 - [ ] Close near open price or above
 - [ ] Heavy volume (Highest volume[minute] of the day >800k)
-- [ ] Second day'
+- [ ] Second day's volume is higher than the first day's volume means it's bullish
 * No low float/Market cap needed
 * Entry/Risk
 	* Buy at 3:59/4:00pm or after market
@@ -191,11 +191,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTA4NTUyNywtNzY1NDAzMjM5LC0xMD
-czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
-LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
-IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
-MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
-g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
-NThdfQ==
+eyJoaXN0b3J5IjpbLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMT
+A3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUz
+MCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNj
+MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
+OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
+w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
+MzU4XX0=
 -->

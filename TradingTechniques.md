@@ -81,7 +81,7 @@
 	* Contract winner (if there's deposit from another company, that's bullish)
 - [ ] Stock shows clear out and consolidate above resistance level
 * Entry/Risk
-	* Buy at the pullback consolidation close to resistance level
+	* Buy at the pullback consolidation close to resistance level, and use it as risk
 	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
 ## Gap up fill
@@ -98,10 +98,6 @@
 	* Sell into strength in the next morning spike
 	* Use green red as risk if it gaps up
 	* Use previous day's sup/res level during consolidation as support if it gaps down
-
-
-
-
 
 
 ## Getting Started
@@ -137,7 +133,7 @@
 	* 10-25M (Mid)
 	* 25-40M (Heavy)
 	* 40M+ (Super Heavy)
-* Consistant volume is when volume is trading at 1-5M every day
+* Consistent volume is when volume is trading at 1-5M every day
 * Individual volume is when a stock's price spiked with increase in volume
 ### Brokers
 * Interactive Broker(min 10,000)
@@ -196,7 +192,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjkxOTc5OSwtNzY1NDAzMjM5LC0xMD
+eyJoaXN0b3J5IjpbLTY2OTQ5NDY5NSwtNzY1NDAzMjM5LC0xMD
 czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
 LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
 IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5

@@ -71,7 +71,7 @@
 			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike
 	* Sell before 2:30 since people don't like holding overnight
 
-## Multi Day/Week/Month/Year Breakout
+## Multi Day/Week/Month/Year Breakout (anytime of day)
 - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
 - [ ] Needs heavy volume(10M-15M in the morning is bullish)
 - [ ] Consolidation above the breakout level
@@ -84,7 +84,7 @@
 	* Ideally buy at the pullback consolidation close to resistance level, and use it as risk
 	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
-## Gap up fill
+## Gap Up Fill (2:30 - 4:00)
 - [ ] Gap up in the morning(100%+)
 - [ ] Morning panic, but able to hold 1/2+ its gain
 - [ ] First green day
@@ -191,11 +191,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTUxMjE5MywtMTExNTc0NTQxMSwtNz
-Y1NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1
-NzIsNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMT
-M1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgz
-MDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3Nj
-Q1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4
-MjQ1NV19
+eyJoaXN0b3J5IjpbODMyMDUzOTM5LC0xMTE1NzQ1NDExLC03Nj
+U0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3
+Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMz
+UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
+NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
+UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
+NDU1XX0=
 -->

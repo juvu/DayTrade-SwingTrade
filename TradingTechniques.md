@@ -85,17 +85,12 @@ Requirement
 * The stock is considered bullish if it can hold half of the first spike
 * Don't hold through individual resistance of 10M
 * Sizing
-	* 
+	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
 	* Add 1/3 in the first pull back
-	* You can buy in the premarket with 1/3 position if it started to break premarket, or the dip of the second higher low
-	* Breaks premarket high, add 1/3 of the position
-	* First, second pullback, add 1/3 of position
-	* Typically there'll be 3 pullbacks
-	* Take 2/3 profit along the third spike
-	* let the remaining run higher
-	* If the stock breaks half of the morning spike, sell the position
-	* Use high of the consolidation as risk
+	* Take 2/3 profit in the third spike
+	* Let the remaining run higher
+	* If the stock breaks half of the spike, sell the position
 
 
 
@@ -191,7 +186,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTg2Mzg3MywyMTM1Mzk0MDE5LC02Mz
+eyJoaXN0b3J5IjpbMTA0MjA4MTgyNiwyMTM1Mzk0MDE5LC02Mz
 IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
 MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
 g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz

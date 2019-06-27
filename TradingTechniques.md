@@ -89,7 +89,8 @@
 - [ ] Morning panic, but able to hold 1/2+ its gain
 - [ ] First green day
 - [ ] Close near open price or above
-- [ ] Heavy volume
+- [ ] Heavy volume (Highest volume[minute] of the day >800k)
+- [ ] Second day'
 * No low float/Market cap needed
 * Entry/Risk
 	* Buy at 3:59/4:00pm or after market
@@ -190,7 +191,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTgwOTIzMSwtNzY1NDAzMjM5LC0xMD
+eyJoaXN0b3J5IjpbLTgwNTA4NTUyNywtNzY1NDAzMjM5LC0xMD
 czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
 LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
 IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5

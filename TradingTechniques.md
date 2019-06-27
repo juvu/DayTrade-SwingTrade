@@ -67,7 +67,7 @@ Requirement
 ## Long Strategy Premarket Breakout Pattern
 
  - [ ] >100K premarket volume
- - [ ]  first green day
+ - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
@@ -78,10 +78,9 @@ Requirement
  - [ ] Ideally undergo supernova
  - [ ] Above 2M float
 * 20-30% profit is considered to be a good trade
-* The stock is considered bullish if it can hold half of the first spike on the first pullback
-* Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
-* if the resistance is >10M, don't hold the position to break through the resistance
-* First green day
+* The stock is considered bullish if it can hold half of the first spike
+* Don't hold through individual resistance of 10M
+* Judge by the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
 * A clean chart usually goes further than messy charts
 * Sizing
 	* You can buy in the premarket with 1/3 position if it started to break premarket, or the dip of the second higher low
@@ -195,7 +194,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTg4NTQ1MSwyMTM1Mzk0MDE5LC02Mz
+eyJoaXN0b3J5IjpbMTE5NzM5MDgyMCwyMTM1Mzk0MDE5LC02Mz
 IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
 MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
 g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz

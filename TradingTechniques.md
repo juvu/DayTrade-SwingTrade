@@ -54,7 +54,8 @@
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Clean chart
-	 * Resistance with low volume or
+	 * Resistance with low volume or no resistance at all
+	 * Estimate EOD volume to see if it's greater to previous volumes(sum of consistance or)
 	 * don't hold through individual resistance of >10M
  - [ ] First green day
 
@@ -190,11 +191,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMTEzMTU5OSwtMjExNDA1NzIsNDY5OD
-Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
-LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
-cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
-MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
-E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTE5MzI3NzQyNzYsLTIxMTQwNTcyLDQ2OT
+g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
+OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
+E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
+MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
+IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
+OTA1M119
 -->

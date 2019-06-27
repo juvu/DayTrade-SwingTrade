@@ -35,7 +35,7 @@
 	 * Little overhead resistance
 	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
 	 * Don't hold through individual resistance of >10M
-* Sizing
+* Entry/Risk
 	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
 		* Use premarket high as risk
@@ -61,8 +61,8 @@
 	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
 	 * Don't hold through individual resistance of >10M
 * Works around 60-65%, not as good as premarket
-* Sizing
-	* Buy close to support if possible
+* Entry/Risk
+	* Buy close to low of consolidation if possible
 		* Use bottom of the consolidation as risk
 	* Sell half at the day's high as it may form a double top
 	* Add after it breaks out of the day's high
@@ -191,11 +191,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjY1ODM4NzUsLTIxMTQwNTcyLDQ2OT
-g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
-OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
-E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
-MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
-IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
-OTA1M119
+eyJoaXN0b3J5IjpbMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4ND
+c1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTks
+LTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNz
+I1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAx
+NDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMT
+cxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0Mzkw
+NTNdfQ==
 -->

@@ -65,7 +65,6 @@ Requirement
 		* Use half of the most recent spike as risk if can not be sold into strength
 
 ## Premarket Breakout Pattern
-
  - [ ] >100K premarket volume
  - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
@@ -83,7 +82,7 @@ Requirement
  - [ ] No overhead resistance
 * 20-30% profit is considered to be a good trade
 * The stock is considered bullish if it can hold half of the first spike
-* Don't hold through individual resistance of 10M
+* Don't hold through individual resistance of >10M
 * Sizing
 	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
@@ -186,11 +185,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjA4MTgyNiwyMTM1Mzk0MDE5LC02Mz
-IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
-MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
-g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
-NTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLD
-UwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4
-NTg1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE2OTc3NjgxMjgsMjEzNTM5NDAxOSwtNj
+MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
+OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
+w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
+MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1My
+w1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQw
+ODU4NTcwXX0=
 -->

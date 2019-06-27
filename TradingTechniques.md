@@ -72,9 +72,9 @@
 	* Sell before 2:30 since people don't like holding overnight
 
 ## Multi Day/Week/Month/Year Breakout
-Requirement
-* Need strong  volume for previous resistance
-* Low float / Market cap
+- [ ] Need heavy volume
+- [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
+- [ ] 
 * News Catalyst
 * Stock breaking out and consolidate above resistance
 * Sizing
@@ -194,11 +194,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMD
-AwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5
-LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05ND
-Q3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2
-NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsND
-QwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4
-NDk5XX0=
+eyJoaXN0b3J5IjpbNjEzMTI3NzAxLC03NjU0MDMyMzksLTEwNz
+M2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAs
+LTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMj
+IxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkw
+MzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsOD
+czMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1
+OF19
 -->

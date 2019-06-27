@@ -60,7 +60,7 @@
 
 * Sizing
 	* Buy close to support if possible
-	* Buy or add at the breakout high of the consolidation
+	* Add at the breakout high of the consolidation
 		* Use bottom of the consolidation as risk
 	* Sell partially at the day's high as it may form a double top
 		* If the stock breakout to the day's high, add to the position
@@ -190,11 +190,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTQ0MzAzNjYsLTIxMTQwNTcyLDQ2OT
-g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
-OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
-E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
-MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
-IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
-OTA1M119
+eyJoaXN0b3J5IjpbLTQwNDUzMzYyNywtMjExNDA1NzIsNDY5OD
+Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
+LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
+cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
+MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
+E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
+MDUzXX0=
 -->

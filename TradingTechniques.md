@@ -82,8 +82,7 @@
 - [ ] Stock shows clear out and consolidate above resistance level
 * Entry/Risk
 	* Buy at the pullback consolidation close to resistance level
-	* Add to the position when it hits high of the day
-	* Take profit into strength
+	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
 ## Gap up fill
 * Requirement
@@ -197,7 +196,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODg3NjY4NSwtNzY1NDAzMjM5LC0xMD
+eyJoaXN0b3J5IjpbMTI4NjkxOTc5OSwtNzY1NDAzMjM5LC0xMD
 czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
 LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
 IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5

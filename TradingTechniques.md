@@ -16,7 +16,7 @@
 |Gap fill|2:30-4:00|
 |Multi month high volume bar breakout|Anytime|
 
-## Premarket Breakout Pattern
+## Premarket Breakout Pattern (9:30 - 11:30)
  - [ ] >100K premarket volume
  - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
@@ -41,6 +41,33 @@
 		* 20-30% profit is considered to be a good trade
 	* Let the remaining run higher
 	* If the stock breaks half of the spike, sell the position
+
+
+## Midday Perk Pattern (11am - 2pm)
+
+* Works around 60-65%, not as good as premarket
+* First green day
+* To stay at a position overnight, judge it's action based on how strong it's closing
+* Less than 10M volume in the past 2 years
+* Requirements
+	* Large volume(5M+ by 11)
+	* News catalyst
+	* Holds 1/2 of morning spike or above
+	* Price above open price
+	* Low float
+	* Low market cap
+	* Consolidate for at least 1/2 hr
+	* Clean chart
+* Sizing
+	* Buy close to support if possible
+	* Buy or add at the breakout high of the consolidation
+		* Use bottom of the consolidation as risk
+	* Sell partially at the day's high as it may form a double top
+		* If the stock breakout to the day's high, add to the position
+			* Sell into strength
+		* Use half of the most recent spike as risk if can not be sold into strength
+
+* Sell before 2:30 because people who are holding onto the stock on the day will be selling.
 
 ## Gap up fill
 * Requirement
@@ -67,33 +94,6 @@ Requirement
 	* Buy at the pullback consolidation close to resistance level
 	* Add to the position when it hits high of the day
 	* Take profit into strength
-
-## Midday Perk Pattern
-* Around 11am - 2pm
-* Sell before 2:30 because people who are holding onto the stock on the day will be selling.
-* Works around 60-65%, not as good as premarket
-* First green day
-* To stay at a position overnight, judge it's action based on how strong it's closing
-* Less than 10M volume in the past 2 years
-* Requirements
-	* Large volume(5M+ by 11)
-	* News catalyst
-	* Holds 1/2 of morning spike or above
-	* Price above open price
-	* Low float
-	* Low market cap
-	* Consolidate for at least 1/2 hr
-	* Clean chart
-* Sizing
-	* Buy close to support if possible
-	* Buy or add at the breakout high of the consolidation
-		* Use bottom of the consolidation as risk
-	* Sell partially at the day's high as it may form a double top
-		* If the stock breakout to the day's high, add to the position
-			* Sell into strength
-		* Use half of the most recent spike as risk if can not be sold into strength
-
-
 
 
 
@@ -190,11 +190,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyMDQ3NDI5LC04NzkxNDExMjksLTgwNj
-c5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAz
-NiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC
-0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2
-NDksLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMT
-k1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1Nzgz
-NzI2XX0=
+eyJoaXN0b3J5IjpbLTE4NDk3ODM1ODIsLTg3OTE0MTEyOSwtOD
+A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
+MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
+csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0
+MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OS
+wxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3
+ODM3MjZdfQ==
 -->

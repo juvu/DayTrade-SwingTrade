@@ -73,14 +73,14 @@
 
 ## Multi Day/Week/Month/Year Breakout
 - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
-- [ ] Needs heavy volume
+- [ ] Needs heavy volume(10M-15M in the morning is bullish)
 - [ ] Consolidation above the breakout level
 - [ ] News catalyst
 	* Merge with bigger company (very bullish)
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
 - [ ] Stock shows clear out and consolidate above resistance level
-
+* Entry/Risk
 	* Buy at the pullback consolidation close to resistance level
 	* Add to the position when it hits high of the day
 	* Take profit into strength
@@ -197,11 +197,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDM5ODY0NDcsLTc2NTQwMzIzOSwtMT
-A3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUz
-MCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNj
-MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
-OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
-w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
-MzU4XX0=
+eyJoaXN0b3J5IjpbMTgxODg3NjY4NSwtNzY1NDAzMjM5LC0xMD
+czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
+LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
+IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
+MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
+g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
+NThdfQ==
 -->

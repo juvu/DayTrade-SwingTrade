@@ -45,10 +45,10 @@
 
 ## Midday Perk Pattern (11am - 2pm)
  - [ ] >5M volume before 11am
- - [ ] News catalyst
+ - [ ] 2M - 100M market cap or biotech (biotech with <20M can run big)
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
- - [ ] Good News
+ - [ ] News catalyst
 	* Merge with bigger company (very bullish)
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
@@ -199,11 +199,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MzEwMTg0OCw0Njk4NDc1MzAsLTg3OT
-E0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0
-MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC
-03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1
-OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMT
-M0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAz
-NzkyXX0=
+eyJoaXN0b3J5IjpbLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MT
+QxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQz
+LC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLT
+c4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5
+NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMz
+QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
+OTJdfQ==
 -->

@@ -126,7 +126,7 @@
 		* Cash Flow
 	* It can be found on EDGAR database at sec.gov
 * Key Terms:
-	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings, Limit Order, Market Order, Stop Loss, Average up, 
+	* IPO, Secondary Price Offering, PDT, OTC, Market Makers, Short Selling, Pre/After Market, Paper Trading, P/E ratio, Time and Sales, 52 week High/Low, Trade Halt, Support/Resistance, Heavy Resistance, Breakout, Volume, volatility, Consolidation, Earnings, Limit Order, Market Order, Stop Loss, Average up
 * Volume
 	* 0-10M (light)
 	* 10-25M (Mid)
@@ -191,11 +191,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMDUzOTM5LC0xMTE1NzQ1NDExLC03Nj
-U0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3
-Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMz
-UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
-NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
-UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
-NDU1XX0=
+eyJoaXN0b3J5IjpbLTE1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLT
+c2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQw
+NTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMj
+EzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4
+MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNz
+Y0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4
+ODI0NTVdfQ==
 -->

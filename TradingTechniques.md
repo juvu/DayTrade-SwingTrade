@@ -19,15 +19,15 @@
 
 ## Premarket Breakout Pattern (9:30 - 11:30)
  - [ ] >100K premarket volume
+ - [ ] 2M - 100M market cap or biotech (biotech with <20M can run big)
  - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
  - [ ] Good News
 	* Merge with bigger company (very bullish)
-	 * Earnings winner
-	 - [ ] Contract winner(if there's deposit from another company, that's bullish)
- - [ ] <100M market cap or biotech (biotech with <20M can run big)
+	* Earnings winner
+	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Ideally went supernova before
  - [ ] No overhead resistance
  - [ ] Clean chart, don't hold through individual resistance of >10M
@@ -198,7 +198,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM5NjgwOTUsLTg3OTE0MTEyOSwtOD
+eyJoaXN0b3J5IjpbLTE5NzA2NzYwNzYsLTg3OTE0MTEyOSwtOD
 A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
 MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
 csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0

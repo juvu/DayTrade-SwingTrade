@@ -52,6 +52,7 @@
 	* Merge with bigger company (very bullish)
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
+ - [ ] Clean chart, don't hold through individual resistance of >10M
 
 * Works around 60-65%, not as good as premarket
 * First green day
@@ -198,7 +199,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NjE2MTczNSw0Njk4NDc1MzAsLTg3OT
+eyJoaXN0b3J5IjpbLTY4MzEwMTg0OCw0Njk4NDc1MzAsLTg3OT
 E0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0
 MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC
 03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1

@@ -72,16 +72,18 @@ Requirement
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
  - [ ] Good News
+		* Merge with bigger company(Very bullish)
+		* Earnings winner
+		* Contract winner(If there's deposit from another company, that's bullish)
  - [ ] Use premarket high as risk
  - [ ] <100M market cap or biotech
  - [ ] Volume
  - [ ] Ideally undergo supernova
  - [ ] Above 2M float
+ - [ ] No overhead resistance
 * 20-30% profit is considered to be a good trade
 * The stock is considered bullish if it can hold half of the first spike
 * Don't hold through individual resistance of 10M
-* Judge by the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
-* A clean chart usually goes further than messy charts
 * Sizing
 	* You can buy in the premarket with 1/3 position if it started to break premarket, or the dip of the second higher low
 	* Breaks premarket high, add 1/3 of the position
@@ -194,11 +196,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NzM5MDgyMCwyMTM1Mzk0MDE5LC02Mz
-IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
-MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
-g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
-NTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLD
-UwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4
-NTg1NzBdfQ==
+eyJoaXN0b3J5IjpbLTE4NDA1MzY5MDksMjEzNTM5NDAxOSwtNj
+MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
+OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
+w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
+MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1My
+w1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQw
+ODU4NTcwXX0=
 -->

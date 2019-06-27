@@ -60,7 +60,7 @@
 	 * Little overhead resistance
 	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
 	 * Don't hold through individual resistance of >10M
-* Works around 60-65%, not as good as premarket
+* Works around 60-65%, not as good as premarket breakout
 * Entry/Risk
 	* Buy close to low of consolidation if possible
 		* Use bottom of the consolidation as risk
@@ -191,11 +191,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4ND
-c1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTks
-LTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNz
-I1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAx
-NDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMT
-cxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0Mzkw
-NTNdfQ==
+eyJoaXN0b3J5IjpbLTkxNTMxMDYxMCwxMDAwMjg3OTEsLTIxMT
+QwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUs
+MjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExOD
+U4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIy
+NzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNj
+g4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgz
+NjhdfQ==
 -->

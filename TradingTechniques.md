@@ -28,16 +28,13 @@
  - [ ] Ideally went supernova before
  - [ ] Above 2M float
  - [ ] No overhead resistance
- - [ ] Clean chart
-* 
-
-* Don't hold through individual resistance of >10M
+ - [ ] Clean chart, don't hold through individual resistance of >10M
 * Sizing
 	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
 		* Use premarket high as risk
 	* Add 1/3 in the first pull back
-		* The stock is considered bullish if it can hold half of the first spike
+		* The stock is considered bullish if it can hold half of the spike
 	* Take 2/3 profit in the third spike
 		* 20-30% profit is considered to be a good trade
 	* Let the remaining run higher
@@ -191,7 +188,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDg0MDAxNiwtODc5MTQxMTI5LC04MD
+eyJoaXN0b3J5IjpbLTExNjg3OTQwNiwtODc5MTQxMTI5LC04MD
 Y3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUw
 MzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2Ny
 wtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQy

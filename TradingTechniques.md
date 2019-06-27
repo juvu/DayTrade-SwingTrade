@@ -90,10 +90,11 @@
 - [ ] First green day
 - [ ] Close near open price or above
 * No low float/Market cap needed
-* Sizing
+* Entry/Risk
 	* Buy at 3:59/4:00pm or after market
 	* Sell into strength in the next morning spike
-	* Use previous day's consolidation as s
+		* Sell into strength
+		* Use previous day's consolidation as support
 
 
 ## Getting Started
@@ -188,7 +189,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc1NTQ1MDIsLTc2NTQwMzIzOSwtMT
+eyJoaXN0b3J5IjpbLTEyMDE0ODIzMjEsLTc2NTQwMzIzOSwtMT
 A3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUz
 MCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNj
 MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0

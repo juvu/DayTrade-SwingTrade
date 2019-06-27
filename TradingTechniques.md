@@ -76,7 +76,7 @@ Requirement
 	 - [ ] Contract winner(If there's deposit from another company, that's bullish)
  - [ ] Use premarket high as risk
  - [ ] <100M market cap or biotech
- - [ ] Volume
+ - [ ] Good volume
  - [ ] Ideally undergo supernova
  - [ ] Above 2M float
  - [ ] No overhead resistance
@@ -185,11 +185,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc3NjgxMjgsMjEzNTM5NDAxOSwtNj
-MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
-OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
-w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
-MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1My
-w1MDE2MDM3OTIsLTYzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQw
-ODU4NTcwXX0=
+eyJoaXN0b3J5IjpbLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
+IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
+MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
+g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
+NTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLD
+UwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4
+NTg1NzBdfQ==
 -->

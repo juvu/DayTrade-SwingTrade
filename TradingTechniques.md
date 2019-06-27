@@ -44,13 +44,10 @@
 	* If the stock breaks half of the overall spike, sell the position
 
 ## Midday Perk Pattern (11am - 2pm)
-
-
  - [ ] >5M volume before 11am
  - [ ] News catalyst
- - [ ] Consolidate at least 1-2 hours
+ - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
- - [ ] Hold >1/2 of the morning spike
  - [ ] Good News
 	* Merge with bigger company (very bullish)
 	* Earnings winner
@@ -201,11 +198,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNj
-c5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAz
-NiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC
-0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2
-NDksLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMT
-k1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1Nzgz
-NzI2XX0=
+eyJoaXN0b3J5IjpbMTE1NjE2MTczNSw0Njk4NDc1MzAsLTg3OT
+E0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0
+MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC
+03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1
+OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMT
+M0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAz
+NzkyXX0=
 -->

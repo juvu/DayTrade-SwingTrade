@@ -64,10 +64,8 @@
 	* Sell half at the day's high as it may form a double top
 	* Add after it breaks out of the day's high
 			* Use high of morning spike as risk
-			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 it's spike
-			* Use half of the size of the breakout as stop loss
-
-* Sell before 2:30 because people who are holding onto the stock on the day will be selling.
+			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike
+	* Sell before 2:30 since people
 
 ## Gap up fill
 * Requirement
@@ -190,7 +188,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjY1MjY5OSwtMjExNDA1NzIsNDY5OD
+eyJoaXN0b3J5IjpbLTYxMjgwNjcwMSwtMjExNDA1NzIsNDY5OD
 Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
 LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
 cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw

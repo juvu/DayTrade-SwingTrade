@@ -39,9 +39,8 @@
 		* The stock is considered bullish if it can hold half of the spike
 	* Take 2/3 profit in the third spike
 		* 20-30% profit is considered to be a good trade
-	* Let the remaining run higher
-	* If the stock breaks half of the spike, sell the position
-
+	* Let the remaining 1/3 run
+	* If the stock breaks half of the overall spike, sell the position
 
 ## Midday Perk Pattern (11am - 2pm)
 
@@ -198,7 +197,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzA2NzYwNzYsLTg3OTE0MTEyOSwtOD
+eyJoaXN0b3J5IjpbLTExOTY2MzkyMjUsLTg3OTE0MTEyOSwtOD
 A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
 MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
 csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0

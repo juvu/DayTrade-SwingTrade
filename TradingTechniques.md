@@ -81,7 +81,7 @@
 	* Contract winner (if there's deposit from another company, that's bullish)
 - [ ] Stock shows clear out and consolidate above resistance level
 * Entry/Risk
-	* Buy at the pullback consolidation close to resistance level, and use it as risk
+	* Ideally buy at the pullback consolidation close to resistance level, and use it as risk
 	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
 ## Gap up fill
@@ -191,11 +191,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMT
-A3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUz
-MCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNj
-MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
-OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
-w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
-MzU4XX0=
+eyJoaXN0b3J5IjpbLTQwOTUxMjE5MywtMTExNTc0NTQxMSwtNz
+Y1NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1
+NzIsNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMT
+M1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgz
+MDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3Nj
+Q1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4
+MjQ1NV19
 -->

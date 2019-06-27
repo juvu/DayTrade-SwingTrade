@@ -24,8 +24,8 @@
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
  - [ ] Good News
-	- [ ] Merge with bigger company (very bullish)
-	 - [ ] Earnings winner
+	* Merge with bigger company (very bullish)
+	 * Earnings winner
 	 - [ ] Contract winner(if there's deposit from another company, that's bullish)
  - [ ] <100M market cap or biotech (biotech with <20M can run big)
  - [ ] Ideally went supernova before
@@ -45,9 +45,10 @@
 
 ## Midday Perk Pattern (11am - 2pm)
 
+
  - [ ] >5M volume before 11am
  - [ ] News catalyst
- - [ ] Consolidate at least 2 hours
+ - [ ] Consolidate at least 1-2 hours
  - [ ] Above open price
  - [ ] Hold > 1/2 of the morning spike
  - [ ] 
@@ -197,7 +198,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODg1MzY1ODUsLTg3OTE0MTEyOSwtOD
+eyJoaXN0b3J5IjpbLTIwOTM5NjgwOTUsLTg3OTE0MTEyOSwtOD
 A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
 MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
 csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0

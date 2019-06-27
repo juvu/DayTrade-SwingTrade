@@ -65,14 +65,16 @@ Requirement
 		* Use half of the most recent spike as risk if can not be sold into strength
 
 ## Long Strategy Premarket Breakout Pattern
-1. 100k premarket volume
-* first green day
-* 20-50 percent
-clean chart
-Premarket consolidation
-news
-Use premarket high as risk
-<100m market cap or biotech
+
+ - [ ] 100k premarket volume
+ - [ ]  first green day
+ - [ ]  20-50 percent
+ - [ ] Clean chart
+ - [ ] Premarket consolidation
+ - [ ] Good News
+ - [ ] Use premarket high as risk
+ - [ ] <100m market cap or biotech
+ - [ ] Volume
 
 * Stock is consolidating in a small range premarket with resistance
 * When the market opens, stock goes over high of premarket
@@ -198,7 +200,7 @@ Use premarket high as risk
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3MDY4MzIwNCwtNjMyMjExMDQzLC05ND
+eyJoaXN0b3J5IjpbLTQxOTQ1NzMzOSwtNjMyMjExMDQzLC05ND
 Q3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2
 NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsND
 QwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4

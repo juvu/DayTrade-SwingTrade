@@ -7,6 +7,7 @@
 *  With a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
 * If the chart has heaviest volume, treat it as a fresh chart
 * Watch list - Top percentage gainer
+* Don't over trade, and don't break the risk level
 
 |Strategy|Timeframe|
 |--|--|
@@ -189,11 +190,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA3MjIzNjMsLTg3OTE0MTEyOSwtOD
-A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
-MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
-csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0
-MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OS
-wxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3
-ODM3MjZdfQ==
+eyJoaXN0b3J5IjpbODcyMDQ3NDI5LC04NzkxNDExMjksLTgwNj
+c5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAz
+NiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC
+0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2
+NDksLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMT
+k1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1Nzgz
+NzI2XX0=
 -->

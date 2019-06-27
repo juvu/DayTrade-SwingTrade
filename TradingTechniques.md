@@ -8,6 +8,7 @@
 * If the chart has heaviest volume, treat it as a fresh chart
 * Watch list - Top percentage gainer
 * Don't over trade, and don't break the risk level
+* Don't trade with float < 2M as it can be easily manipulated
 
 |Strategy|Timeframe|
 |--|--|
@@ -28,7 +29,6 @@
 	 - [ ] Contract winner(if there's deposit from another company, that's bullish)
  - [ ] <100M market cap or biotech (biotech with <20M can run big)
  - [ ] Ideally went supernova before
- - [ ] Above 2M float
  - [ ] No overhead resistance
  - [ ] Clean chart, don't hold through individual resistance of >10M
 * Sizing
@@ -49,6 +49,8 @@
  - [ ] News catalyst
  - [ ] Consolidate at least 2 hours
  - [ ] Above open price
+ - [ ] Hold > 1/2 of the morning spike
+ - [ ] 
 
 * Works around 60-65%, not as good as premarket
 * First green day
@@ -195,11 +197,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NTc5MzI2MywtODc5MTQxMTI5LC04MD
-Y3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUw
-MzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2Ny
-wtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQy
-NjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LD
-E5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4
-MzcyNl19
+eyJoaXN0b3J5IjpbLTE0ODg1MzY1ODUsLTg3OTE0MTEyOSwtOD
+A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
+MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
+csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0
+MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OS
+wxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3
+ODM3MjZdfQ==
 -->

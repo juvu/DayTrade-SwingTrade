@@ -53,20 +53,11 @@
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Clean chart, don't hold through individual resistance of >10M
+ - [ ] First green day
 
 * Works around 60-65%, not as good as premarket
-* First green day
 * To stay at a position overnight, judge it's action based on how strong it's closing
-* Less than 10M volume in the past 2 years
-* Requirements
-	* Large volume(5M+ by 11)
-	* News catalyst
-	* Holds 1/2 of morning spike or above
-	* Price above open price
-	* Low float
-	* Low market cap
-	* Consolidate for at least 1/2 hr
-	* Clean chart
+
 * Sizing
 	* Buy close to support if possible
 	* Buy or add at the breakout high of the consolidation
@@ -199,11 +190,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MT
-QxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQz
-LC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLT
-c4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5
-NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMz
-QwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTIwOTQ0MzAzNjYsLTIxMTQwNTcyLDQ2OT
+g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
+OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
+E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
+MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
+IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
+OTA1M119
 -->

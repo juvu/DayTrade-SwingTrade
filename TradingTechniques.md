@@ -26,6 +26,7 @@
  - [ ] Premarket consolidation in small range
  - [ ] Good News
 	* Merge with bigger company (very bullish)
+	* Biotech - Phase 1/2 or  FDA approval
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Ideally went supernova before
@@ -200,11 +201,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0OTgyMTEzMywtODc5MTQxMTI5LC04MD
-Y3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUw
-MzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2Ny
-wtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQy
-NjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LD
-E5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4
-MzcyNl19
+eyJoaXN0b3J5IjpbNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNj
+c5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAz
+NiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC
+0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2
+NDksLTE2ODg4MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMT
+k1MjMyODM2OCwtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1Nzgz
+NzI2XX0=
 -->

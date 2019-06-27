@@ -85,8 +85,8 @@
 	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
 ## Gap up fill
-- [ ] Gap up in the morning(100%)
-- [ ] 
+- [ ] Gap up in the morning(100%+)
+- [ ] Sell off, but able to hold 
 * Requirement
 	* Gap up
 	* Morning panic
@@ -194,7 +194,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4MDY5NjczLC03NjU0MDMyMzksLTEwNz
+eyJoaXN0b3J5IjpbNjkzMTk3MjA2LC03NjU0MDMyMzksLTEwNz
 M2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAs
 LTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMj
 IxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkw

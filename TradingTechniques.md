@@ -52,6 +52,7 @@
  - [ ] First green day
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
+ - [ ] Ideally 100% 
  - [ ] News catalyst
 	* Merge with bigger company (very bullish)
 	* Earnings winner
@@ -191,11 +192,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTMxMDYxMCwxMDAwMjg3OTEsLTIxMT
-QwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUs
-MjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExOD
-U4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIy
-NzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNj
-g4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgz
-NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwNjk2NTAyODUsMTAwMDI4NzkxLC0yMT
+E0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1
+LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMT
+g1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDky
+Mjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMT
+Y4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4
+MzY4XX0=
 -->

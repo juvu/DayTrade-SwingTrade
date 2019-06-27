@@ -71,6 +71,17 @@
 			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike
 	* Sell before 2:30 since people don't like holding overnight
 
+## Multi Day/Week/Month/Year Breakout
+Requirement
+* Need strong  volume for previous resistance
+* Low float / Market cap
+* News Catalyst
+* Stock breaking out and consolidate above resistance
+* Sizing
+	* Buy at the pullback consolidation close to resistance level
+	* Add to the position when it hits high of the day
+	* Take profit into strength
+
 ## Gap up fill
 * Requirement
 	* Gap up
@@ -86,16 +97,7 @@
 	* Use green red as risk if it gaps up
 	* Use previous day's sup/res level during consolidation as support if it gaps down
 
-## Multi Day/Week/Month/Year Breakout
-Requirement
-* Need strong  volume for previous resistance
-* Low float / Market cap
-* News Catalyst
-* Stock breaking out and consolidate above resistance
-* Sizing
-	* Buy at the pullback consolidation close to resistance level
-	* Add to the position when it hits high of the day
-	* Take profit into strength
+
 
 
 
@@ -192,11 +194,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMT
-E0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1
-LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMT
-g1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDky
-Mjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMT
-Y4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4
-MzY4XX0=
+eyJoaXN0b3J5IjpbLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMD
+AwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5
+LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05ND
+Q3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2
+NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsND
+QwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4
+NDk5XX0=
 -->

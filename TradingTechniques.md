@@ -1,6 +1,6 @@
 ## Tips
 * Afternoon breakout is not as strong as morning spike
-* Always take profit into strength, not weakness
+* Sell into strength, buy dips
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
 * With a small account, it's better to go long as it has better risk reward. Where a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
@@ -12,6 +12,34 @@
 |Mid-day perk|11:30 - 2:00|
 |Gap fill|2:30-4:00|
 |Multi month high volume bar breakout|Anytime|
+
+## Premarket Breakout Pattern
+ - [ ] >100K premarket volume
+ - [ ]  First green day
+ - [ ]  20-50 percent gap up is ideal
+ - [ ] Clean chart
+ - [ ] Premarket consolidation in small range
+ - [ ] Good News
+	- [ ] Merge with bigger company(Very bullish)
+	 - [ ] Earnings winner
+	 - [ ] Contract winner(If there's deposit from another company, that's bullish)
+ - [ ] Use premarket high as risk
+ - [ ] <100M market cap or biotech
+ - [ ] Good volume
+ - [ ] Ideally went supernova before
+ - [ ] Above 2M float
+ - [ ] No overhead resistance
+ - [ ] Clean chart
+* 20-30% profit is considered to be a good trade
+* The stock is considered bullish if it can hold half of the first spike
+* Don't hold through individual resistance of >10M
+* Sizing
+	* 1/3 in the premarket if it's started to breakout in the premarket 
+	* 1/3 on break of premarket high
+	* Add 1/3 in the first pull back
+	* Take 2/3 profit in the third spike
+	* Let the remaining run higher
+	* If the stock breaks half of the spike, sell the position
 
 ## Gap up fill
 * Requirement
@@ -161,11 +189,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0OTg3NjA2MCwtODA2Nzk1MTA1LDIxMz
-UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
-NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
-UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
-NDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC
-0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwODk1
-NjY2NDRdfQ==
+eyJoaXN0b3J5IjpbLTEwNDUyNzUwNDIsLTgwNjc5NTEwNSwyMT
+M1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgz
+MDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3Nj
+Q1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4
+MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OC
+wtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5
+NTY2NjQ0XX0=
 -->

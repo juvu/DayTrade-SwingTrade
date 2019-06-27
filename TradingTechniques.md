@@ -78,7 +78,7 @@ Requirement
  - [ ] Ideally undergo supernova
  - [ ] Above 2M float
 * 20-30% profit is considered to be a good trade
-* The stock is bullish if it can hold half of the first spike on the first pullback
+* The stock is considered bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
 * if the resistance is >10M, don't hold the position to break through the resistance
 * First green day
@@ -195,11 +195,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05ND
-Q3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2
-NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsND
-QwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4
-NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLT
-YzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMz
-OTYxOTY2XX0=
+eyJoaXN0b3J5IjpbMTE2NTg4NTQ1MSwyMTM1Mzk0MDE5LC02Mz
+IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
+MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
+g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
+NTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5MDUzLD
+UwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5NTY2NjQ0LC0xNDA4
+NTg1NzBdfQ==
 -->

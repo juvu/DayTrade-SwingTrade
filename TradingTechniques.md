@@ -31,7 +31,10 @@
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Ideally went supernova before
  - [ ] No overhead resistance
- - [ ] Clean chart, don't hold through individual resistance of >10M
+ - [ ] Clean chart
+	 * Little overhead resistance
+	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
+	 * Don't hold through individual resistance of >10M
 * Sizing
 	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
@@ -47,6 +50,7 @@
  - [ ] >5M volume before 11am
  - [ ] <50M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ] 2M - 50M low float
+ - [ ] First green day
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
  - [ ] News catalyst
@@ -54,10 +58,9 @@
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Clean chart
-	 * Little
-	 * Estimate EOD volume to see if it's greater to previous resistance's volume
-	 * don't hold through individual resistance of >10M
- - [ ] First green day
+	 * Little overhead resistance
+	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
+	 * Don't hold through individual resistance of >10M
 * Works around 60-65%, not as good as premarket
 * To stay at a position overnight, judge it's action based on how strong it's closing
 * Sizing
@@ -190,7 +193,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MzI4NzY3MCwtMjExNDA1NzIsNDY5OD
+eyJoaXN0b3J5IjpbLTI1NDc1Nzg4MywtMjExNDA1NzIsNDY5OD
 Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
 LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
 cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw

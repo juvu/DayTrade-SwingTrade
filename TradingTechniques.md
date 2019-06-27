@@ -45,12 +45,13 @@
 
 ## Midday Perk Pattern (11am - 2pm)
  - [ ] >5M volume before 11am
- - [ ] 2M - 9M Float, <50M market cap unless it's a biotech (biotech with <20M can run big)
+ - [ ] <50M market cap unless it's a biotech (biotech with <20M can run big)
+ - [ ] 2M - 50M low float
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
  - [ ] News catalyst
 	* Merge with bigger company (very bullish)
-	* Earnings winner
+	* Earnings winner/Contract winner
 	* Contract winner (if there's deposit from another company, that's bullish)
  - [ ] Clean chart, don't hold through individual resistance of >10M
  - [ ] First green day
@@ -187,7 +188,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIzMzk1OTAsLTIxMTQwNTcyLDQ2OT
+eyJoaXN0b3J5IjpbLTE4NDYyNzk2ODUsLTIxMTQwNTcyLDQ2OT
 g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
 OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
 E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz

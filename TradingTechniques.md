@@ -24,21 +24,22 @@
 	- [ ] Merge with bigger company(Very bullish)
 	 - [ ] Earnings winner
 	 - [ ] Contract winner(If there's deposit from another company, that's bullish)
- - [ ] Use premarket high as risk
  - [ ] <100M market cap or biotech
- - [ ] Good volume
  - [ ] Ideally went supernova before
  - [ ] Above 2M float
  - [ ] No overhead resistance
  - [ ] Clean chart
-* 20-30% profit is considered to be a good trade
-* The stock is considered bullish if it can hold half of the first spike
+* 
+
 * Don't hold through individual resistance of >10M
 * Sizing
 	* 1/3 in the premarket if it's started to breakout in the premarket 
 	* 1/3 on break of premarket high
+		* Use premarket high as risk
 	* Add 1/3 in the first pull back
+		* The stock is considered bullish if it can hold half of the first spike
 	* Take 2/3 profit in the third spike
+		* 20-30% profit is considered to be a good trade
 	* Let the remaining run higher
 	* If the stock breaks half of the spike, sell the position
 
@@ -190,11 +191,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMz
-UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
-NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
-UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
-NDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC
-0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwODk1
-NjY2NDRdfQ==
+eyJoaXN0b3J5IjpbLTk4NDg0MDAxNiwtODc5MTQxMTI5LC04MD
+Y3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUw
+MzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2Ny
+wtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQy
+NjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4NDk5LD
+E5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLTYzNTc4
+MzcyNl19
 -->

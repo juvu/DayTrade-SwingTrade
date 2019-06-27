@@ -55,17 +55,6 @@
  - [ ] Clean chart, don't hold through individual resistance of >10M
  - [ ] First green day
 
-* Works around 60-65%, not as good as premarket
-* To stay at a position overnight, judge it's action based on how strong it's closing
-
-* Sizing
-	* Buy close to support if possible
-		* Use bottom of the consolidation as risk
-	* Sell half at the day's high as it may form a double top
-	* Add if it breaks out of the day's high
-			* Sell into strength(can use average gain from), or any sigh of resistance
-			* Sell if it breaks half of it's spike from day's high
-	* Use half of the most recent spike as risk if can not be sold into strength
 
 * Sell before 2:30 because people who are holding onto the stock on the day will be selling.
 
@@ -190,11 +179,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzNzg2MzM5LC0yMTE0MDU3Miw0Njk4ND
-c1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTks
-LTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNz
-I1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAx
-NDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMT
-cxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC0zNzQ0Mzkw
-NTNdfQ==
+eyJoaXN0b3J5IjpbMTc1NDk1Mjg2MywtMjExNDA1NzIsNDY5OD
+Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
+LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
+cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
+MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
+E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
+MDUzXX0=
 -->

@@ -68,7 +68,7 @@
 	* Sell half at the day's high as it may form a double top
 	* Add after it breaks out of the day's high
 			* Use high of morning spike as risk
-			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike
+			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike, or average gain(35%)
 	* Sell before 2:30 since people don't like holding overnight
 
 ## Multi Day/Week/Month/Year Breakout
@@ -197,11 +197,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTAwNzE5OTUsLTc2NTQwMzIzOSwtMT
-A3MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUz
-MCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNj
-MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
-OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
-w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4
-MzU4XX0=
+eyJoaXN0b3J5IjpbLTIxNjA5NDUyMCwtNzY1NDAzMjM5LC0xMD
+czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
+LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
+IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
+MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
+g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
+NThdfQ==
 -->

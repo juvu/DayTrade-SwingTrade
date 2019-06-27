@@ -86,7 +86,9 @@
 
 ## Gap up fill
 - [ ] Gap up in the morning(100%+)
-- [ ] Sell off, but able to hold 
+- [ ] Sells off, but able to hold 1/2+ its gain
+- [ ] First green day
+- [ ] Close near open price or above
 * Requirement
 	* Gap up
 	* Morning panic
@@ -194,11 +196,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkzMTk3MjA2LC03NjU0MDMyMzksLTEwNz
-M2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAs
-LTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMj
-IxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkw
-MzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsOD
-czMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1
-OF19
+eyJoaXN0b3J5IjpbLTIyMjY2NjQyOSwtNzY1NDAzMjM5LC0xMD
+czNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMw
+LC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02Mz
+IyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5
+MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LD
+g3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMjE3MTgz
+NThdfQ==
 -->

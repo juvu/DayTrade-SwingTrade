@@ -61,11 +61,10 @@
 * Sizing
 	* Buy close to support if possible
 		* Use bottom of the consolidation as risk
-	* Sell partially at the day's high as it may form a double top
+	* Sell half at the day's high as it may form a double top
 	* Add if it breaks out of the day's high
-		* If the stock breakout to the day's high, add to the position
 			* Sell into strength
-		* Use half of the most recent spike as risk if can not be sold into strength
+	* Use half of the most recent spike as risk if can not be sold into strength
 
 * Sell before 2:30 because people who are holding onto the stock on the day will be selling.
 
@@ -190,7 +189,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODY2MjkxNCwtMjExNDA1NzIsNDY5OD
+eyJoaXN0b3J5IjpbLTg0MDU3MzIzNiwtMjExNDA1NzIsNDY5OD
 Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
 LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
 cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw

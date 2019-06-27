@@ -3,8 +3,9 @@
 * Sell into strength, buy dips
 * Double support/resistance is hard to break
 * Be careful not going long on a stock after 2:30 as traders tend to take profit
-* With a small account, it's better to go long as it has better risk reward. Where a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
-* If the chart has heaviest volume in history(couple of years, 2-3?) treat it as a fresh chart
+* With a small account, it's better to go long as it has better risk reward. 
+*  With a big account(30,000) is better to go short as it's  safer and better winning percentage, but with less reward.
+* If the chart has heaviest volume, treat it as a fresh chart
 
 |Strategy|Timeframe|
 |--|--|
@@ -189,11 +190,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDUyNzUwNDIsLTgwNjc5NTEwNSwyMT
-M1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgz
-MDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3Nj
-Q1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4
-MjQ1NSwtMjE3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OC
-wtMzc0NDM5MDUzLDUwMTYwMzc5MiwtNjM1NzgzNzI2LC0yMDg5
-NTY2NjQ0XX0=
+eyJoaXN0b3J5IjpbLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMz
+UzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMw
+NjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2ND
+UsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0MjY0OSwtMTY4ODgy
+NDU1LC0yMTcxODM1OCwtMTM0MDUyODQ5OSwxOTUyMzI4MzY4LC
+0zNzQ0MzkwNTMsNTAxNjAzNzkyLC02MzU3ODM3MjYsLTIwODk1
+NjY2NDRdfQ==
 -->

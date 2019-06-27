@@ -72,8 +72,9 @@
 	* Sell before 2:30 since people don't like holding overnight
 
 ## Multi Day/Week/Month/Year Breakout
-- [ ] Need heavy volume
 - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
+- [ ] Needs heavy volume
+- [ ] Consolidation above the breakout level
 - [ ] 
 * News Catalyst
 * Stock breaking out and consolidate above resistance
@@ -194,7 +195,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzMTI3NzAxLC03NjU0MDMyMzksLTEwNz
+eyJoaXN0b3J5IjpbNjYyMjY0OTcyLC03NjU0MDMyMzksLTEwNz
 M2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAs
 LTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMj
 IxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkw

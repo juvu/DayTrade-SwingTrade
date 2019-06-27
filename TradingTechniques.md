@@ -21,10 +21,10 @@
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
  - [ ] Good News
-	- [ ] Merge with bigger company(Very bullish)
+	- [ ] Merge with bigger company (very bullish)
 	 - [ ] Earnings winner
-	 - [ ] Contract winner(If there's deposit from another company, that's bullish)
- - [ ] <100M market cap or biotech(biotech with <20M is very)
+	 - [ ] Contract winner(if there's deposit from another company, that's bullish)
+ - [ ] <100M market cap or biotech (biotech with <20M can run big)
  - [ ] Ideally went supernova before
  - [ ] Above 2M float
  - [ ] No overhead resistance
@@ -188,7 +188,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NTE3MDc2NSwtODc5MTQxMTI5LC04MD
+eyJoaXN0b3J5IjpbLTQ2Mzk0OTkyNiwtODc5MTQxMTI5LC04MD
 Y3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC05NDQ3MDUw
 MzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2NTY2Ny
 wtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsNDQwOTQy

@@ -19,7 +19,7 @@
 
 ## Premarket Breakout Pattern (9:30 - 11:30)
  - [ ] >100K premarket volume
- - [ ] 2M - 100M market cap or biotech (biotech with <20M can run big)
+ - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
  - [ ] Clean chart
@@ -48,8 +48,7 @@
 
 ## Midday Perk Pattern (11am - 2pm)
  - [ ] >5M volume before 11am
- - [ ] <50M market cap unless it's a biotech (biotech with <20M can run big)
- - [ ] 2M - 50M low float
+ - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ] First green day
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
@@ -62,7 +61,6 @@
 	 * Estimate EOD volume to see if it's greater to previous resistance's volumes
 	 * Don't hold through individual resistance of >10M
 * Works around 60-65%, not as good as premarket
-* To stay at a position overnight, judge it's action based on how strong it's closing
 * Sizing
 	* Buy close to support if possible
 		* Use bottom of the consolidation as risk
@@ -70,7 +68,7 @@
 	* Add after it breaks out of the day's high
 			* Use high of morning spike as risk
 			* Take profit into strength, or any sigh of resistance, or if it breaks 1/2 of its spike
-	* Sell before 2:30 since people
+	* Sell before 2:30 since people don't like holding overnight
 
 ## Gap up fill
 * Requirement
@@ -193,11 +191,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDc1Nzg4MywtMjExNDA1NzIsNDY5OD
-Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
-LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
-cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
-MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
-E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTE1MjY1ODM4NzUsLTIxMTQwNTcyLDQ2OT
+g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
+OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
+E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
+MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
+IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
+OTA1M119
 -->

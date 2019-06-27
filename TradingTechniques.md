@@ -46,7 +46,7 @@
 ## Midday Perk Pattern (11am - 2pm)
  - [ ] >5M volume before 11am
  - [ ] 2M - 9M Float
- - [ ] < market cap or biotech (biotech with <20M can run big)
+ - [ ] <25M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
  - [ ] News catalyst
@@ -189,11 +189,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDcwMzY5NCwtMjExNDA1NzIsNDY5OD
-Q3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5
-LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMT
-cyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMw
-MTQ3LDg3MzA1NTk2Myw0NDA5NDI2NDksLTE2ODg4MjQ1NSwtMj
-E3MTgzNTgsLTEzNDA1Mjg0OTksMTk1MjMyODM2OCwtMzc0NDM5
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTIwNDMzNTM3NjcsLTIxMTQwNTcyLDQ2OT
+g0NzUzMCwtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAx
+OSwtNjMyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLT
+E3MjU0OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIz
+MDE0Nyw4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLT
+IxNzE4MzU4LC0xMzQwNTI4NDk5LDE5NTIzMjgzNjgsLTM3NDQz
+OTA1M119
 -->

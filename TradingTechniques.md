@@ -66,23 +66,17 @@ Requirement
 
 ## Long Strategy Premarket Breakout Pattern
 
- - [ ] 100k premarket volume
+ - [ ] >100k premarket volume
  - [ ]  first green day
- - [ ]  20-50 percent
+ - [ ]  20-50 percent gap up is ideal
  - [ ] Clean chart
- - [ ] Premarket consolidation
+ - [ ] Premarket consolidation in small range
  - [ ] Good News
  - [ ] Use premarket high as risk
  - [ ] <100m market cap or biotech
  - [ ] Volume
-
-* Stock is consolidating in a small range premarket with resistance
-* When the market opens, stock goes over high of premarket
-* Good volume on the breakout
-* Ideal gap up should be between 20 - 50 percent
+ - [ ] Ideally undergo supernova
 * 20-30% profit is considered to be a good trade
-* Premarket volume >100k
-* Check history to see if the stock history to see if it has gone supernova
 * The stock is bullish if it can hold half of the first spike on the first pullback
 * Judge whether the volume to see if by EOD it will will exceed the daily volume of the previous individual resistance, if it is, there's higher chance for it to break out
 * if the resistance is >10M, don't hold the position to break through the resistance
@@ -200,11 +194,11 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTQ1NzMzOSwtNjMyMjExMDQzLC05ND
-Q3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4OTY2
-NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Nyw4NzMwNTU5NjMsND
-QwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4MzU4LC0xMzQwNTI4
-NDk5LDE5NTIzMjgzNjgsLTM3NDQzOTA1Myw1MDE2MDM3OTIsLT
-YzNTc4MzcyNiwtMjA4OTU2NjY0NCwtMTQwODU4NTcwLC0xMjMz
-OTYxOTY2XX0=
+eyJoaXN0b3J5IjpbLTEzNDEwOTUwMTIsLTYzMjIxMTA0MywtOT
+Q0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2
+NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLD
+Q0MDk0MjY0OSwtMTY4ODgyNDU1LC0yMTcxODM1OCwtMTM0MDUy
+ODQ5OSwxOTUyMzI4MzY4LC0zNzQ0MzkwNTMsNTAxNjAzNzkyLC
+02MzU3ODM3MjYsLTIwODk1NjY2NDQsLTE0MDg1ODU3MCwtMTIz
+Mzk2MTk2Nl19
 -->

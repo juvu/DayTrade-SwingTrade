@@ -64,7 +64,7 @@ Requirement
 			* Sell into strength
 		* Use half of the most recent spike as risk if can not be sold into strength
 
-## Long Strategy Premarket Breakout Pattern
+## Premarket Breakout Pattern
 
  - [ ] >100K premarket volume
  - [ ]  First green day
@@ -72,9 +72,9 @@ Requirement
  - [ ] Clean chart
  - [ ] Premarket consolidation in small range
  - [ ] Good News
-		* Merge with bigger company(Very bullish)
-		* Earnings winner
-		* Contract winner(If there's deposit from another company, that's bullish)
+	- [ ] Merge with bigger company(Very bullish)
+	 - [ ] Earnings winner
+	 - [ ] Contract winner(If there's deposit from another company, that's bullish)
  - [ ] Use premarket high as risk
  - [ ] <100M market cap or biotech
  - [ ] Volume
@@ -93,15 +93,7 @@ Requirement
 	* let the remaining run higher
 	* If the stock breaks half of the morning spike, sell the position
 	* Use high of the consolidation as risk
-* Requirement
-	* Low float
-	* Low market cap(<100M unless it's a biotech company)
-	* News catalyst
-		* Merge with bigger company(Very bullish)
-		* Earnings winner
-		* Contract winner(If there's deposit from another company, that's bullish)
-	* Clean chart with no overhead resistance(or resistance with low volume)
-	* Stock is not up too much premarket(i.e. 20-25%)
+
 
 
 ## Getting Started
@@ -196,7 +188,7 @@ Requirement
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDA1MzY5MDksMjEzNTM5NDAxOSwtNj
+eyJoaXN0b3J5IjpbLTE2NjkxODYwNzQsMjEzNTM5NDAxOSwtNj
 MyMjExMDQzLC05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0
 OTAzNTAsLTc4OTY2NTY2NywtMTUwOTIyNzY0NSwzNzIzMDE0Ny
 w4NzMwNTU5NjMsNDQwOTQyNjQ5LC0xNjg4ODI0NTUsLTIxNzE4

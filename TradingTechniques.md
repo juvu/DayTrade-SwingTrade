@@ -136,6 +136,7 @@
 	* 40M+ (Super Heavy)
 * Consistent volume is when volume is trading at 1-5M every day
 * Individual volume is when a stock's price spiked with increase in volume
+
 ### Brokers
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
@@ -156,9 +157,9 @@
 ### Resistance
 * Consistant resistance
 	* Stock moving with consistent resistance
-	* over 500k+
+	* Over 500k+
 	* Trading in some small range
-	* Once there's a huge gap up, it's likely the price will go towards the range since
+	* Once there's a huge gap up, it's likely the price will go towards the previous range since
 		* Long term share holder would be willing sell
 		* People shorting into morning spike
 		* Can calculate the bag holders by the consistent resistant level's volume
@@ -183,11 +184,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzY1MjAzMDMsODk5NjMyMjk1LDg5OT
-YzMjI5NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAz
-MjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsND
-Y5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0
-MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMC
-wtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3
-MjMwMTQ3XX0=
+eyJoaXN0b3J5IjpbMTU2Nzc2MzYxMiw4OTk2MzIyOTUsODk5Nj
+MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
+MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
+k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw
+MTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC
+0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcy
+MzAxNDddfQ==
 -->

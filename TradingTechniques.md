@@ -171,9 +171,8 @@
 ### Type of trades not to short
 * Slow Grinding
 	* Hard to short since there's too many support along the way
-	* Prices goes up slowly
-	* Short sellers are frustrated
-	* Buyer's has strength
+	* Prices go up slowly
+	* Short sellers are frustrated, while buyer's are in strength
 	* There will be a lot sellers, but buyer's in control
 	* It's better to short parabolic charts
 * Price Neutralizing
@@ -192,11 +191,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMD
-k3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2
-OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04Nz
-kxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEw
-NDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MC
-wtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1
-NTk2M119
+eyJoaXN0b3J5IjpbMTA3OTQxMjYyMyw4OTk2MzIyOTUsODk5Nj
+MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
+MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
+k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw
+MTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC
+0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcy
+MzAxNDddfQ==
 -->

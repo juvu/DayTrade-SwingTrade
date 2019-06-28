@@ -159,10 +159,10 @@
 	* Stock moving with consistent resistance
 	* Over 500k+
 	* Trading in some small range
-	* Once there's a huge gap up, it's likely the price will go towards the previous range since
-		* Long term share holder would be willing sell
+	* Once there's a huge gap up, the price tends to go towards the previous range
+		* Long term share holder would be willing to sell
 		* People shorting into morning spike
-		* Can calculate the bag holders by the consistent resistant level's volume
+		* Can calculate the bag holders by summing the consistent resistant level's volume
 * Individual resistance
 	* Big volume at a specific point where most of the time it's trading in small volumes
 		* 4-5M  <= light
@@ -184,7 +184,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Nzc2MzYxMiw4OTk2MzIyOTUsODk5Nj
+eyJoaXN0b3J5IjpbLTcyNTE5NDI3MSw4OTk2MzIyOTUsODk5Nj
 MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
 MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
 k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw

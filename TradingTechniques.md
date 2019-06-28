@@ -80,7 +80,6 @@
 	* Earnings winner
 	* Contract winner (if there's deposit from another company, that's bullish)
 - [ ] Stock shows clear out and consolidate above resistance level
-- [ ] Ideally has a history of spiking
 * Entry/Risk
 	* Ideally buy at the pullback consolidation close to resistance level
 	* Risk previous support, not the breakout level 
@@ -193,11 +192,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU3NzQxNTksODk5NjMyMjk1LC0xNT
-IwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2
-OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLT
-g3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIx
-MTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMz
-UwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcyMzAxNDcsODcz
-MDU1OTYzXX0=
+eyJoaXN0b3J5IjpbODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMD
+k3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2
+OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04Nz
+kxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEw
+NDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MC
+wtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1
+NTk2M119
 -->

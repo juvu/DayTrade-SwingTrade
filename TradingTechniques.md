@@ -82,7 +82,7 @@
 - [ ] Stock shows clear out and consolidate above resistance level
 * Entry/Risk
 	* Ideally buy at the pullback consolidation close to resistance level
-	* Risk pre support(may dip below the resistance for a bit, but it's okay)
+	* Risk previous support, not the breakout level 
 	* Take profit into strength, typically 60% profit if it broke heavy resistance
 
 ## Gap Up Fill (2:30 - 4:00)
@@ -192,11 +192,11 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODU0MDYzNSwtMTUyMDk3NDc4NSwtMT
-ExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAy
-ODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04NzkxNDExMjksLT
-gwNjc5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcw
-NTAzNiwtMTE4NTgzMDYyMCwtMTcyNTQ5MDM1MCwtNzg5NjY1Nj
-Y3LC0xNTA5MjI3NjQ1LDM3MjMwMTQ3LDg3MzA1NTk2Myw0NDA5
-NDI2NDldfQ==
+eyJoaXN0b3J5IjpbODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC0xMT
+E1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4
+NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtOD
+A2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1
+MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2Nj
+csLTE1MDkyMjc2NDUsMzcyMzAxNDcsODczMDU1OTYzLDQ0MDk0
+MjY0OV19
 -->

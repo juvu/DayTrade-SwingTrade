@@ -176,8 +176,7 @@
 	* There will be a lot sellers, but buyer's in control
 	* It's better to short parabolic charts
 * Price Neutralizing
-	* When volume is fading
-	* Price is not dropping
+	* When volume is fading, while the price is not dropping
 	* When the volume is low, and you have a big position, then buy to cover will spike up the price
 * Factor Conflict
 	* When the stock is both bearish and bullish at the same time
@@ -191,7 +190,7 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3OTQxMjYyMyw4OTk2MzIyOTUsODk5Nj
+eyJoaXN0b3J5IjpbMTY0MzM1MjcwMSw4OTk2MzIyOTUsODk5Nj
 MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
 MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
 k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw

@@ -9,6 +9,7 @@
 * Watch list - Top percentage gainer
 * Don't over trade, and don't break the risk level
 * Don't trade with float < 2M as it can be easily manipulated
+* Control FOMO, set max loss and step away if it doesn't work out constantly
 
 |Strategy|Timeframe|
 |--|--|
@@ -181,20 +182,12 @@
 * Factor Conflict
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
-
-### Psychology of Trading
-* Don't force a trade
-* Don't over trade if your plan does not work more than 2 times
-* Set risk and max loss, and follow through
-* Don't get emotional
-
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzM1MjcwMSw4OTk2MzIyOTUsODk5Nj
-MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
-MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
-k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw
-MTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC
-0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcy
-MzAxNDddfQ==
+eyJoaXN0b3J5IjpbLTExMzY1MjAzMDMsODk5NjMyMjk1LDg5OT
+YzMjI5NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAz
+MjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsND
+Y5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0
+MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMC
+wtMTcyNTQ5MDM1MCwtNzg5NjY1NjY3LC0xNTA5MjI3NjQ1LDM3
+MjMwMTQ3XX0=
 -->

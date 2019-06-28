@@ -164,7 +164,7 @@
 		* People shorting into morning spike
 		* Can calculate the bag holders by summing the consistent resistant level's volume
 * Individual resistance
-	* Big volume at a specific point where most of the time it's trading in small volumes
+	* Sudden volume spike
 		* 4-5M  <= light
 		* 20M+  <= light-mid
 		* 30M+  <= mid
@@ -184,7 +184,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTE5NDI3MSw4OTk2MzIyOTUsODk5Nj
+eyJoaXN0b3J5IjpbMTM2Nzk5MjM3MCw4OTk2MzIyOTUsODk5Nj
 MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
 MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
 k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw

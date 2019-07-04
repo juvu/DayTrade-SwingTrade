@@ -100,6 +100,9 @@
 		* Sell into strength
 		* Use previous day's consolidation as support
 
+## Bounce Short
+- [ ] Ran before(1yr to 6mths ago)
+- [ ] 
 
 ## Getting Started
 ### Info
@@ -184,11 +187,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2Nzk5MjM3MCw4OTk2MzIyOTUsODk5Nj
-MyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMy
-MzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Nj
-k4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQw
-MTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC
-0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1MDkyMjc2NDUsMzcy
-MzAxNDddfQ==
+eyJoaXN0b3J5IjpbLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4OT
+k2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1
+NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC
+0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2Nzk1
+MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0NzA1MDM2LC
+0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03ODk2NjU2NjcsLTE1
+MDkyMjc2NDVdfQ==
 -->

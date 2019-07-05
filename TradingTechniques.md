@@ -104,8 +104,7 @@
 - [ ] Near long term resistance
 - [ ] Green candles going up intraday
 - [ ] High float / High market cap
-- [ ] Resistance with high volume, at least >10M
-- [ ] 
+- [ ] Resistance with high volume, at least >10M. Lower volume than previous resistance
 * Add 
 
 ## Bounce Short
@@ -195,7 +194,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzY5NjUyMCwtMTMzMDQ5MjYwMywtNj
+eyJoaXN0b3J5IjpbMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNj
 I1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5
 MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC
 0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAw

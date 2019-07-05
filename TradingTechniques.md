@@ -49,7 +49,7 @@
 
 ## Midday Perk Pattern (11am - 2pm)
  - [ ] >5M volume before 11am
- - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
+ - [ ] 4M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ] First green day
  - [ ] Hold >1/2 of the morning spike and consolidate for at least 1/2 hours
  - [ ] Above open price
@@ -73,7 +73,7 @@
 	* Sell before 2:30 since people don't like holding overnight
 
 ## Multi Day/Week/Month/Year Breakout (anytime of day)
-- [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
+- [ ] 4M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
 - [ ] Needs heavy volume(10M-15M in the morning is bullish)
 - [ ] Consolidation above the breakout level
 - [ ] News catalyst
@@ -100,6 +100,8 @@
 		* Sell into strength
 		* Use previous day's consolidation as support
 
+## Parabolic Short
+- [ ] 
 
 ## Bounce Short
 - [ ] Ran before(1yr to 6mths ago)
@@ -188,7 +190,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjQ0NDA0MDMsLTIwNjE1Mjc3ODEsMT
+eyJoaXN0b3J5IjpbLTEzMDA2NDgzMjMsLTIwNjE1Mjc3ODEsMT
 M2Nzk5MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0
 Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5OD
 UsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0

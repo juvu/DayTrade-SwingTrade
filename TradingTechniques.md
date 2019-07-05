@@ -104,7 +104,7 @@
 - [ ] Near long term resistance
 - [ ] Green candles going straight up intraday with no pullback
 - [ ] High float / High market cap
-- [ ] Resistance with high volume, at least >10M
+- [ ] esistance with high volume, at least >10M or with consistent resistance
 - [ ] Lower volume than previous resistance
 * Entry/Risk
 	* Divide the position size into parts, and add as it get's closer to the resistance
@@ -199,11 +199,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjM4ODIyLC03MDkxNTk0MTUsMTAyMz
-Q5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1
-NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLD
-g5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3
-NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OT
-EsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3
-OTUxMDVdfQ==
+eyJoaXN0b3J5IjpbMjA0ODQwOTA0MiwtNzA5MTU5NDE1LDEwMj
+M0OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4
+NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MC
+w4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1
+NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4Nz
+kxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOSwtODA2
+Nzk1MTA1XX0=
 -->

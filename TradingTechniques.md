@@ -20,7 +20,7 @@
 
 ## Premarket Breakout Pattern (9:30 - 11:30)
  - [ ] >100K premarket volume
- - [ ] 2M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
+ - [ ] 4M - 50M float and <50M market cap unless it's a biotech (biotech with <20M can run big)
  - [ ]  First green day
  - [ ]  20-50 percent gap up is ideal
  - [ ] Clean chart
@@ -190,11 +190,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA2NDgzMjMsLTIwNjE1Mjc3ODEsMT
-M2Nzk5MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0
-Nzg1LC0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5OD
-UsMTAwMDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0
-MTEyOSwtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0My
-wtOTQ0NzA1MDM2LC0xMTg1ODMwNjIwLC0xNzI1NDkwMzUwLC03
-ODk2NjU2NjddfQ==
+eyJoaXN0b3J5IjpbMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMz
+Y3OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3
+ODUsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NS
+wxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQx
+MTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMyMjExMDQzLC
+05NDQ3MDUwMzYsLTExODU4MzA2MjAsLTE3MjU0OTAzNTAsLTc4
+OTY2NTY2N119
 -->

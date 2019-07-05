@@ -102,6 +102,8 @@
 
 ## Parabolic Short
 - [ ] Near long term resistance
+- [ ] Green candles going up intraday
+- [ ] High float / High market cap
 - [ ] 
 
 ## Bounce Short
@@ -191,11 +193,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDAwODI5ODAsLTEzMzA0OTI2MDMsLT
-YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5
-OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NS
-wtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEw
-MDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04NzkxNDExMj
-ksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0
-NDcwNTAzNl19
+eyJoaXN0b3J5IjpbLTkyOTg5ODg3MywtMTMzMDQ5MjYwMywtNj
+I1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5
+MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC
+0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAw
+MDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOS
+wtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0
+NzA1MDM2XX0=
 -->

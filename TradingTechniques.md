@@ -107,11 +107,10 @@
 - [ ] Resistance with high volume, at least >10M
 - [ ] Lower volume than previous resistance
 * Entry/Risk
-	* Divid the position size into parts, and add as it get's closer to the resistance
+	* Divide the position size into parts, and add as it get's closer to the resistance
 	* Target profit is half the size of the spike
 	* If the stock shows strength around the resistance, it's very bearish as it can cause a short squeeze
-	* 
-	* 
+
 
 ## Bounce Short
 - [ ] Ran before(1yr to 6mth ago)
@@ -200,7 +199,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc5MDY1NzkzLC03MDkxNTk0MTUsMTAyMz
+eyJoaXN0b3J5IjpbMTI2MjM4ODIyLC03MDkxNTk0MTUsMTAyMz
 Q5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1
 NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLD
 g5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3

@@ -109,9 +109,11 @@
 * Entry/Risk
 	* Divide the position size into parts, and add as it get's closer to the resistance.
 		* Ensure the range to resistance is tight, otherwise the risk would be too big
-	* Better percentage in t
+	* Better percentage in the afternoon as day traders don't like holding overnight
 	* Target profit is half the size of the spike
 	* If the stock shows strength around the resistance, it's very bearish as it can cause a short squeeze
+
+## Bounce Short
 
 
 ## Bounce Short
@@ -201,7 +203,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAyMzkyLC03MDkxNTk0MTUsMTAyMz
+eyJoaXN0b3J5IjpbNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMz
 Q5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1
 NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLD
 g5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3

@@ -105,7 +105,8 @@
 - [ ] Green candles going up intraday
 - [ ] High float / High market cap
 - [ ] Resistance with high volume, at least >10M. Lower volume than previous resistance
-* Add 
+* Entry/Risk
+	* Divid the 
 
 ## Bounce Short
 - [ ] Ran before(1yr to 6mth ago)
@@ -194,11 +195,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNj
-I1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5
-MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC
-0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAw
-MDI4NzkxLC0yMTE0MDU3Miw0Njk4NDc1MzAsLTg3OTE0MTEyOS
-wtODA2Nzk1MTA1LDIxMzUzOTQwMTksLTYzMjIxMTA0MywtOTQ0
-NzA1MDM2XX0=
+eyJoaXN0b3J5IjpbMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMz
+MwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUy
+Nzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLT
+E1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3
+MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUzMC
+wtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMy
+MjExMDQzXX0=
 -->

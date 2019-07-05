@@ -101,7 +101,7 @@
 		* Use previous day's consolidation as support
 
 ## Parabolic Short
-- [ ] 
+- [ ] Short into long term resistance
 
 ## Bounce Short
 - [ ] Ran before(1yr to 6mth ago)
@@ -190,11 +190,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTUyODU1OCwxMTMzMDU1NjE1LC0yMD
-YxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5
-NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC
-0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3
-NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1Mzk0MDE5LC
-02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4NTgzMDYyMCwtMTcy
-NTQ5MDM1MF19
+eyJoaXN0b3J5IjpbLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMT
+MzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMy
+Mjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMS
+wtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjEx
+NDA1NzIsNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNS
+wyMTM1Mzk0MDE5LC02MzIyMTEwNDMsLTk0NDcwNTAzNiwtMTE4
+NTgzMDYyMF19
 -->

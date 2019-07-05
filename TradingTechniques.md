@@ -114,9 +114,6 @@
 	* If the stock shows strength around the resistance, it's very bearish as it can cause a short squeeze
 
 ## Bounce Short
-
-
-## Bounce Short
 - [ ] Ran before(1yr to 6mth ago)
 - [ ] 
 
@@ -203,11 +200,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMz
-Q5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1
-NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLD
-g5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3
-NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OT
-EsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3
-OTUxMDVdfQ==
+eyJoaXN0b3J5IjpbMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOT
+E1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2
+MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLD
+EzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3
+NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OT
+g1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04Nzkx
+NDExMjldfQ==
 -->

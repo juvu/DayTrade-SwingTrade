@@ -109,6 +109,7 @@
 * Entry/Risk
 	* Divid the position size into parts, and add as it get's closer to the resistance
 	* Target profit is half the size of the spike
+	* If the stock pulls back after breaking the resistance, it's dangerous as it may cause a short squeeze
 	* 
 
 ## Bounce Short
@@ -198,11 +199,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc5Nzc0MzUsLTcwOTE1OTQxNSwxMD
-IzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUy
-ODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNz
-AsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NSwtMTEx
-NTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAyOD
-c5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04NzkxNDExMjksLTgw
-Njc5NTEwNV19
+eyJoaXN0b3J5IjpbNDc1NjY3MzAyLC03MDkxNTk0MTUsMTAyMz
+Q5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1
+NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLD
+g5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3
+NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OT
+EsLTIxMTQwNTcyLDQ2OTg0NzUzMCwtODc5MTQxMTI5LC04MDY3
+OTUxMDVdfQ==
 -->

@@ -102,11 +102,12 @@
 
 ## Parabolic Short
 - [ ] Near long term resistance
-- [ ] Green candles going up intraday
+- [ ] Green candles going straight up intraday
 - [ ] High float / High market cap
 - [ ] Resistance with high volume, at least >10M. Lower volume than previous resistance
 * Entry/Risk
-	* Divid the 
+	* Divid the position size into parts, and add as it get's closer to the resistance
+	* 
 
 ## Bounce Short
 - [ ] Ran before(1yr to 6mth ago)
@@ -195,11 +196,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMz
-MwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUy
-Nzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLT
-E1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3
-MzY5Njk4NSwxMDAwMjg3OTEsLTIxMTQwNTcyLDQ2OTg0NzUzMC
-wtODc5MTQxMTI5LC04MDY3OTUxMDUsMjEzNTM5NDAxOSwtNjMy
-MjExMDQzXX0=
+eyJoaXN0b3J5IjpbLTcwOTE1OTQxNSwxMDIzNDk1NzQ1LDE0Nz
+IxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMTMzMDU1
+NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMyMjk1LD
+g5OTYzMjI5NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMSwtNzY1
+NDAzMjM5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1Nz
+IsNDY5ODQ3NTMwLC04NzkxNDExMjksLTgwNjc5NTEwNSwyMTM1
+Mzk0MDE5XX0=
 -->

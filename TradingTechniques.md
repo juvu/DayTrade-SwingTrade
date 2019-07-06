@@ -107,7 +107,7 @@
 - [ ] Individual resistance with high volume, with at least >10M, or with consistent resistance.
 - [ ] Lower volume than previous resistance
 * Entry/Risk
-	* Divide the position size into parts, and add as it get's closer to the resistance.
+	* Divide the position size into parts(i.e. 4 d), and add as it get's closer to the resistance.
 		* Ensure the range to resistance is tight, otherwise the risk would be too big
 	* Better percentage in the afternoon as day traders don't like holding overnight
 	* Target profit is half the size of the spike
@@ -200,7 +200,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNzEzMDU4NiwtMTc2MjA1NDE3NywxMD
+eyJoaXN0b3J5IjpbLTQ5NjI1MzMyMywtMTc2MjA1NDE3NywxMD
 QwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3
 NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NTU4LD
 ExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4OTk2

@@ -120,6 +120,7 @@
 - [ ] Add up the heavy resistance at the price point in the past few days
 * Entry/Risk
 	* Divide up the position size into 4 parts
+	* PosA = most consolidated area, PosB = Market open/Premarket, PosC = high over the past few days
 	* Add 1/4 position when price is at most consolidated area
 	* Add 1/4 position when the price is at half the distance between most consolidated area and the high for past days
 	* Add 2/4 position when it's at the high for the past few days
@@ -207,7 +208,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5Mjk0NDA4Niw5ODI3OTk0NjMsLTE3Nj
+eyJoaXN0b3J5IjpbMjEwMDM2MDE0Niw5ODI3OTk0NjMsLTE3Nj
 IwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQx
 NSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLT
 YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5

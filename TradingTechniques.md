@@ -153,7 +153,7 @@
 * Consistent volume is when volume is trading at 1-5M every day
 * Individual volume is when a stock's price spiked with increase in volume
 
-### Brokers
+## Brokers
 * Interactive Broker(min 10,000)
 	* Cheap Commissions
 	* Fast Execution
@@ -170,7 +170,7 @@
 	* Beyond Greed and Fear
 	* The Reminiscences of a Stock Operator
 
-### Resistance
+## Resistance
 * Consistant resistance
 	* Stock moving with consistent resistance
 	* Over 500k+
@@ -186,7 +186,7 @@
 		* 30M+  <= mid
 		* 40M+  <= big
 
-### Type of trades not to short
+## Type of trades not to short
 * Slow Grinding
 	* Hard to short since there's too many support along the way
 	* Prices go up slowly
@@ -200,11 +200,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOT
-E1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2
-MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLD
-EzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3
-NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OT
-g1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5ODQ3NTMwLC04Nzkx
-NDExMjldfQ==
+eyJoaXN0b3J5IjpbLTE3NjIwNTQxNzcsMTA0MDc4NDY4Niw2Nz
+c3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkw
+MDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC
+0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYz
+MjI5NSwtMTUyMDk3NDc4NSwtMTExNTc0NTQxMSwtNzY1NDAzMj
+M5LC0xMDczNjk2OTg1LDEwMDAyODc5MSwtMjExNDA1NzIsNDY5
+ODQ3NTMwXX0=
 -->

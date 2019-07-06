@@ -115,6 +115,7 @@
 
 ## Bounce Short
 - [ ] Ran before with similar resistance range(1yr to 6mth ago)
+- [ ] There are intraday spikes bouncing around
 - [ ] Stock is at intraday resistance(individual or the most consolidated area) from the past few days
 
 ## Getting Started
@@ -200,11 +201,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwND
-A3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0
-NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMT
-EzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYz
-MjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3NDU0MT
-EsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OTEsLTIx
-MTQwNTcyXX0=
+eyJoaXN0b3J5IjpbLTExODk2NDIxNzEsOTgyNzk5NDYzLC0xNz
+YyMDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0
+MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC
+02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3
+OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3OD
+UsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwx
+MDAwMjg3OTFdfQ==
 -->

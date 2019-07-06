@@ -107,7 +107,7 @@
 - [ ] Individual resistance with high volume, with at least >10M, or with consistent resistance.
 - [ ] Lower volume than previous resistance
 * Entry/Risk
-	* Divide the position size into parts(i.e. 4 d), and add as it get's closer to the resistance.
+	* Divide the position size into parts(i.e. 4 different parts), and add as it get's closer to the resistance.
 		* Ensure the range to resistance is tight, otherwise the risk would be too big
 	* Better percentage in the afternoon as day traders don't like holding overnight
 	* Target profit is half the size of the spike
@@ -115,7 +115,7 @@
 
 ## Bounce Short
 - [ ] Ran before with similar resistance range(1yr to 6mth ago)
-- [ ] 
+- [ ] Stock is at intraday resistance(individual or the most consolidated area) from the past few days
 
 ## Getting Started
 ### Info
@@ -200,11 +200,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NjI1MzMyMywtMTc2MjA1NDE3NywxMD
-QwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3
-NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NTU4LD
-ExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4OTk2
-MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1ND
-ExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAwMDI4NzkxLC0y
-MTE0MDU3Ml19
+eyJoaXN0b3J5IjpbOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwND
+A3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0
+NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMT
+EzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYz
+MjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3NDU0MT
+EsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwxMDAwMjg3OTEsLTIx
+MTQwNTcyXX0=
 -->

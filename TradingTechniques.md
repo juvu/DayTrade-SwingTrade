@@ -116,15 +116,16 @@
 ## Bounce Short
 - [ ] Ran before with similar resistance range(1yr to 6mth ago)
 - [ ] The price is bouncing around in the previous days
-- [ ] Stock went up a lot
+- [ ] Stock gapped up a lot
 - [ ] Add up the heavy resistance at the price point in the past few days
 - [ ] Heavy resistance(20M)
 - [ ] High Market cap and High float
 * Entry/Risk
 	* Divide up the position size into 4 parts
 	* PosA = most consolidated area, PosB = Market open/Premarket, PosC = high over the past few days
-	* 1/4 position at PosA/PosB
-	* 1/4 
+	* 1/4 position at PosA or PosB
+	* 1/4 position at (PosA + PosB) / 2
+	* 2/4 position at Pos
 
 ## Getting Started
 ### Info
@@ -209,11 +210,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTUxMDU4MTAsOTgyNzk5NDYzLC0xNz
-YyMDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0
-MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC
-02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3
-OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLTE1MjA5NzQ3OD
-UsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3MzY5Njk4NSwx
-MDAwMjg3OTFdfQ==
+eyJoaXN0b3J5IjpbMTQ2OTg3MTIzNiw5ODI3OTk0NjMsLTE3Nj
+IwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQx
+NSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLT
+YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5
+OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NS
+wtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEw
+MDAyODc5MV19
 -->

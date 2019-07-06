@@ -117,16 +117,16 @@
 - [ ] Ran before with similar resistance range(1yr to 6mth ago)
 - [ ] The price is bouncing around in the previous days
 - [ ] Stock gapped up a lot
-- [ ] Add up the heavy resistance at the price point in the past few days
-- [ ] Heavy resistance(20M)
+- [ ] Heavy resistance(20M), can be added t
 - [ ] High Market cap and High float
 * Entry/Risk
 	* Divide up the position size into 4 parts
 	* PosA = most consolidated area, PosB = Market open/Premarket, PosC = high over the past few days
 	* Add 1/4 position at PosA or PosB
 	* Add 1/4 position at midway to PosC
-	* Add2/4 position at PosC
-	* 
+	* Add 2/4 position at PosC
+	* Sell 1/2 at half the spike
+	* Leave the rest and sell towards end of day
 
 ## Getting Started
 ### Info
@@ -211,7 +211,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1Nzc0MDY1Myw5ODI3OTk0NjMsLTE3Nj
+eyJoaXN0b3J5IjpbMTEwNzQ4NTI0NCw5ODI3OTk0NjMsLTE3Nj
 IwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQx
 NSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLT
 YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5

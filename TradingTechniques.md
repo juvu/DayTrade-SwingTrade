@@ -121,8 +121,10 @@
 - [ ] High market cap and with high float
 * Entry/Risk
 	* Divide up the position size into 3 parts
-	* PosA = most consolidated area
-	* PosB = Market open/Premarket, PosC = high over the past few days
+	* Def:
+		* PosA = most consolidated area
+		* PosB = Market open/Premarket
+		* PosC = high over the past few days
 	* Add 1/4 position at PosA or PosB
 	* Add 1/4 position at midway to PosC
 	* Add 2/4 position at PosC
@@ -212,11 +214,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NTUxMDMsNDAxNTI1NTU1LDE4MjgwOD
-kwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYs
-Njc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMT
-Q5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYx
-NSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OT
-k2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLTc2NTQw
-MzIzOV19
+eyJoaXN0b3J5IjpbLTIwOTU0OTYyLDQwMTUyNTU1NSwxODI4MD
+g5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3NywxMDQwNzg0Njg2
+LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3Mj
+E0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NTU4LDExMzMwNTU2
+MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4OTk2MzIyOTUsOD
+k5NjMyMjk1LC0xNTIwOTc0Nzg1LC0xMTE1NzQ1NDExLC03NjU0
+MDMyMzldfQ==
 -->

@@ -133,11 +133,11 @@
 	* User previous days stock behaviour
 
 ## First Red Day
-* Stock has been going up for days
-* The previous day does not have to be red, but must 
-	* Failed morning spike
-	* Closed weak
-* 
+- [ ] Stock has been going up for days
+- [ ] The previous day does not have to be red, but must have
+	- [ ] Failed morning spike
+	- [ ] Closed weak
+- [ ] The price point from current price to half 
 
 ## Getting Started
 ### Info
@@ -222,11 +222,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4ODQwMDA2LDE0ODc2Nzk3MTgsLTk5Nj
-E2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1NTUsMTgyODA4OTA5
-Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMTA0MDc4NDY4Niw2Nz
-c3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkw
-MDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC
-0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYz
-MjI5NV19
+eyJoaXN0b3J5IjpbLTM5NzI3MTA2NywxNDg3Njc5NzE4LC05OT
+YxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4MjgwODkw
+OTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYsNj
+c3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5
+MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYxNS
+wtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OTk2
+MzIyOTVdfQ==
 -->

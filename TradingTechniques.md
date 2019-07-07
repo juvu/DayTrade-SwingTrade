@@ -134,6 +134,9 @@
 
 ## First Red Day
 * Stock has been going up for days
+* The previous day does not have to be red, but must 
+	* Failed morning spike
+	* Closed weak
 * 
 
 ## Getting Started
@@ -219,11 +222,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NzY3OTcxOCwtOTk2MTY5NjIwLC0xNT
-Q0NjY5NjgyLDQwMTUyNTU1NSwxODI4MDg5MDkzLDk4Mjc5OTQ2
-MywtMTc2MjA1NDE3NywxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNz
-A5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5
-MjYwMywtNjI1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3OD
-EsMTM2Nzk5MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIw
-OTc0Nzg1XX0=
+eyJoaXN0b3J5IjpbNDE4ODQwMDA2LDE0ODc2Nzk3MTgsLTk5Nj
+E2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1NTUsMTgyODA4OTA5
+Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMTA0MDc4NDY4Niw2Nz
+c3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkw
+MDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC
+0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5NjMyMjk1LDg5OTYz
+MjI5NV19
 -->

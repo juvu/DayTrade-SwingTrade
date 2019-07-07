@@ -117,7 +117,7 @@
 - [ ] Ran before with similar resistance range(1yr to 6mth ago)
 - [ ] The price is bouncing around in the previous days
 - [ ] Stock gapped up a lot
-- [ ] Heavy resistance(20M), can be added together
+- [ ] Heavy resistance(20M+), resistance in different times can be added together
 - [ ] High market cap and with high float
 * Entry/Risk
 	* Divide up the position size into 3 parts
@@ -211,11 +211,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3Nj
-IwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQx
-NSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLT
-YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5
-OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NS
-wtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEw
-MDAyODc5MV19
+eyJoaXN0b3J5IjpbNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNz
+k5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2
+LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMz
+MwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUy
+Nzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OTk2MzIyOTUsLT
+E1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLTc2NTQwMzIzOSwtMTA3
+MzY5Njk4NV19
 -->

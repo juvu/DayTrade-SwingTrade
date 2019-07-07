@@ -137,7 +137,7 @@
 - [ ] The previous day does not have to be red, but must have
 	- [ ] Failed morning spike
 	- [ ] Closed weak
-- [ ] The price point from current price to half 
+- [ ] There's still some room to go from current price point to half th
 
 ## Getting Started
 ### Info
@@ -222,7 +222,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NzI3MTA2NywxNDg3Njc5NzE4LC05OT
+eyJoaXN0b3J5IjpbMTcxMDE5MjEwNywxNDg3Njc5NzE4LC05OT
 YxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4MjgwODkw
 OTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYsNj
 c3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5

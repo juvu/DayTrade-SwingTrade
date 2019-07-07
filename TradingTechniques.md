@@ -130,6 +130,7 @@
 	* Add 2/4 position at PosC
 	* Sell 1/2 at half the spike
 	* Leave the rest and sell towards end of day
+	* User previous days stock behaviour
 
 ## Getting Started
 ### Info
@@ -214,11 +215,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4Mj
-gwODkwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2
-ODYsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxND
-cyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1
-NTYxNSwtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NS
-w4OTk2MzIyOTUsLTE1MjA5NzQ3ODUsLTExMTU3NDU0MTEsLTc2
-NTQwMzIzOV19
+eyJoaXN0b3J5IjpbLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MD
+E1MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQx
+NzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMD
+IzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUy
+ODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNz
+AsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NSwtMTEx
+NTc0NTQxMV19
 -->

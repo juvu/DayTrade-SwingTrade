@@ -120,7 +120,7 @@
 - [ ] Heavy resistance(20M), can be added together
 - [ ] High market cap and with high float
 * Entry/Risk
-	* Divide up the position size into 4 parts
+	* Divide up the position size into 3 parts
 	* PosA = most consolidated area, PosB = Market open/Premarket, PosC = high over the past few days
 	* Add 1/4 position at PosA or PosB
 	* Add 1/4 position at midway to PosC
@@ -211,11 +211,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNzc0NjI4LDk4Mjc5OTQ2MywtMTc2Mj
-A1NDE3NywxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1
-LDEwMjM0OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNj
-I1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5
-MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIwOTc0Nzg1LC
-0xMTE1NzQ1NDExLC03NjU0MDMyMzksLTEwNzM2OTY5ODUsMTAw
-MDI4NzkxXX0=
+eyJoaXN0b3J5IjpbMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3Nj
+IwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQx
+NSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLT
+YyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5
+OTIzNzAsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NS
+wtMTExNTc0NTQxMSwtNzY1NDAzMjM5LC0xMDczNjk2OTg1LDEw
+MDAyODc5MV19
 -->

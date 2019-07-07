@@ -139,8 +139,8 @@
 - [ ] The previous day does not have to be red, but must have
 	- [ ] Failed morning spike
 	- [ ] Closed weak
-- [ ] There's still some room to go from the current price point to half of the up amount
-- [ ] 
+- [ ] There's still some room to go from the current price point to half the up amount
+
 
 ## Getting Started
 ### Info
@@ -225,11 +225,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTE1MDc3NywxNDg3Njc5NzE4LC05OT
-YxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4MjgwODkw
-OTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYsNj
-c3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5
-MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMTEzMzA1NTYxNS
-wtMjA2MTUyNzc4MSwxMzY3OTkyMzcwLDg5OTYzMjI5NSw4OTk2
-MzIyOTVdfQ==
+eyJoaXN0b3J5IjpbLTE0NDI5NzU2NTMsMTQ4NzY3OTcxOCwtOT
+k2MTY5NjIwLC0xNTQ0NjY5NjgyLDQwMTUyNTU1NSwxODI4MDg5
+MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3NywxMDQwNzg0Njg2LD
+Y3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3MjE0
+OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NTU4LDExMzMwNTU2MT
+UsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4OTk2MzIyOTUsODk5
+NjMyMjk1XX0=
 -->

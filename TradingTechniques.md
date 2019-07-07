@@ -106,6 +106,7 @@
 - [ ] High float / High market cap
 - [ ] Individual resistance with high volume, with at least >10M, or with consistent resistance.
 - [ ] Lower volume than previous resistance
+- [ ] Tight range to resistance
 * Entry/Risk
 	* Divide the position size into parts(i.e. 4 different parts), and add as it get's closer to the resistance.
 		* Ensure the range to resistance is tight, otherwise the risk would be too big
@@ -119,6 +120,7 @@
 - [ ] Stock gapped up a lot
 - [ ] Heavy resistance(20M+), resistance in different times can be added together
 - [ ] High market cap and with high float
+- [ ] Tight range to the resistance
 * Entry/Risk
 	* Divide up the position size into 3 parts
 	* Def:
@@ -137,7 +139,8 @@
 - [ ] The previous day does not have to be red, but must have
 	- [ ] Failed morning spike
 	- [ ] Closed weak
-- [ ] There's still some room to go from current price point to half th
+- [ ] There's still some room to go from the current price point to half of the up amount
+- [ ] 
 
 ## Getting Started
 ### Info
@@ -222,7 +225,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMDE5MjEwNywxNDg3Njc5NzE4LC05OT
+eyJoaXN0b3J5IjpbMTUxNTE1MDc3NywxNDg3Njc5NzE4LC05OT
 YxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4MjgwODkw
 OTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2ODYsNj
 c3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5

@@ -132,6 +132,10 @@
 	* Leave the rest and sell towards end of day
 	* User previous days stock behaviour
 
+## First Red Day
+* Stock has been going up for days
+* 
+
 ## Getting Started
 ### Info
 |Capital|Market shares|
@@ -215,11 +219,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MD
-E1MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQx
-NzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMD
-IzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUy
-ODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNz
-AsODk5NjMyMjk1LDg5OTYzMjI5NSwtMTUyMDk3NDc4NSwtMTEx
-NTc0NTQxMV19
+eyJoaXN0b3J5IjpbMTQ4NzY3OTcxOCwtOTk2MTY5NjIwLC0xNT
+Q0NjY5NjgyLDQwMTUyNTU1NSwxODI4MDg5MDkzLDk4Mjc5OTQ2
+MywtMTc2MjA1NDE3NywxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNz
+A5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5
+MjYwMywtNjI1NTI4NTU4LDExMzMwNTU2MTUsLTIwNjE1Mjc3OD
+EsMTM2Nzk5MjM3MCw4OTk2MzIyOTUsODk5NjMyMjk1LC0xNTIw
+OTc0Nzg1XX0=
 -->

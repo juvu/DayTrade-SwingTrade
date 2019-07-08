@@ -141,7 +141,7 @@
 - [ ] There's still some room to go from the current price point to half the up amount
 * Entry/Risk
 	* 1/4 at close of FRD if the reward is good
-	* 1/4 at mid from previous close to major resistance
+	* 1/4 at mid from previous close to major resistance if there's strength
 	* 1/2 at major resistance
 	* Cover half of the morning spike
 
@@ -228,11 +228,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MzU0MTgzLC0xNDQyOTc1NjUzLDE0OD
-c2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1
-NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMT
-A0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1
-NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OC
-wxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5
-NjMyMjk1XX0=
+eyJoaXN0b3J5IjpbMjI5NjQxMjI5LC0yOTM1NDE4MywtMTQ0Mj
+k3NTY1MywxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2
+ODIsNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNz
+YyMDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0
+MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC
+02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3
+OTkyMzcwXX0=
 -->

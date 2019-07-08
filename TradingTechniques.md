@@ -142,7 +142,7 @@
 * Entry/Risk
 	* 1/4 at close of FRD if the reward is good
 	* 1/4 at mid from previous close to major resistance if there's strength
-	* 1/2 at major resistance
+	* 1/2 at major resistance if it spikes
 	* Cover half of the morning spike
 
 ## Getting Started
@@ -228,11 +228,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NjQxMjI5LC0yOTM1NDE4MywtMTQ0Mj
-k3NTY1MywxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2
-ODIsNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNz
-YyMDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0
-MTUsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC
-02MjU1Mjg1NTgsMTEzMzA1NTYxNSwtMjA2MTUyNzc4MSwxMzY3
-OTkyMzcwXX0=
+eyJoaXN0b3J5IjpbLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xND
+QyOTc1NjUzLDE0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2
+OTY4Miw0MDE1MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLT
+E3NjIwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1
+OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MD
+MsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEz
+Njc5OTIzNzBdfQ==
 -->

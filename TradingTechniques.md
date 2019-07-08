@@ -143,6 +143,7 @@
 	* 1/4 at close of FRD if the reward is good
 	* 1/4 at mid from previous close to major resistance
 	* 1/2 at major resistance
+	* Cover half of the morning spike
 
 ## Getting Started
 ### Info
@@ -227,7 +228,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU0MzA3OTk5LC0xNDQyOTc1NjUzLDE0OD
+eyJoaXN0b3J5IjpbLTI5MzU0MTgzLC0xNDQyOTc1NjUzLDE0OD
 c2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1
 NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMT
 A0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1

@@ -140,7 +140,7 @@
 - [ ] The previous day has closed weak
 - [ ] There's still some room to go from the current price point to half the up amount
 * Entry/Risk
-	* 1/4 at close of FRD if the gain 
+	* 1/4 at close of FRD if the reward is good
 	* 1/4 at mid from previous close to major resistance
 	* 1/2 at major resistance
 
@@ -227,7 +227,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE3NTcyMzI0LC0xNDQyOTc1NjUzLDE0OD
+eyJoaXN0b3J5IjpbMjU0MzA3OTk5LC0xNDQyOTc1NjUzLDE0OD
 c2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1
 NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMT
 A0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1

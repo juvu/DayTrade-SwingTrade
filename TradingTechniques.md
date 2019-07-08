@@ -152,6 +152,7 @@
 - [ ] Stock is over extended
 - [ ] 20M - 50M volume in the previous day
 * Entry/Risk
+	* Stock gapped down 5-10%, then buy 1/3 at market open, then short 1/3 to begin with. I
 	* If the stock did not gap down
 		* 1/3 market open, 1/3 midway to previous high, 1/3 in the previous high
 	* If the stock gapped down
@@ -241,11 +242,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwOTUxNzE5LDE0MzUwMjU4NjYsLTExND
-EzODg4MzQsLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xNDQyOTc1
-NjUzLDE0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Mi
-w0MDE1MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIw
-NTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNS
-wxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYy
-NTUyODU1OF19
+eyJoaXN0b3J5IjpbLTk3NjkyMDQwOCwxNDM1MDI1ODY2LC0xMT
+QxMzg4ODM0LC0xNzQ4ODAwMDk0LC0yOTM1NDE4MywtMTQ0Mjk3
+NTY1MywxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2OD
+IsNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNzYy
+MDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MT
+UsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02
+MjU1Mjg1NThdfQ==
 -->

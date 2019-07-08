@@ -166,7 +166,8 @@
 - [ ] Check if there's warrant(sec.com)
 
 ## Pump and Dump
-- [] 
+- [ ] Dip buy opportunity
+- [ ] 
 
 ## Getting Started
 ### Info
@@ -251,11 +252,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDY1MjQ2NCwxNTE2MjE3MzM4LC0zMT
-kzMDc5NCwtNjQ2NjEwMjczLDE0MzUwMjU4NjYsLTExNDEzODg4
-MzQsLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xNDQyOTc1NjUzLD
-E0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1
-MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNz
-csMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIz
-NDk1NzQ1XX0=
+eyJoaXN0b3J5IjpbODM3NzkzNDY3LDE1MTYyMTczMzgsLTMxOT
+MwNzk0LC02NDY2MTAyNzMsMTQzNTAyNTg2NiwtMTE0MTM4ODgz
+NCwtMTc0ODgwMDA5NCwtMjkzNTQxODMsLTE0NDI5NzU2NTMsMT
+Q4NzY3OTcxOCwtOTk2MTY5NjIwLC0xNTQ0NjY5NjgyLDQwMTUy
+NTU1NSwxODI4MDg5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3Ny
+wxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0
+OTU3NDVdfQ==
 -->

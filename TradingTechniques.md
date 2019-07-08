@@ -149,6 +149,8 @@
 
 ## Overextended gap down
 - [ ] Fresh volume
+- [ ] Use previous day's consolidating resistance with b
+- [ ] Sor
 - [ ] 
 
 ## Getting Started
@@ -234,11 +236,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTAyNTg2NiwtMTE0MTM4ODgzNCwtMT
-c0ODgwMDA5NCwtMjkzNTQxODMsLTE0NDI5NzU2NTMsMTQ4NzY3
-OTcxOCwtOTk2MTY5NjIwLC0xNTQ0NjY5NjgyLDQwMTUyNTU1NS
-wxODI4MDg5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3NywxMDQw
-Nzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3ND
-UsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NTU4LDEx
-MzMwNTU2MTVdfQ==
+eyJoaXN0b3J5IjpbMjAxOTQwNzU1MywxNDM1MDI1ODY2LC0xMT
+QxMzg4ODM0LC0xNzQ4ODAwMDk0LC0yOTM1NDE4MywtMTQ0Mjk3
+NTY1MywxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2OD
+IsNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNzYy
+MDU0MTc3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MT
+UsMTAyMzQ5NTc0NSwxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02
+MjU1Mjg1NThdfQ==
 -->

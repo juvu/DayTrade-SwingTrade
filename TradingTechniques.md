@@ -160,7 +160,7 @@
 		* Risk previous close or the day high
 
 ## Gap up short
-- [ ] Stock gapped up >70%
+- [ ] Stock gapped up >70%(or no long term resistance, only intraday then must be > 3--%)
 - [ ] Higher resistance in history
 - [ ]  Need consistent resistance + individual resistance
 - [ ] Check if there's warrant(sec.com)
@@ -248,11 +248,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzAxODE5NzcsLTMxOTMwNzk0LC02ND
-Y2MTAyNzMsMTQzNTAyNTg2NiwtMTE0MTM4ODgzNCwtMTc0ODgw
-MDA5NCwtMjkzNTQxODMsLTE0NDI5NzU2NTMsMTQ4NzY3OTcxOC
-wtOTk2MTY5NjIwLC0xNTQ0NjY5NjgyLDQwMTUyNTU1NSwxODI4
-MDg5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3NywxMDQwNzg0Nj
-g2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3
-MjE0OTAwOV19
+eyJoaXN0b3J5IjpbMTUxNjIxNzMzOCwtMzE5MzA3OTQsLTY0Nj
+YxMDI3MywxNDM1MDI1ODY2LC0xMTQxMzg4ODM0LC0xNzQ4ODAw
+MDk0LC0yOTM1NDE4MywtMTQ0Mjk3NTY1MywxNDg3Njc5NzE4LC
+05OTYxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4Mjgw
+ODkwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2OD
+YsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcy
+MTQ5MDA5XX0=
 -->

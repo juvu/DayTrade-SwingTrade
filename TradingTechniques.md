@@ -139,7 +139,8 @@
 - [ ] The previous day has failed morning spike
 - [ ] The previous day has closed weak
 - [ ] There's still some room to go from the current price point to half the up amount
-
+* Entry/Risk
+	* 
 
 ## Getting Started
 ### Info
@@ -224,11 +225,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4MzQzMjI1LC0xNDQyOTc1NjUzLDE0OD
-c2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1
-NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMT
-A0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1
-NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYyNTUyODU1OC
-wxMTMzMDU1NjE1LC0yMDYxNTI3NzgxLDEzNjc5OTIzNzAsODk5
-NjMyMjk1XX0=
+eyJoaXN0b3J5IjpbLTExNzY2MjA1ODEsLTE0NDI5NzU2NTMsMT
+Q4NzY3OTcxOCwtOTk2MTY5NjIwLC0xNTQ0NjY5NjgyLDQwMTUy
+NTU1NSwxODI4MDg5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1NDE3Ny
+wxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LDEwMjM0
+OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1NTI4NT
+U4LDExMzMwNTU2MTUsLTIwNjE1Mjc3ODEsMTM2Nzk5MjM3MCw4
+OTk2MzIyOTVdfQ==
 -->

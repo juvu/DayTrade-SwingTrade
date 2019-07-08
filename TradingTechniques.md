@@ -158,7 +158,11 @@
 		* 1/3 market open, 1/3 midway to previous high, 1/3 in the previous high
 	* If the stock gapped down
 		* Risk previous close or the day high
- 
+
+## Gap up short
+- [ ] Stock gapped up >70%
+- [ ] Higher resistance in history
+- [ ]  Need co
 
 ## Getting Started
 ### Info
@@ -243,11 +247,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTMwNzk0LC02NDY2MTAyNzMsMTQzNT
-AyNTg2NiwtMTE0MTM4ODgzNCwtMTc0ODgwMDA5NCwtMjkzNTQx
-ODMsLTE0NDI5NzU2NTMsMTQ4NzY3OTcxOCwtOTk2MTY5NjIwLC
-0xNTQ0NjY5NjgyLDQwMTUyNTU1NSwxODI4MDg5MDkzLDk4Mjc5
-OTQ2MywtMTc2MjA1NDE3NywxMDQwNzg0Njg2LDY3Nzc1NzExNi
-wtNzA5MTU5NDE1LDEwMjM0OTU3NDUsMTQ3MjE0OTAwOSwtMTMz
-MDQ5MjYwM119
+eyJoaXN0b3J5IjpbLTY2ODIwMjQ4OSwtMzE5MzA3OTQsLTY0Nj
+YxMDI3MywxNDM1MDI1ODY2LC0xMTQxMzg4ODM0LC0xNzQ4ODAw
+MDk0LC0yOTM1NDE4MywtMTQ0Mjk3NTY1MywxNDg3Njc5NzE4LC
+05OTYxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LDE4Mjgw
+ODkwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3ODQ2OD
+YsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NSwxNDcy
+MTQ5MDA5XX0=
 -->

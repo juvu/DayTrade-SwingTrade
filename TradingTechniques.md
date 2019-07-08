@@ -165,6 +165,9 @@
 - [ ]  Need consistent resistance + individual resistance
 - [ ] Check if there's warrant(sec.com)
 
+## Pump and Dump
+
+
 ## Getting Started
 ### Info
 |Capital|Market shares|
@@ -248,11 +251,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk5MDA4NzgsMTUxNjIxNzMzOCwtMz
-E5MzA3OTQsLTY0NjYxMDI3MywxNDM1MDI1ODY2LC0xMTQxMzg4
-ODM0LC0xNzQ4ODAwMDk0LC0yOTM1NDE4MywtMTQ0Mjk3NTY1My
-wxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2ODIsNDAx
-NTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MT
-c3LDEwNDA3ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAy
-MzQ5NTc0NV19
+eyJoaXN0b3J5IjpbMTQyODIxOTE5NywxNTE2MjE3MzM4LC0zMT
+kzMDc5NCwtNjQ2NjEwMjczLDE0MzUwMjU4NjYsLTExNDEzODg4
+MzQsLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xNDQyOTc1NjUzLD
+E0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1
+MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIwNTQxNz
+csMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNSwxMDIz
+NDk1NzQ1XX0=
 -->

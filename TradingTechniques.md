@@ -148,8 +148,9 @@
 	* Leave the rest to run until rest of the day risking the top of major resistance
 
 ## Overextended gap down
-- [ ] Fresh volume
-- [ ] Use previous day's consolidating resistance with big volume
+- [ ] Fresh volume(no resistance with as many volume)
+- [ ] Stock is over extended
+- [ ] Next day's price is 
  
 
 ## Getting Started
@@ -235,11 +236,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk5NDExNDY1LDE0MzUwMjU4NjYsLTExND
-EzODg4MzQsLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xNDQyOTc1
-NjUzLDE0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Mi
-w0MDE1MjU1NTUsMTgyODA4OTA5Myw5ODI3OTk0NjMsLTE3NjIw
-NTQxNzcsMTA0MDc4NDY4Niw2Nzc3NTcxMTYsLTcwOTE1OTQxNS
-wxMDIzNDk1NzQ1LDE0NzIxNDkwMDksLTEzMzA0OTI2MDMsLTYy
-NTUyODU1OF19
+eyJoaXN0b3J5IjpbNTAwNzk2MjgsMTQzNTAyNTg2NiwtMTE0MT
+M4ODgzNCwtMTc0ODgwMDA5NCwtMjkzNTQxODMsLTE0NDI5NzU2
+NTMsMTQ4NzY3OTcxOCwtOTk2MTY5NjIwLC0xNTQ0NjY5NjgyLD
+QwMTUyNTU1NSwxODI4MDg5MDkzLDk4Mjc5OTQ2MywtMTc2MjA1
+NDE3NywxMDQwNzg0Njg2LDY3Nzc1NzExNiwtNzA5MTU5NDE1LD
+EwMjM0OTU3NDUsMTQ3MjE0OTAwOSwtMTMzMDQ5MjYwMywtNjI1
+NTI4NTU4XX0=
 -->

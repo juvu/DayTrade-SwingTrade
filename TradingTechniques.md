@@ -142,7 +142,7 @@
 * Entry/Risk
 	* 1/4 at close of FRD if the reward is good
 	* If stock is weak in the FRD, short into strength the next day instead
-	* 1/4 at mid from previous close to major resistance if there's strength
+	* 1/4 at midway from previous close to major resistance if there's strength
 	* 1/2 at major resistance(most consolidation area) if it spikes
 	* Cover half of the morning spike or support
 	* Leave the rest to run until rest of the day risking the top of major resistance
@@ -234,11 +234,11 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDEzODg4MzQsLTE3NDg4MDAwOTQsLT
-I5MzU0MTgzLC0xNDQyOTc1NjUzLDE0ODc2Nzk3MTgsLTk5NjE2
-OTYyMCwtMTU0NDY2OTY4Miw0MDE1MjU1NTUsMTgyODA4OTA5My
-w5ODI3OTk0NjMsLTE3NjIwNTQxNzcsMTA0MDc4NDY4Niw2Nzc3
-NTcxMTYsLTcwOTE1OTQxNSwxMDIzNDk1NzQ1LDE0NzIxNDkwMD
-ksLTEzMzA0OTI2MDMsLTYyNTUyODU1OCwxMTMzMDU1NjE1LC0y
-MDYxNTI3NzgxXX0=
+eyJoaXN0b3J5IjpbOTQzODU3Nzk1LC0xMTQxMzg4ODM0LC0xNz
+Q4ODAwMDk0LC0yOTM1NDE4MywtMTQ0Mjk3NTY1MywxNDg3Njc5
+NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2ODIsNDAxNTI1NTU1LD
+E4MjgwODkwOTMsOTgyNzk5NDYzLC0xNzYyMDU0MTc3LDEwNDA3
+ODQ2ODYsNjc3NzU3MTE2LC03MDkxNTk0MTUsMTAyMzQ5NTc0NS
+wxNDcyMTQ5MDA5LC0xMzMwNDkyNjAzLC02MjU1Mjg1NTgsMTEz
+MzA1NTYxNV19
 -->

@@ -150,8 +150,9 @@
 ## Overextended gap down
 - [ ] Fresh volume(no resistance with as many volume)
 - [ ] Stock is over extended
+- [ ] 20M - 50M volume in the previous day
 * Entry/Risk
-* 
+	* If the stock did
  
 
 ## Getting Started
@@ -237,7 +238,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MTYyMTc1MSwxNDM1MDI1ODY2LC0xMT
+eyJoaXN0b3J5IjpbMTM2MTAwODUxOCwxNDM1MDI1ODY2LC0xMT
 QxMzg4ODM0LC0xNzQ4ODAwMDk0LC0yOTM1NDE4MywtMTQ0Mjk3
 NTY1MywxNDg3Njc5NzE4LC05OTYxNjk2MjAsLTE1NDQ2Njk2OD
 IsNDAxNTI1NTU1LDE4MjgwODkwOTMsOTgyNzk5NDYzLC0xNzYy

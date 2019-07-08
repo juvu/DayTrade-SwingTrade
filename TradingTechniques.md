@@ -166,7 +166,7 @@
 - [ ] Check if there's warrant(sec.com)
 
 ## Pump and Dump
-
+- [] 
 
 ## Getting Started
 ### Info
@@ -251,7 +251,7 @@
 	* When the stock is both bearish and bullish at the same time
 	* Volume getting lower
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODIxOTE5NywxNTE2MjE3MzM4LC0zMT
+eyJoaXN0b3J5IjpbLTk5NDY1MjQ2NCwxNTE2MjE3MzM4LC0zMT
 kzMDc5NCwtNjQ2NjEwMjczLDE0MzUwMjU4NjYsLTExNDEzODg4
 MzQsLTE3NDg4MDAwOTQsLTI5MzU0MTgzLC0xNDQyOTc1NjUzLD
 E0ODc2Nzk3MTgsLTk5NjE2OTYyMCwtMTU0NDY2OTY4Miw0MDE1
